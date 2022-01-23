@@ -1,15 +1,16 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Tết in Seattle Colorbook
+subtitle: Creative & Cultural
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: tis_colorbook.png
+thumbnail: tis_colorbook.png
 alt: image-alt
-project-date: April 2014
+project-date: January 2021
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+hyperlink: docs/tiscolorbook.pdf
 
 ---
