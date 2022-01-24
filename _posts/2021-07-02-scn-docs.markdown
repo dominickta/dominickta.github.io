@@ -1,9 +1,9 @@
 ---
 title: SCN Docs Website
-subtitle: Website Design
+subtitle: Engineering
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2021-07-02
 img: scndocs.png
 thumbnail: scndocs.png
 alt: image-alt
