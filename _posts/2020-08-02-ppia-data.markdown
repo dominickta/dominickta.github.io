@@ -2,7 +2,7 @@
 title: PPIA Segregation in Seattle
 subtitle: Engineering
 layout: default
-modal-id: 2
+modal-id: PPIASeattle
 date: 2020-08-02
 img: segregation.png
 thumbnail: segregation.png
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: August 2020
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:
 hyperlink: https://homes.cs.washington.edu/~domta/seattle-inequity.html
 
 ---

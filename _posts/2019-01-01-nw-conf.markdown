@@ -2,15 +2,15 @@
 title: KhSA NW Conference
 subtitle: Community Organizing
 layout: default
-modal-id: 5
-date: 2019-01-01
+modal-id: NWConf
+date: 2020-01-01
 img: nwconf.png
 thumbnail: nwconf.png
 alt: image-alt
-project-date: January 2019
+project-date: January 2020
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:
 hyperlink: https://fb.me/e/12MJwZd0N
 
 ---

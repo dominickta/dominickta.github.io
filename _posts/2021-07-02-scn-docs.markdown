@@ -2,7 +2,7 @@
 title: SCN Docs Website
 subtitle: Engineering
 layout: default
-modal-id: 1
+modal-id: SCNDocs
 date: 2021-07-02
 img: scndocs.png
 thumbnail: scndocs.png
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: July 2021
 client: Start Bootstrap
 category: Web Development
-description: Description here.
+description:
 hyperlink: https://docs.seattlecommunitynetwork.org/
 
 ---
