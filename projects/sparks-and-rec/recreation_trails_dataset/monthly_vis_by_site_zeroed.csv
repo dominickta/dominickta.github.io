@@ -1,0 +1,2502 @@
+siteid,Name,month,year,years_fire,pre_post_fire,burned,closed_ever,tot_vis,closed_month,d2p
+CRG_002,Oneonta Gorge,1,2015,-3,pre,yes,yes,169,open,2015-01-15
+CRG_002,Oneonta Gorge,1,2016,-2,pre,yes,yes,436,open,2016-01-15
+CRG_002,Oneonta Gorge,1,2017,-1,pre,yes,yes,788,open,2017-01-15
+CRG_002,Oneonta Gorge,1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_002,Oneonta Gorge,1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_002,Oneonta Gorge,2,2015,-3,pre,yes,yes,486,open,2015-02-15
+CRG_002,Oneonta Gorge,2,2016,-2,pre,yes,yes,769,open,2016-02-15
+CRG_002,Oneonta Gorge,2,2017,-1,pre,yes,yes,545,open,2017-02-15
+CRG_002,Oneonta Gorge,2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_002,Oneonta Gorge,2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_002,Oneonta Gorge,3,2015,-3,pre,yes,yes,563,open,2015-03-15
+CRG_002,Oneonta Gorge,3,2016,-2,pre,yes,yes,1801,open,2016-03-15
+CRG_002,Oneonta Gorge,3,2017,-1,pre,yes,yes,1786,open,2017-03-15
+CRG_002,Oneonta Gorge,3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_002,Oneonta Gorge,3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_002,Oneonta Gorge,4,2015,-3,pre,yes,yes,1705,open,2015-04-15
+CRG_002,Oneonta Gorge,4,2016,-2,pre,yes,yes,2847,open,2016-04-15
+CRG_002,Oneonta Gorge,4,2017,-1,pre,yes,yes,3417,open,2017-04-15
+CRG_002,Oneonta Gorge,4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_002,Oneonta Gorge,4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_002,Oneonta Gorge,5,2015,-3,pre,yes,yes,3340,open,2015-05-15
+CRG_002,Oneonta Gorge,5,2016,-2,pre,yes,yes,4111,open,2016-05-15
+CRG_002,Oneonta Gorge,5,2017,-1,pre,yes,yes,7629,open,2017-05-15
+CRG_002,Oneonta Gorge,5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_002,Oneonta Gorge,5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_002,Oneonta Gorge,6,2015,-3,pre,yes,yes,5585,open,2015-06-15
+CRG_002,Oneonta Gorge,6,2016,-2,pre,yes,yes,9567,open,2016-06-15
+CRG_002,Oneonta Gorge,6,2017,-1,pre,yes,yes,18949,open,2017-06-15
+CRG_002,Oneonta Gorge,6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_002,Oneonta Gorge,6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_002,Oneonta Gorge,7,2015,-3,pre,yes,yes,8825,open,2015-07-15
+CRG_002,Oneonta Gorge,7,2016,-2,pre,yes,yes,15316,open,2016-07-15
+CRG_002,Oneonta Gorge,7,2017,-1,pre,yes,yes,18616,open,2017-07-15
+CRG_002,Oneonta Gorge,7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_002,Oneonta Gorge,7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_002,Oneonta Gorge,8,2015,-3,pre,yes,yes,4555,open,2015-08-15
+CRG_002,Oneonta Gorge,8,2016,-2,pre,yes,yes,20346,open,2016-08-15
+CRG_002,Oneonta Gorge,8,2017,-1,pre,yes,yes,20321,open,2017-08-15
+CRG_002,Oneonta Gorge,8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_002,Oneonta Gorge,8,2019,1,post,yes,yes,0,closed,2019-08-15
+CRG_002,Oneonta Gorge,9,2014,-3,pre,yes,yes,1586,open,2014-09-15
+CRG_002,Oneonta Gorge,9,2015,-2,pre,yes,yes,3948,open,2015-09-15
+CRG_002,Oneonta Gorge,9,2016,-2,pre,yes,yes,3423,open,2016-09-15
+CRG_002,Oneonta Gorge,9,2016,-1,pre,yes,yes,7177,open,2016-09-15
+CRG_002,Oneonta Gorge,9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_002,Oneonta Gorge,9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_002,Oneonta Gorge,10,2014,-3,pre,yes,yes,566,open,2014-10-15
+CRG_002,Oneonta Gorge,10,2015,-2,pre,yes,yes,1857,open,2015-10-15
+CRG_002,Oneonta Gorge,10,2016,-1,pre,yes,yes,2084,open,2016-10-15
+CRG_002,Oneonta Gorge,10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_002,Oneonta Gorge,10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_002,Oneonta Gorge,11,2014,-3,pre,yes,yes,143,open,2014-11-15
+CRG_002,Oneonta Gorge,11,2015,-2,pre,yes,yes,624,open,2015-11-15
+CRG_002,Oneonta Gorge,11,2016,-1,pre,yes,yes,1759,open,2016-11-15
+CRG_002,Oneonta Gorge,11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_002,Oneonta Gorge,11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_002,Oneonta Gorge,12,2014,-3,pre,yes,yes,112,open,2014-12-15
+CRG_002,Oneonta Gorge,12,2015,-2,pre,yes,yes,317,open,2015-12-15
+CRG_002,Oneonta Gorge,12,2016,-1,pre,yes,yes,837,open,2016-12-15
+CRG_002,Oneonta Gorge,12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_002,Oneonta Gorge,12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_004,Horsetail Creek,1,2015,-3,pre,yes,yes,35,open,2015-01-15
+CRG_004,Horsetail Creek,1,2016,-2,pre,yes,yes,23,open,2016-01-15
+CRG_004,Horsetail Creek,1,2017,-1,pre,yes,yes,35,open,2017-01-15
+CRG_004,Horsetail Creek,1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_004,Horsetail Creek,1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_004,Horsetail Creek,2,2015,-3,pre,yes,yes,77,open,2015-02-15
+CRG_004,Horsetail Creek,2,2016,-2,pre,yes,yes,69,open,2016-02-15
+CRG_004,Horsetail Creek,2,2017,-1,pre,yes,yes,62,open,2017-02-15
+CRG_004,Horsetail Creek,2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_004,Horsetail Creek,2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_004,Horsetail Creek,3,2015,-3,pre,yes,yes,78,open,2015-03-15
+CRG_004,Horsetail Creek,3,2016,-2,pre,yes,yes,108,open,2016-03-15
+CRG_004,Horsetail Creek,3,2017,-1,pre,yes,yes,111,open,2017-03-15
+CRG_004,Horsetail Creek,3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_004,Horsetail Creek,3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_004,Horsetail Creek,4,2015,-3,pre,yes,yes,164,open,2015-04-15
+CRG_004,Horsetail Creek,4,2016,-2,pre,yes,yes,180,open,2016-04-15
+CRG_004,Horsetail Creek,4,2017,-1,pre,yes,yes,223,open,2017-04-15
+CRG_004,Horsetail Creek,4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_004,Horsetail Creek,4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_004,Horsetail Creek,5,2015,-3,pre,yes,yes,126,open,2015-05-15
+CRG_004,Horsetail Creek,5,2016,-2,pre,yes,yes,436,open,2016-05-15
+CRG_004,Horsetail Creek,5,2017,-1,pre,yes,yes,346,open,2017-05-15
+CRG_004,Horsetail Creek,5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_004,Horsetail Creek,5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_004,Horsetail Creek,6,2015,-3,pre,yes,yes,359,open,2015-06-15
+CRG_004,Horsetail Creek,6,2016,-2,pre,yes,yes,368,open,2016-06-15
+CRG_004,Horsetail Creek,6,2017,-1,pre,yes,yes,449,open,2017-06-15
+CRG_004,Horsetail Creek,6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_004,Horsetail Creek,6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_004,Horsetail Creek,7,2015,-3,pre,yes,yes,375,open,2015-07-15
+CRG_004,Horsetail Creek,7,2016,-2,pre,yes,yes,293,open,2016-07-15
+CRG_004,Horsetail Creek,7,2017,-1,pre,yes,yes,262,open,2017-07-15
+CRG_004,Horsetail Creek,7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_004,Horsetail Creek,7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_004,Horsetail Creek,8,2015,-3,pre,yes,yes,212,open,2015-08-15
+CRG_004,Horsetail Creek,8,2016,-2,pre,yes,yes,301,open,2016-08-15
+CRG_004,Horsetail Creek,8,2017,-1,pre,yes,yes,149,open,2017-08-15
+CRG_004,Horsetail Creek,8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_004,Horsetail Creek,8,2019,1,post,yes,yes,0,closed,2019-08-15
+CRG_004,Horsetail Creek,9,2014,-3,pre,yes,yes,95,open,2014-09-15
+CRG_004,Horsetail Creek,9,2015,-2,pre,yes,yes,154,open,2015-09-15
+CRG_004,Horsetail Creek,9,2016,-2,pre,yes,yes,73,open,2016-09-15
+CRG_004,Horsetail Creek,9,2016,-1,pre,yes,yes,188,open,2016-09-15
+CRG_004,Horsetail Creek,9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_004,Horsetail Creek,9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_004,Horsetail Creek,10,2014,-3,pre,yes,yes,65,open,2014-10-15
+CRG_004,Horsetail Creek,10,2015,-2,pre,yes,yes,180,open,2015-10-15
+CRG_004,Horsetail Creek,10,2016,-1,pre,yes,yes,69,open,2016-10-15
+CRG_004,Horsetail Creek,10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_004,Horsetail Creek,10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_004,Horsetail Creek,11,2014,-3,pre,yes,yes,36,open,2014-11-15
+CRG_004,Horsetail Creek,11,2015,-2,pre,yes,yes,67,open,2015-11-15
+CRG_004,Horsetail Creek,11,2016,-1,pre,yes,yes,71,open,2016-11-15
+CRG_004,Horsetail Creek,11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_004,Horsetail Creek,11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_004,Horsetail Creek,12,2014,-3,pre,yes,yes,19,open,2014-12-15
+CRG_004,Horsetail Creek,12,2015,-2,pre,yes,yes,28,open,2015-12-15
+CRG_004,Horsetail Creek,12,2016,-1,pre,yes,yes,42,open,2016-12-15
+CRG_004,Horsetail Creek,12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_004,Horsetail Creek,12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",1,2015,-3,pre,yes,yes,274,open,2015-01-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",1,2016,-2,pre,yes,yes,280,open,2016-01-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",1,2017,-1,pre,yes,yes,421,open,2017-01-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",2,2015,-3,pre,yes,yes,437,open,2015-02-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",2,2016,-2,pre,yes,yes,486,open,2016-02-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",2,2017,-1,pre,yes,yes,445,open,2017-02-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",3,2015,-3,pre,yes,yes,615,open,2015-03-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",3,2016,-2,pre,yes,yes,1342,open,2016-03-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",3,2017,-1,pre,yes,yes,1179,open,2017-03-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",4,2015,-3,pre,yes,yes,1010,open,2015-04-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",4,2016,-2,pre,yes,yes,2242,open,2016-04-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",4,2017,-1,pre,yes,yes,1263,open,2017-04-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",5,2015,-3,pre,yes,yes,1220,open,2015-05-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",5,2016,-2,pre,yes,yes,3709,open,2016-05-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",5,2017,-1,pre,yes,yes,3001,open,2017-05-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",6,2015,-3,pre,yes,yes,1122,open,2015-06-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",6,2016,-2,pre,yes,yes,3932,open,2016-06-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",6,2017,-1,pre,yes,yes,5002,open,2017-06-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",7,2015,-3,pre,yes,yes,1482,open,2015-07-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",7,2016,-2,pre,yes,yes,3865,open,2016-07-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",7,2017,-1,pre,yes,yes,4271,open,2017-07-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",8,2015,-3,pre,yes,yes,1157,open,2015-08-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",8,2016,-2,pre,yes,yes,2887,open,2016-08-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",8,2017,-1,pre,yes,yes,3636,open,2017-08-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",8,2019,1,post,yes,yes,0,closed,2019-08-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",9,2014,-3,pre,yes,yes,451,open,2014-09-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",9,2015,-2,pre,yes,yes,980,open,2015-09-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",9,2016,-2,pre,yes,yes,648,open,2016-09-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",9,2016,-1,pre,yes,yes,1636,open,2016-09-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",10,2014,-3,pre,yes,yes,334,open,2014-10-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",10,2015,-2,pre,yes,yes,802,open,2015-10-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",10,2016,-1,pre,yes,yes,685,open,2016-10-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",11,2014,-3,pre,yes,yes,135,open,2014-11-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",11,2015,-2,pre,yes,yes,349,open,2015-11-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",11,2016,-1,pre,yes,yes,737,open,2016-11-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",12,2014,-3,pre,yes,yes,118,open,2014-12-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",12,2015,-2,pre,yes,yes,243,open,2015-12-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",12,2016,-1,pre,yes,yes,584,open,2016-12-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_005,"Nesmith Point, McCord, Elowa Falls",12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_006,Munra Falls,1,2015,-3,pre,yes,yes,404,open,2015-01-15
+CRG_006,Munra Falls,1,2016,-2,pre,yes,yes,543,open,2016-01-15
+CRG_006,Munra Falls,1,2017,-1,pre,yes,yes,895,open,2017-01-15
+CRG_006,Munra Falls,1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_006,Munra Falls,1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_006,Munra Falls,2,2015,-3,pre,yes,yes,681,open,2015-02-15
+CRG_006,Munra Falls,2,2016,-2,pre,yes,yes,1199,open,2016-02-15
+CRG_006,Munra Falls,2,2017,-1,pre,yes,yes,744,open,2017-02-15
+CRG_006,Munra Falls,2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_006,Munra Falls,2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_006,Munra Falls,3,2015,-3,pre,yes,yes,801,open,2015-03-15
+CRG_006,Munra Falls,3,2016,-2,pre,yes,yes,2627,open,2016-03-15
+CRG_006,Munra Falls,3,2017,-1,pre,yes,yes,3205,open,2017-03-15
+CRG_006,Munra Falls,3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_006,Munra Falls,3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_006,Munra Falls,4,2015,-3,pre,yes,yes,2013,open,2015-04-15
+CRG_006,Munra Falls,4,2016,-2,pre,yes,yes,4689,open,2016-04-15
+CRG_006,Munra Falls,4,2017,-1,pre,yes,yes,3663,open,2017-04-15
+CRG_006,Munra Falls,4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_006,Munra Falls,4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_006,Munra Falls,5,2015,-3,pre,yes,yes,2315,open,2015-05-15
+CRG_006,Munra Falls,5,2016,-2,pre,yes,yes,9127,open,2016-05-15
+CRG_006,Munra Falls,5,2017,-1,pre,yes,yes,10160,open,2017-05-15
+CRG_006,Munra Falls,5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_006,Munra Falls,5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_006,Munra Falls,6,2015,-3,pre,yes,yes,2973,open,2015-06-15
+CRG_006,Munra Falls,6,2016,-2,pre,yes,yes,11409,open,2016-06-15
+CRG_006,Munra Falls,6,2017,-1,pre,yes,yes,11048,open,2017-06-15
+CRG_006,Munra Falls,6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_006,Munra Falls,6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_006,Munra Falls,7,2015,-3,pre,yes,yes,4881,open,2015-07-15
+CRG_006,Munra Falls,7,2016,-2,pre,yes,yes,9488,open,2016-07-15
+CRG_006,Munra Falls,7,2017,-1,pre,yes,yes,13085,open,2017-07-15
+CRG_006,Munra Falls,7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_006,Munra Falls,7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_006,Munra Falls,8,2015,-3,pre,yes,yes,3791,open,2015-08-15
+CRG_006,Munra Falls,8,2016,-2,pre,yes,yes,8313,open,2016-08-15
+CRG_006,Munra Falls,8,2017,-1,pre,yes,yes,8472,open,2017-08-15
+CRG_006,Munra Falls,8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_006,Munra Falls,8,2019,1,post,yes,yes,2271,closed,2019-08-15
+CRG_006,Munra Falls,9,2014,-3,pre,yes,yes,709,open,2014-09-15
+CRG_006,Munra Falls,9,2015,-2,pre,yes,yes,2124,open,2015-09-15
+CRG_006,Munra Falls,9,2016,-2,pre,yes,yes,2444,open,2016-09-15
+CRG_006,Munra Falls,9,2016,-1,pre,yes,yes,4473,open,2016-09-15
+CRG_006,Munra Falls,9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_006,Munra Falls,9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_006,Munra Falls,10,2014,-3,pre,yes,yes,457,open,2014-10-15
+CRG_006,Munra Falls,10,2015,-2,pre,yes,yes,1672,open,2015-10-15
+CRG_006,Munra Falls,10,2016,-1,pre,yes,yes,1562,open,2016-10-15
+CRG_006,Munra Falls,10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_006,Munra Falls,10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_006,Munra Falls,11,2014,-3,pre,yes,yes,265,open,2014-11-15
+CRG_006,Munra Falls,11,2015,-2,pre,yes,yes,759,open,2015-11-15
+CRG_006,Munra Falls,11,2016,-1,pre,yes,yes,1654,open,2016-11-15
+CRG_006,Munra Falls,11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_006,Munra Falls,11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_006,Munra Falls,12,2014,-3,pre,yes,yes,165,open,2014-12-15
+CRG_006,Munra Falls,12,2015,-2,pre,yes,yes,642,open,2015-12-15
+CRG_006,Munra Falls,12,2016,-1,pre,yes,yes,873,open,2016-12-15
+CRG_006,Munra Falls,12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_006,Munra Falls,12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_007,Tanner Butte,1,2015,-3,pre,yes,yes,32,open,2015-01-15
+CRG_007,Tanner Butte,1,2016,-2,pre,yes,yes,20,open,2016-01-15
+CRG_007,Tanner Butte,1,2017,-1,pre,yes,yes,32,open,2017-01-15
+CRG_007,Tanner Butte,1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_007,Tanner Butte,1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_007,Tanner Butte,2,2015,-3,pre,yes,yes,47,open,2015-02-15
+CRG_007,Tanner Butte,2,2016,-2,pre,yes,yes,51,open,2016-02-15
+CRG_007,Tanner Butte,2,2017,-1,pre,yes,yes,26,open,2017-02-15
+CRG_007,Tanner Butte,2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_007,Tanner Butte,2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_007,Tanner Butte,3,2015,-3,pre,yes,yes,50,open,2015-03-15
+CRG_007,Tanner Butte,3,2016,-2,pre,yes,yes,87,open,2016-03-15
+CRG_007,Tanner Butte,3,2017,-1,pre,yes,yes,63,open,2017-03-15
+CRG_007,Tanner Butte,3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_007,Tanner Butte,3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_007,Tanner Butte,4,2015,-3,pre,yes,yes,151,open,2015-04-15
+CRG_007,Tanner Butte,4,2016,-2,pre,yes,yes,226,open,2016-04-15
+CRG_007,Tanner Butte,4,2017,-1,pre,yes,yes,103,open,2017-04-15
+CRG_007,Tanner Butte,4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_007,Tanner Butte,4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_007,Tanner Butte,5,2015,-3,pre,yes,yes,176,open,2015-05-15
+CRG_007,Tanner Butte,5,2016,-2,pre,yes,yes,165,open,2016-05-15
+CRG_007,Tanner Butte,5,2017,-1,pre,yes,yes,211,open,2017-05-15
+CRG_007,Tanner Butte,5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_007,Tanner Butte,5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_007,Tanner Butte,6,2015,-3,pre,yes,yes,153,open,2015-06-15
+CRG_007,Tanner Butte,6,2016,-2,pre,yes,yes,341,open,2016-06-15
+CRG_007,Tanner Butte,6,2017,-1,pre,yes,yes,342,open,2017-06-15
+CRG_007,Tanner Butte,6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_007,Tanner Butte,6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_007,Tanner Butte,7,2015,-3,pre,yes,yes,385,open,2015-07-15
+CRG_007,Tanner Butte,7,2016,-2,pre,yes,yes,316,open,2016-07-15
+CRG_007,Tanner Butte,7,2017,-1,pre,yes,yes,157,open,2017-07-15
+CRG_007,Tanner Butte,7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_007,Tanner Butte,7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_007,Tanner Butte,8,2015,-3,pre,yes,yes,182,open,2015-08-15
+CRG_007,Tanner Butte,8,2016,-2,pre,yes,yes,422,open,2016-08-15
+CRG_007,Tanner Butte,8,2017,-1,pre,yes,yes,119,open,2017-08-15
+CRG_007,Tanner Butte,8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_007,Tanner Butte,8,2019,1,post,yes,yes,0,closed,2019-08-15
+CRG_007,Tanner Butte,9,2014,-3,pre,yes,yes,108,open,2014-09-15
+CRG_007,Tanner Butte,9,2015,-2,pre,yes,yes,160,open,2015-09-15
+CRG_007,Tanner Butte,9,2016,-2,pre,yes,yes,59,open,2016-09-15
+CRG_007,Tanner Butte,9,2016,-1,pre,yes,yes,145,open,2016-09-15
+CRG_007,Tanner Butte,9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_007,Tanner Butte,9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_007,Tanner Butte,10,2014,-3,pre,yes,yes,80,open,2014-10-15
+CRG_007,Tanner Butte,10,2015,-2,pre,yes,yes,98,open,2015-10-15
+CRG_007,Tanner Butte,10,2016,-1,pre,yes,yes,79,open,2016-10-15
+CRG_007,Tanner Butte,10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_007,Tanner Butte,10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_007,Tanner Butte,11,2014,-3,pre,yes,yes,36,open,2014-11-15
+CRG_007,Tanner Butte,11,2015,-2,pre,yes,yes,68,open,2015-11-15
+CRG_007,Tanner Butte,11,2016,-1,pre,yes,yes,90,open,2016-11-15
+CRG_007,Tanner Butte,11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_007,Tanner Butte,11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_007,Tanner Butte,12,2014,-3,pre,yes,yes,19,open,2014-12-15
+CRG_007,Tanner Butte,12,2015,-2,pre,yes,yes,27,open,2015-12-15
+CRG_007,Tanner Butte,12,2016,-1,pre,yes,yes,36,open,2016-12-15
+CRG_007,Tanner Butte,12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_007,Tanner Butte,12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_008,Eagle Creek,1,2015,-3,pre,yes,yes,375,open,2015-01-15
+CRG_008,Eagle Creek,1,2016,-2,pre,yes,yes,467,open,2016-01-15
+CRG_008,Eagle Creek,1,2017,-1,pre,yes,yes,406,open,2017-01-15
+CRG_008,Eagle Creek,1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_008,Eagle Creek,1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_008,Eagle Creek,2,2015,-3,pre,yes,yes,1050,open,2015-02-15
+CRG_008,Eagle Creek,2,2016,-2,pre,yes,yes,991,open,2016-02-15
+CRG_008,Eagle Creek,2,2017,-1,pre,yes,yes,387,open,2017-02-15
+CRG_008,Eagle Creek,2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_008,Eagle Creek,2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_008,Eagle Creek,3,2015,-3,pre,yes,yes,1021,open,2015-03-15
+CRG_008,Eagle Creek,3,2016,-2,pre,yes,yes,2169,open,2016-03-15
+CRG_008,Eagle Creek,3,2017,-1,pre,yes,yes,1923,open,2017-03-15
+CRG_008,Eagle Creek,3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_008,Eagle Creek,3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_008,Eagle Creek,4,2015,-3,pre,yes,yes,2670,open,2015-04-15
+CRG_008,Eagle Creek,4,2016,-2,pre,yes,yes,4594,open,2016-04-15
+CRG_008,Eagle Creek,4,2017,-1,pre,yes,yes,3907,open,2017-04-15
+CRG_008,Eagle Creek,4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_008,Eagle Creek,4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_008,Eagle Creek,5,2015,-3,pre,yes,yes,3866,open,2015-05-15
+CRG_008,Eagle Creek,5,2016,-2,pre,yes,yes,8366,open,2016-05-15
+CRG_008,Eagle Creek,5,2017,-1,pre,yes,yes,7325,open,2017-05-15
+CRG_008,Eagle Creek,5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_008,Eagle Creek,5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_008,Eagle Creek,6,2015,-3,pre,yes,yes,5223,open,2015-06-15
+CRG_008,Eagle Creek,6,2016,-2,pre,yes,yes,9457,open,2016-06-15
+CRG_008,Eagle Creek,6,2017,-1,pre,yes,yes,10239,open,2017-06-15
+CRG_008,Eagle Creek,6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_008,Eagle Creek,6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_008,Eagle Creek,7,2015,-3,pre,yes,yes,7403,open,2015-07-15
+CRG_008,Eagle Creek,7,2016,-2,pre,yes,yes,8735,open,2016-07-15
+CRG_008,Eagle Creek,7,2017,-1,pre,yes,yes,7105,open,2017-07-15
+CRG_008,Eagle Creek,7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_008,Eagle Creek,7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_008,Eagle Creek,8,2015,-3,pre,yes,yes,4533,open,2015-08-15
+CRG_008,Eagle Creek,8,2016,-2,pre,yes,yes,10146,open,2016-08-15
+CRG_008,Eagle Creek,8,2017,-1,pre,yes,yes,6014,open,2017-08-15
+CRG_008,Eagle Creek,8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_008,Eagle Creek,8,2019,1,post,yes,yes,0,closed,2019-08-15
+CRG_008,Eagle Creek,9,2014,-3,pre,yes,yes,802,open,2014-09-15
+CRG_008,Eagle Creek,9,2015,-2,pre,yes,yes,4406,open,2015-09-15
+CRG_008,Eagle Creek,9,2016,-2,pre,yes,yes,1392,open,2016-09-15
+CRG_008,Eagle Creek,9,2016,-1,pre,yes,yes,3989,open,2016-09-15
+CRG_008,Eagle Creek,9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_008,Eagle Creek,9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_008,Eagle Creek,10,2014,-3,pre,yes,yes,448,open,2014-10-15
+CRG_008,Eagle Creek,10,2015,-2,pre,yes,yes,1992,open,2015-10-15
+CRG_008,Eagle Creek,10,2016,-1,pre,yes,yes,1185,open,2016-10-15
+CRG_008,Eagle Creek,10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_008,Eagle Creek,10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_008,Eagle Creek,11,2014,-3,pre,yes,yes,391,open,2014-11-15
+CRG_008,Eagle Creek,11,2015,-2,pre,yes,yes,845,open,2015-11-15
+CRG_008,Eagle Creek,11,2016,-1,pre,yes,yes,1212,open,2016-11-15
+CRG_008,Eagle Creek,11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_008,Eagle Creek,11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_008,Eagle Creek,12,2014,-3,pre,yes,yes,161,open,2014-12-15
+CRG_008,Eagle Creek,12,2015,-2,pre,yes,yes,447,open,2015-12-15
+CRG_008,Eagle Creek,12,2016,-1,pre,yes,yes,617,open,2016-12-15
+CRG_008,Eagle Creek,12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_008,Eagle Creek,12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_009,Indian Springs,1,2015,-3,pre,yes,yes,33,open,2015-01-15
+CRG_009,Indian Springs,1,2016,-2,pre,yes,yes,19,open,2016-01-15
+CRG_009,Indian Springs,1,2017,-1,pre,yes,yes,29,open,2017-01-15
+CRG_009,Indian Springs,1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_009,Indian Springs,1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_009,Indian Springs,2,2015,-3,pre,yes,yes,50,open,2015-02-15
+CRG_009,Indian Springs,2,2016,-2,pre,yes,yes,33,open,2016-02-15
+CRG_009,Indian Springs,2,2017,-1,pre,yes,yes,30,open,2017-02-15
+CRG_009,Indian Springs,2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_009,Indian Springs,2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_009,Indian Springs,3,2015,-3,pre,yes,yes,58,open,2015-03-15
+CRG_009,Indian Springs,3,2016,-2,pre,yes,yes,72,open,2016-03-15
+CRG_009,Indian Springs,3,2017,-1,pre,yes,yes,60,open,2017-03-15
+CRG_009,Indian Springs,3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_009,Indian Springs,3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_009,Indian Springs,4,2015,-3,pre,yes,yes,120,open,2015-04-15
+CRG_009,Indian Springs,4,2016,-2,pre,yes,yes,113,open,2016-04-15
+CRG_009,Indian Springs,4,2017,-1,pre,yes,yes,101,open,2017-04-15
+CRG_009,Indian Springs,4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_009,Indian Springs,4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_009,Indian Springs,5,2015,-3,pre,yes,yes,149,open,2015-05-15
+CRG_009,Indian Springs,5,2016,-2,pre,yes,yes,154,open,2016-05-15
+CRG_009,Indian Springs,5,2017,-1,pre,yes,yes,182,open,2017-05-15
+CRG_009,Indian Springs,5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_009,Indian Springs,5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_009,Indian Springs,6,2015,-3,pre,yes,yes,169,open,2015-06-15
+CRG_009,Indian Springs,6,2016,-2,pre,yes,yes,193,open,2016-06-15
+CRG_009,Indian Springs,6,2017,-1,pre,yes,yes,275,open,2017-06-15
+CRG_009,Indian Springs,6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_009,Indian Springs,6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_009,Indian Springs,7,2015,-3,pre,yes,yes,223,open,2015-07-15
+CRG_009,Indian Springs,7,2016,-2,pre,yes,yes,160,open,2016-07-15
+CRG_009,Indian Springs,7,2017,-1,pre,yes,yes,228,open,2017-07-15
+CRG_009,Indian Springs,7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_009,Indian Springs,7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_009,Indian Springs,8,2015,-3,pre,yes,yes,133,open,2015-08-15
+CRG_009,Indian Springs,8,2016,-2,pre,yes,yes,163,open,2016-08-15
+CRG_009,Indian Springs,8,2017,-1,pre,yes,yes,181,open,2017-08-15
+CRG_009,Indian Springs,8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_009,Indian Springs,8,2019,1,post,yes,yes,0,closed,2019-08-15
+CRG_009,Indian Springs,9,2014,-3,pre,yes,yes,109,open,2014-09-15
+CRG_009,Indian Springs,9,2015,-2,pre,yes,yes,123,open,2015-09-15
+CRG_009,Indian Springs,9,2016,-2,pre,yes,yes,42,open,2016-09-15
+CRG_009,Indian Springs,9,2016,-1,pre,yes,yes,110,open,2016-09-15
+CRG_009,Indian Springs,9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_009,Indian Springs,9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_009,Indian Springs,10,2014,-3,pre,yes,yes,68,open,2014-10-15
+CRG_009,Indian Springs,10,2015,-2,pre,yes,yes,85,open,2015-10-15
+CRG_009,Indian Springs,10,2016,-1,pre,yes,yes,47,open,2016-10-15
+CRG_009,Indian Springs,10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_009,Indian Springs,10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_009,Indian Springs,11,2014,-3,pre,yes,yes,39,open,2014-11-15
+CRG_009,Indian Springs,11,2015,-2,pre,yes,yes,41,open,2015-11-15
+CRG_009,Indian Springs,11,2016,-1,pre,yes,yes,40,open,2016-11-15
+CRG_009,Indian Springs,11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_009,Indian Springs,11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_009,Indian Springs,12,2014,-3,pre,yes,yes,20,open,2014-12-15
+CRG_009,Indian Springs,12,2015,-2,pre,yes,yes,24,open,2015-12-15
+CRG_009,Indian Springs,12,2016,-1,pre,yes,yes,31,open,2016-12-15
+CRG_009,Indian Springs,12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_009,Indian Springs,12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_010,Ruckel Creek,1,2015,-3,pre,yes,yes,34,open,2015-01-15
+CRG_010,Ruckel Creek,1,2016,-2,pre,yes,yes,43,open,2016-01-15
+CRG_010,Ruckel Creek,1,2017,-1,pre,yes,yes,28,open,2017-01-15
+CRG_010,Ruckel Creek,1,2018,0,post,yes,yes,0,closed,2018-01-15
+CRG_010,Ruckel Creek,1,2019,1,post,yes,yes,0,closed,2019-01-15
+CRG_010,Ruckel Creek,2,2015,-3,pre,yes,yes,69,open,2015-02-15
+CRG_010,Ruckel Creek,2,2016,-2,pre,yes,yes,73,open,2016-02-15
+CRG_010,Ruckel Creek,2,2017,-1,pre,yes,yes,26,open,2017-02-15
+CRG_010,Ruckel Creek,2,2018,0,post,yes,yes,0,closed,2018-02-15
+CRG_010,Ruckel Creek,2,2019,1,post,yes,yes,0,closed,2019-02-15
+CRG_010,Ruckel Creek,3,2015,-3,pre,yes,yes,83,open,2015-03-15
+CRG_010,Ruckel Creek,3,2016,-2,pre,yes,yes,157,open,2016-03-15
+CRG_010,Ruckel Creek,3,2017,-1,pre,yes,yes,69,open,2017-03-15
+CRG_010,Ruckel Creek,3,2018,0,post,yes,yes,0,closed,2018-03-15
+CRG_010,Ruckel Creek,3,2019,1,post,yes,yes,0,closed,2019-03-15
+CRG_010,Ruckel Creek,4,2015,-3,pre,yes,yes,220,open,2015-04-15
+CRG_010,Ruckel Creek,4,2016,-2,pre,yes,yes,249,open,2016-04-15
+CRG_010,Ruckel Creek,4,2017,-1,pre,yes,yes,205,open,2017-04-15
+CRG_010,Ruckel Creek,4,2018,0,post,yes,yes,0,closed,2018-04-15
+CRG_010,Ruckel Creek,4,2019,1,post,yes,yes,0,closed,2019-04-15
+CRG_010,Ruckel Creek,5,2015,-3,pre,yes,yes,257,open,2015-05-15
+CRG_010,Ruckel Creek,5,2016,-2,pre,yes,yes,295,open,2016-05-15
+CRG_010,Ruckel Creek,5,2017,-1,pre,yes,yes,459,open,2017-05-15
+CRG_010,Ruckel Creek,5,2018,0,post,yes,yes,0,closed,2018-05-15
+CRG_010,Ruckel Creek,5,2019,1,post,yes,yes,0,closed,2019-05-15
+CRG_010,Ruckel Creek,6,2015,-3,pre,yes,yes,160,open,2015-06-15
+CRG_010,Ruckel Creek,6,2016,-2,pre,yes,yes,240,open,2016-06-15
+CRG_010,Ruckel Creek,6,2017,-1,pre,yes,yes,694,open,2017-06-15
+CRG_010,Ruckel Creek,6,2018,0,post,yes,yes,0,closed,2018-06-15
+CRG_010,Ruckel Creek,6,2019,1,post,yes,yes,0,closed,2019-06-15
+CRG_010,Ruckel Creek,7,2015,-3,pre,yes,yes,280,open,2015-07-15
+CRG_010,Ruckel Creek,7,2016,-2,pre,yes,yes,281,open,2016-07-15
+CRG_010,Ruckel Creek,7,2017,-1,pre,yes,yes,455,open,2017-07-15
+CRG_010,Ruckel Creek,7,2018,0,post,yes,yes,0,closed,2018-07-15
+CRG_010,Ruckel Creek,7,2019,1,post,yes,yes,0,closed,2019-07-15
+CRG_010,Ruckel Creek,8,2015,-3,pre,yes,yes,260,open,2015-08-15
+CRG_010,Ruckel Creek,8,2016,-2,pre,yes,yes,274,open,2016-08-15
+CRG_010,Ruckel Creek,8,2017,-1,pre,yes,yes,225,open,2017-08-15
+CRG_010,Ruckel Creek,8,2018,0,post,yes,yes,0,closed,2018-08-15
+CRG_010,Ruckel Creek,8,2019,1,post,yes,yes,0,closed,2019-08-15
+CRG_010,Ruckel Creek,9,2014,-3,pre,yes,yes,141,open,2014-09-15
+CRG_010,Ruckel Creek,9,2015,-2,pre,yes,yes,176,open,2015-09-15
+CRG_010,Ruckel Creek,9,2016,-2,pre,yes,yes,98,open,2016-09-15
+CRG_010,Ruckel Creek,9,2016,-1,pre,yes,yes,160,open,2016-09-15
+CRG_010,Ruckel Creek,9,2017,0,post,yes,yes,0,closed,2017-09-15
+CRG_010,Ruckel Creek,9,2018,1,post,yes,yes,0,closed,2018-09-15
+CRG_010,Ruckel Creek,10,2014,-3,pre,yes,yes,65,open,2014-10-15
+CRG_010,Ruckel Creek,10,2015,-2,pre,yes,yes,203,open,2015-10-15
+CRG_010,Ruckel Creek,10,2016,-1,pre,yes,yes,79,open,2016-10-15
+CRG_010,Ruckel Creek,10,2017,0,post,yes,yes,0,closed,2017-10-15
+CRG_010,Ruckel Creek,10,2018,1,post,yes,yes,0,closed,2018-10-15
+CRG_010,Ruckel Creek,11,2014,-3,pre,yes,yes,50,open,2014-11-15
+CRG_010,Ruckel Creek,11,2015,-2,pre,yes,yes,63,open,2015-11-15
+CRG_010,Ruckel Creek,11,2016,-1,pre,yes,yes,52,open,2016-11-15
+CRG_010,Ruckel Creek,11,2017,0,post,yes,yes,0,closed,2017-11-15
+CRG_010,Ruckel Creek,11,2018,1,post,yes,yes,0,closed,2018-11-15
+CRG_010,Ruckel Creek,12,2014,-3,pre,yes,yes,19,open,2014-12-15
+CRG_010,Ruckel Creek,12,2015,-2,pre,yes,yes,54,open,2015-12-15
+CRG_010,Ruckel Creek,12,2016,-1,pre,yes,yes,29,open,2016-12-15
+CRG_010,Ruckel Creek,12,2017,0,post,yes,yes,0,closed,2017-12-15
+CRG_010,Ruckel Creek,12,2018,1,post,yes,yes,0,closed,2018-12-15
+CRG_011,Coyote Wall area,1,2015,-3,pre,no,no,86,open,2015-01-15
+CRG_011,Coyote Wall area,1,2016,-2,pre,no,no,64,open,2016-01-15
+CRG_011,Coyote Wall area,1,2017,-1,pre,no,no,65,open,2017-01-15
+CRG_011,Coyote Wall area,1,2018,0,post,no,no,27,open,2018-01-15
+CRG_011,Coyote Wall area,1,2019,1,post,no,no,506,open,2019-01-15
+CRG_011,Coyote Wall area,2,2015,-3,pre,no,no,298,open,2015-02-15
+CRG_011,Coyote Wall area,2,2016,-2,pre,no,no,144,open,2016-02-15
+CRG_011,Coyote Wall area,2,2017,-1,pre,no,no,53,open,2017-02-15
+CRG_011,Coyote Wall area,2,2018,0,post,no,no,281,open,2018-02-15
+CRG_011,Coyote Wall area,2,2019,1,post,no,no,304,open,2019-02-15
+CRG_011,Coyote Wall area,3,2015,-3,pre,no,no,314,open,2015-03-15
+CRG_011,Coyote Wall area,3,2016,-2,pre,no,no,668,open,2016-03-15
+CRG_011,Coyote Wall area,3,2017,-1,pre,no,no,408,open,2017-03-15
+CRG_011,Coyote Wall area,3,2018,0,post,no,no,113,open,2018-03-15
+CRG_011,Coyote Wall area,3,2019,1,post,no,no,1584,open,2019-03-15
+CRG_011,Coyote Wall area,4,2015,-3,pre,no,no,699,open,2015-04-15
+CRG_011,Coyote Wall area,4,2016,-2,pre,no,no,927,open,2016-04-15
+CRG_011,Coyote Wall area,4,2017,-1,pre,no,no,487,open,2017-04-15
+CRG_011,Coyote Wall area,4,2018,0,post,no,no,121,open,2018-04-15
+CRG_011,Coyote Wall area,4,2019,1,post,no,no,2574,open,2019-04-15
+CRG_011,Coyote Wall area,5,2015,-3,pre,no,no,321,open,2015-05-15
+CRG_011,Coyote Wall area,5,2016,-2,pre,no,no,571,open,2016-05-15
+CRG_011,Coyote Wall area,5,2017,-1,pre,no,no,868,open,2017-05-15
+CRG_011,Coyote Wall area,5,2018,0,post,no,no,285,open,2018-05-15
+CRG_011,Coyote Wall area,5,2019,1,post,no,no,5679,open,2019-05-15
+CRG_011,Coyote Wall area,6,2015,-3,pre,no,no,195,open,2015-06-15
+CRG_011,Coyote Wall area,6,2016,-2,pre,no,no,392,open,2016-06-15
+CRG_011,Coyote Wall area,6,2017,-1,pre,no,no,671,open,2017-06-15
+CRG_011,Coyote Wall area,6,2018,0,post,no,no,190,open,2018-06-15
+CRG_011,Coyote Wall area,6,2019,1,post,no,no,1758,open,2019-06-15
+CRG_011,Coyote Wall area,7,2015,-3,pre,no,no,227,open,2015-07-15
+CRG_011,Coyote Wall area,7,2016,-2,pre,no,no,549,open,2016-07-15
+CRG_011,Coyote Wall area,7,2017,-1,pre,no,no,373,open,2017-07-15
+CRG_011,Coyote Wall area,7,2018,0,post,no,no,1336,open,2018-07-15
+CRG_011,Coyote Wall area,7,2019,1,post,no,no,1633,open,2019-07-15
+CRG_011,Coyote Wall area,8,2015,-3,pre,no,no,191,open,2015-08-15
+CRG_011,Coyote Wall area,8,2016,-2,pre,no,no,437,open,2016-08-15
+CRG_011,Coyote Wall area,8,2017,-1,pre,no,no,288,open,2017-08-15
+CRG_011,Coyote Wall area,8,2018,0,post,no,no,1941,open,2018-08-15
+CRG_011,Coyote Wall area,8,2019,1,post,no,no,1417,open,2019-08-15
+CRG_011,Coyote Wall area,9,2014,-3,pre,no,no,164,open,2014-09-15
+CRG_011,Coyote Wall area,9,2015,-2,pre,no,no,194,open,2015-09-15
+CRG_011,Coyote Wall area,9,2016,-2,pre,no,no,119,open,2016-09-15
+CRG_011,Coyote Wall area,9,2016,-1,pre,no,no,281,open,2016-09-15
+CRG_011,Coyote Wall area,9,2017,0,post,no,no,144,open,2017-09-15
+CRG_011,Coyote Wall area,9,2018,1,post,no,no,919,open,2018-09-15
+CRG_011,Coyote Wall area,10,2014,-3,pre,no,no,88,open,2014-10-15
+CRG_011,Coyote Wall area,10,2015,-2,pre,no,no,145,open,2015-10-15
+CRG_011,Coyote Wall area,10,2016,-1,pre,no,no,305,open,2016-10-15
+CRG_011,Coyote Wall area,10,2017,0,post,no,no,114,open,2017-10-15
+CRG_011,Coyote Wall area,10,2018,1,post,no,no,869,open,2018-10-15
+CRG_011,Coyote Wall area,11,2014,-3,pre,no,no,50,open,2014-11-15
+CRG_011,Coyote Wall area,11,2015,-2,pre,no,no,127,open,2015-11-15
+CRG_011,Coyote Wall area,11,2016,-1,pre,no,no,387,open,2016-11-15
+CRG_011,Coyote Wall area,11,2017,0,post,no,no,45,open,2017-11-15
+CRG_011,Coyote Wall area,11,2018,1,post,no,no,852,open,2018-11-15
+CRG_011,Coyote Wall area,12,2014,-3,pre,no,no,43,open,2014-12-15
+CRG_011,Coyote Wall area,12,2015,-2,pre,no,no,50,open,2015-12-15
+CRG_011,Coyote Wall area,12,2016,-1,pre,no,no,111,open,2016-12-15
+CRG_011,Coyote Wall area,12,2017,0,post,no,no,31,open,2017-12-15
+CRG_011,Coyote Wall area,12,2018,1,post,no,no,251,open,2018-12-15
+CRG_012,Catherine Creek area,1,2015,-3,pre,no,no,55,open,2015-01-15
+CRG_012,Catherine Creek area,1,2016,-2,pre,no,no,74,open,2016-01-15
+CRG_012,Catherine Creek area,1,2017,-1,pre,no,no,50,open,2017-01-15
+CRG_012,Catherine Creek area,1,2018,0,post,no,no,27,open,2018-01-15
+CRG_012,Catherine Creek area,1,2019,1,post,no,no,37,open,2019-01-15
+CRG_012,Catherine Creek area,2,2015,-3,pre,no,no,253,open,2015-02-15
+CRG_012,Catherine Creek area,2,2016,-2,pre,no,no,172,open,2016-02-15
+CRG_012,Catherine Creek area,2,2017,-1,pre,no,no,105,open,2017-02-15
+CRG_012,Catherine Creek area,2,2018,0,post,no,no,70,open,2018-02-15
+CRG_012,Catherine Creek area,2,2019,1,post,no,no,36,open,2019-02-15
+CRG_012,Catherine Creek area,3,2015,-3,pre,no,no,217,open,2015-03-15
+CRG_012,Catherine Creek area,3,2016,-2,pre,no,no,815,open,2016-03-15
+CRG_012,Catherine Creek area,3,2017,-1,pre,no,no,619,open,2017-03-15
+CRG_012,Catherine Creek area,3,2018,0,post,no,no,99,open,2018-03-15
+CRG_012,Catherine Creek area,3,2019,1,post,no,no,241,open,2019-03-15
+CRG_012,Catherine Creek area,4,2015,-3,pre,no,no,739,open,2015-04-15
+CRG_012,Catherine Creek area,4,2016,-2,pre,no,no,1100,open,2016-04-15
+CRG_012,Catherine Creek area,4,2017,-1,pre,no,no,517,open,2017-04-15
+CRG_012,Catherine Creek area,4,2018,0,post,no,no,213,open,2018-04-15
+CRG_012,Catherine Creek area,4,2019,1,post,no,no,290,open,2019-04-15
+CRG_012,Catherine Creek area,5,2015,-3,pre,no,no,458,open,2015-05-15
+CRG_012,Catherine Creek area,5,2016,-2,pre,no,no,1032,open,2016-05-15
+CRG_012,Catherine Creek area,5,2017,-1,pre,no,no,149,open,2017-05-15
+CRG_012,Catherine Creek area,5,2018,0,post,no,no,407,open,2018-05-15
+CRG_012,Catherine Creek area,5,2019,1,post,no,no,329,open,2019-05-15
+CRG_012,Catherine Creek area,6,2015,-3,pre,no,no,174,open,2015-06-15
+CRG_012,Catherine Creek area,6,2016,-2,pre,no,no,572,open,2016-06-15
+CRG_012,Catherine Creek area,6,2017,-1,pre,no,no,189,open,2017-06-15
+CRG_012,Catherine Creek area,6,2018,0,post,no,no,214,open,2018-06-15
+CRG_012,Catherine Creek area,6,2019,1,post,no,no,394,open,2019-06-15
+CRG_012,Catherine Creek area,7,2015,-3,pre,no,no,206,open,2015-07-15
+CRG_012,Catherine Creek area,7,2016,-2,pre,no,no,315,open,2016-07-15
+CRG_012,Catherine Creek area,7,2017,-1,pre,no,no,139,open,2017-07-15
+CRG_012,Catherine Creek area,7,2018,0,post,no,no,158,open,2018-07-15
+CRG_012,Catherine Creek area,7,2019,1,post,no,no,307,open,2019-07-15
+CRG_012,Catherine Creek area,8,2015,-3,pre,no,no,204,open,2015-08-15
+CRG_012,Catherine Creek area,8,2016,-2,pre,no,no,277,open,2016-08-15
+CRG_012,Catherine Creek area,8,2017,-1,pre,no,no,123,open,2017-08-15
+CRG_012,Catherine Creek area,8,2018,0,post,no,no,200,open,2018-08-15
+CRG_012,Catherine Creek area,8,2019,1,post,no,no,317,open,2019-08-15
+CRG_012,Catherine Creek area,9,2014,-3,pre,no,no,139,open,2014-09-15
+CRG_012,Catherine Creek area,9,2015,-2,pre,no,no,195,open,2015-09-15
+CRG_012,Catherine Creek area,9,2016,-2,pre,no,no,44,open,2016-09-15
+CRG_012,Catherine Creek area,9,2016,-1,pre,no,no,199,open,2016-09-15
+CRG_012,Catherine Creek area,9,2017,0,post,no,no,95,open,2017-09-15
+CRG_012,Catherine Creek area,9,2018,1,post,no,no,88,open,2018-09-15
+CRG_012,Catherine Creek area,10,2014,-3,pre,no,no,65,open,2014-10-15
+CRG_012,Catherine Creek area,10,2015,-2,pre,no,no,139,open,2015-10-15
+CRG_012,Catherine Creek area,10,2016,-1,pre,no,no,120,open,2016-10-15
+CRG_012,Catherine Creek area,10,2017,0,post,no,no,84,open,2017-10-15
+CRG_012,Catherine Creek area,10,2018,1,post,no,no,78,open,2018-10-15
+CRG_012,Catherine Creek area,11,2014,-3,pre,no,no,68,open,2014-11-15
+CRG_012,Catherine Creek area,11,2015,-2,pre,no,no,85,open,2015-11-15
+CRG_012,Catherine Creek area,11,2016,-1,pre,no,no,137,open,2016-11-15
+CRG_012,Catherine Creek area,11,2017,0,post,no,no,51,open,2017-11-15
+CRG_012,Catherine Creek area,11,2018,1,post,no,no,67,open,2018-11-15
+CRG_012,Catherine Creek area,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_012,Catherine Creek area,12,2015,-2,pre,no,no,48,open,2015-12-15
+CRG_012,Catherine Creek area,12,2016,-1,pre,no,no,94,open,2016-12-15
+CRG_012,Catherine Creek area,12,2017,0,post,no,no,28,open,2017-12-15
+CRG_012,Catherine Creek area,12,2018,1,post,no,no,24,open,2018-12-15
+CRG_013,Cherry Orchard FCG trail,1,2015,-3,pre,no,no,28,open,2015-01-15
+CRG_013,Cherry Orchard FCG trail,1,2016,-2,pre,no,no,17,open,2016-01-15
+CRG_013,Cherry Orchard FCG trail,1,2017,-1,pre,no,no,28,open,2017-01-15
+CRG_013,Cherry Orchard FCG trail,1,2018,0,post,no,no,19,open,2018-01-15
+CRG_013,Cherry Orchard FCG trail,1,2019,1,post,no,no,54,open,2019-01-15
+CRG_013,Cherry Orchard FCG trail,2,2015,-3,pre,no,no,44,open,2015-02-15
+CRG_013,Cherry Orchard FCG trail,2,2016,-2,pre,no,no,29,open,2016-02-15
+CRG_013,Cherry Orchard FCG trail,2,2017,-1,pre,no,no,26,open,2017-02-15
+CRG_013,Cherry Orchard FCG trail,2,2018,0,post,no,no,36,open,2018-02-15
+CRG_013,Cherry Orchard FCG trail,2,2019,1,post,no,no,48,open,2019-02-15
+CRG_013,Cherry Orchard FCG trail,3,2015,-3,pre,no,no,48,open,2015-03-15
+CRG_013,Cherry Orchard FCG trail,3,2016,-2,pre,no,no,60,open,2016-03-15
+CRG_013,Cherry Orchard FCG trail,3,2017,-1,pre,no,no,51,open,2017-03-15
+CRG_013,Cherry Orchard FCG trail,3,2018,0,post,no,no,88,open,2018-03-15
+CRG_013,Cherry Orchard FCG trail,3,2019,1,post,no,no,159,open,2019-03-15
+CRG_013,Cherry Orchard FCG trail,4,2015,-3,pre,no,no,102,open,2015-04-15
+CRG_013,Cherry Orchard FCG trail,4,2016,-2,pre,no,no,85,open,2016-04-15
+CRG_013,Cherry Orchard FCG trail,4,2017,-1,pre,no,no,86,open,2017-04-15
+CRG_013,Cherry Orchard FCG trail,4,2018,0,post,no,no,208,open,2018-04-15
+CRG_013,Cherry Orchard FCG trail,4,2019,1,post,no,no,419,open,2019-04-15
+CRG_013,Cherry Orchard FCG trail,5,2015,-3,pre,no,no,111,open,2015-05-15
+CRG_013,Cherry Orchard FCG trail,5,2016,-2,pre,no,no,115,open,2016-05-15
+CRG_013,Cherry Orchard FCG trail,5,2017,-1,pre,no,no,106,open,2017-05-15
+CRG_013,Cherry Orchard FCG trail,5,2018,0,post,no,no,393,open,2018-05-15
+CRG_013,Cherry Orchard FCG trail,5,2019,1,post,no,no,523,open,2019-05-15
+CRG_013,Cherry Orchard FCG trail,6,2015,-3,pre,no,no,127,open,2015-06-15
+CRG_013,Cherry Orchard FCG trail,6,2016,-2,pre,no,no,140,open,2016-06-15
+CRG_013,Cherry Orchard FCG trail,6,2017,-1,pre,no,no,168,open,2017-06-15
+CRG_013,Cherry Orchard FCG trail,6,2018,0,post,no,no,235,open,2018-06-15
+CRG_013,Cherry Orchard FCG trail,6,2019,1,post,no,no,260,open,2019-06-15
+CRG_013,Cherry Orchard FCG trail,7,2015,-3,pre,no,no,171,open,2015-07-15
+CRG_013,Cherry Orchard FCG trail,7,2016,-2,pre,no,no,122,open,2016-07-15
+CRG_013,Cherry Orchard FCG trail,7,2017,-1,pre,no,no,153,open,2017-07-15
+CRG_013,Cherry Orchard FCG trail,7,2018,0,post,no,no,209,open,2018-07-15
+CRG_013,Cherry Orchard FCG trail,7,2019,1,post,no,no,209,open,2019-07-15
+CRG_013,Cherry Orchard FCG trail,8,2015,-3,pre,no,no,108,open,2015-08-15
+CRG_013,Cherry Orchard FCG trail,8,2016,-2,pre,no,no,130,open,2016-08-15
+CRG_013,Cherry Orchard FCG trail,8,2017,-1,pre,no,no,123,open,2017-08-15
+CRG_013,Cherry Orchard FCG trail,8,2018,0,post,no,no,204,open,2018-08-15
+CRG_013,Cherry Orchard FCG trail,8,2019,1,post,no,no,221,open,2019-08-15
+CRG_013,Cherry Orchard FCG trail,9,2014,-3,pre,no,no,95,open,2014-09-15
+CRG_013,Cherry Orchard FCG trail,9,2015,-2,pre,no,no,94,open,2015-09-15
+CRG_013,Cherry Orchard FCG trail,9,2016,-2,pre,no,no,27,open,2016-09-15
+CRG_013,Cherry Orchard FCG trail,9,2016,-1,pre,no,no,88,open,2016-09-15
+CRG_013,Cherry Orchard FCG trail,9,2017,0,post,no,no,79,open,2017-09-15
+CRG_013,Cherry Orchard FCG trail,9,2018,1,post,no,no,106,open,2018-09-15
+CRG_013,Cherry Orchard FCG trail,10,2014,-3,pre,no,no,65,open,2014-10-15
+CRG_013,Cherry Orchard FCG trail,10,2015,-2,pre,no,no,84,open,2015-10-15
+CRG_013,Cherry Orchard FCG trail,10,2016,-1,pre,no,no,38,open,2016-10-15
+CRG_013,Cherry Orchard FCG trail,10,2017,0,post,no,no,61,open,2017-10-15
+CRG_013,Cherry Orchard FCG trail,10,2018,1,post,no,no,77,open,2018-10-15
+CRG_013,Cherry Orchard FCG trail,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_013,Cherry Orchard FCG trail,11,2015,-2,pre,no,no,34,open,2015-11-15
+CRG_013,Cherry Orchard FCG trail,11,2016,-1,pre,no,no,37,open,2016-11-15
+CRG_013,Cherry Orchard FCG trail,11,2017,0,post,no,no,39,open,2017-11-15
+CRG_013,Cherry Orchard FCG trail,11,2018,1,post,no,no,72,open,2018-11-15
+CRG_013,Cherry Orchard FCG trail,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_013,Cherry Orchard FCG trail,12,2015,-2,pre,no,no,23,open,2015-12-15
+CRG_013,Cherry Orchard FCG trail,12,2016,-1,pre,no,no,29,open,2016-12-15
+CRG_013,Cherry Orchard FCG trail,12,2017,0,post,no,no,27,open,2017-12-15
+CRG_013,Cherry Orchard FCG trail,12,2018,1,post,no,no,25,open,2018-12-15
+CRG_014,Tom McCall TNC trail,1,2015,-3,pre,no,no,45,open,2015-01-15
+CRG_014,Tom McCall TNC trail,1,2016,-2,pre,no,no,33,open,2016-01-15
+CRG_014,Tom McCall TNC trail,1,2017,-1,pre,no,no,59,open,2017-01-15
+CRG_014,Tom McCall TNC trail,1,2018,0,post,no,no,356,open,2018-01-15
+CRG_014,Tom McCall TNC trail,1,2019,1,post,no,no,641,open,2019-01-15
+CRG_014,Tom McCall TNC trail,2,2015,-3,pre,no,no,95,open,2015-02-15
+CRG_014,Tom McCall TNC trail,2,2016,-2,pre,no,no,93,open,2016-02-15
+CRG_014,Tom McCall TNC trail,2,2017,-1,pre,no,no,45,open,2017-02-15
+CRG_014,Tom McCall TNC trail,2,2018,0,post,no,no,584,open,2018-02-15
+CRG_014,Tom McCall TNC trail,2,2019,1,post,no,no,625,open,2019-02-15
+CRG_014,Tom McCall TNC trail,3,2015,-3,pre,no,no,126,open,2015-03-15
+CRG_014,Tom McCall TNC trail,3,2016,-2,pre,no,no,334,open,2016-03-15
+CRG_014,Tom McCall TNC trail,3,2017,-1,pre,no,no,141,open,2017-03-15
+CRG_014,Tom McCall TNC trail,3,2018,0,post,no,no,2091,open,2018-03-15
+CRG_014,Tom McCall TNC trail,3,2019,1,post,no,no,1736,open,2019-03-15
+CRG_014,Tom McCall TNC trail,4,2015,-3,pre,no,no,784,open,2015-04-15
+CRG_014,Tom McCall TNC trail,4,2016,-2,pre,no,no,1402,open,2016-04-15
+CRG_014,Tom McCall TNC trail,4,2017,-1,pre,no,no,480,open,2017-04-15
+CRG_014,Tom McCall TNC trail,4,2018,0,post,no,no,2739,open,2018-04-15
+CRG_014,Tom McCall TNC trail,4,2019,1,post,no,no,3460,open,2019-04-15
+CRG_014,Tom McCall TNC trail,5,2015,-3,pre,no,no,557,open,2015-05-15
+CRG_014,Tom McCall TNC trail,5,2016,-2,pre,no,no,1298,open,2016-05-15
+CRG_014,Tom McCall TNC trail,5,2017,-1,pre,no,no,2372,open,2017-05-15
+CRG_014,Tom McCall TNC trail,5,2018,0,post,no,no,8490,open,2018-05-15
+CRG_014,Tom McCall TNC trail,5,2019,1,post,no,no,9304,open,2019-05-15
+CRG_014,Tom McCall TNC trail,6,2015,-3,pre,no,no,193,open,2015-06-15
+CRG_014,Tom McCall TNC trail,6,2016,-2,pre,no,no,836,open,2016-06-15
+CRG_014,Tom McCall TNC trail,6,2017,-1,pre,no,no,2141,open,2017-06-15
+CRG_014,Tom McCall TNC trail,6,2018,0,post,no,no,3196,open,2018-06-15
+CRG_014,Tom McCall TNC trail,6,2019,1,post,no,no,3435,open,2019-06-15
+CRG_014,Tom McCall TNC trail,7,2015,-3,pre,no,no,250,open,2015-07-15
+CRG_014,Tom McCall TNC trail,7,2016,-2,pre,no,no,505,open,2016-07-15
+CRG_014,Tom McCall TNC trail,7,2017,-1,pre,no,no,2424,open,2017-07-15
+CRG_014,Tom McCall TNC trail,7,2018,0,post,no,no,2529,open,2018-07-15
+CRG_014,Tom McCall TNC trail,7,2019,1,post,no,no,4055,open,2019-07-15
+CRG_014,Tom McCall TNC trail,8,2015,-3,pre,no,no,186,open,2015-08-15
+CRG_014,Tom McCall TNC trail,8,2016,-2,pre,no,no,371,open,2016-08-15
+CRG_014,Tom McCall TNC trail,8,2017,-1,pre,no,no,1961,open,2017-08-15
+CRG_014,Tom McCall TNC trail,8,2018,0,post,no,no,3337,open,2018-08-15
+CRG_014,Tom McCall TNC trail,8,2019,1,post,no,no,3303,open,2019-08-15
+CRG_014,Tom McCall TNC trail,9,2014,-3,pre,no,no,103,open,2014-09-15
+CRG_014,Tom McCall TNC trail,9,2015,-2,pre,no,no,220,open,2015-09-15
+CRG_014,Tom McCall TNC trail,9,2016,-2,pre,no,no,118,open,2016-09-15
+CRG_014,Tom McCall TNC trail,9,2016,-1,pre,no,no,246,open,2016-09-15
+CRG_014,Tom McCall TNC trail,9,2017,0,post,no,no,751,open,2017-09-15
+CRG_014,Tom McCall TNC trail,9,2018,1,post,no,no,1627,open,2018-09-15
+CRG_014,Tom McCall TNC trail,10,2014,-3,pre,no,no,73,open,2014-10-15
+CRG_014,Tom McCall TNC trail,10,2015,-2,pre,no,no,175,open,2015-10-15
+CRG_014,Tom McCall TNC trail,10,2016,-1,pre,no,no,184,open,2016-10-15
+CRG_014,Tom McCall TNC trail,10,2017,0,post,no,no,855,open,2017-10-15
+CRG_014,Tom McCall TNC trail,10,2018,1,post,no,no,1420,open,2018-10-15
+CRG_014,Tom McCall TNC trail,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_014,Tom McCall TNC trail,11,2015,-2,pre,no,no,55,open,2015-11-15
+CRG_014,Tom McCall TNC trail,11,2016,-1,pre,no,no,121,open,2016-11-15
+CRG_014,Tom McCall TNC trail,11,2017,0,post,no,no,791,open,2017-11-15
+CRG_014,Tom McCall TNC trail,11,2018,1,post,no,no,807,open,2018-11-15
+CRG_014,Tom McCall TNC trail,12,2014,-3,pre,no,no,31,open,2014-12-15
+CRG_014,Tom McCall TNC trail,12,2015,-2,pre,no,no,35,open,2015-12-15
+CRG_014,Tom McCall TNC trail,12,2016,-1,pre,no,no,37,open,2016-12-15
+CRG_014,Tom McCall TNC trail,12,2017,0,post,no,no,378,open,2017-12-15
+CRG_014,Tom McCall TNC trail,12,2018,1,post,no,no,416,open,2018-12-15
+CRG_015,Crawford Oaks WDNR,1,2015,-3,pre,no,no,28,open,2015-01-15
+CRG_015,Crawford Oaks WDNR,1,2016,-2,pre,no,no,23,open,2016-01-15
+CRG_015,Crawford Oaks WDNR,1,2017,-1,pre,no,no,28,open,2017-01-15
+CRG_015,Crawford Oaks WDNR,1,2018,0,post,no,no,21,open,2018-01-15
+CRG_015,Crawford Oaks WDNR,1,2019,1,post,no,no,40,open,2019-01-15
+CRG_015,Crawford Oaks WDNR,2,2015,-3,pre,no,no,53,open,2015-02-15
+CRG_015,Crawford Oaks WDNR,2,2016,-2,pre,no,no,32,open,2016-02-15
+CRG_015,Crawford Oaks WDNR,2,2017,-1,pre,no,no,26,open,2017-02-15
+CRG_015,Crawford Oaks WDNR,2,2018,0,post,no,no,36,open,2018-02-15
+CRG_015,Crawford Oaks WDNR,2,2019,1,post,no,no,43,open,2019-02-15
+CRG_015,Crawford Oaks WDNR,3,2015,-3,pre,no,no,62,open,2015-03-15
+CRG_015,Crawford Oaks WDNR,3,2016,-2,pre,no,no,170,open,2016-03-15
+CRG_015,Crawford Oaks WDNR,3,2017,-1,pre,no,no,61,open,2017-03-15
+CRG_015,Crawford Oaks WDNR,3,2018,0,post,no,no,77,open,2018-03-15
+CRG_015,Crawford Oaks WDNR,3,2019,1,post,no,no,119,open,2019-03-15
+CRG_015,Crawford Oaks WDNR,4,2015,-3,pre,no,no,228,open,2015-04-15
+CRG_015,Crawford Oaks WDNR,4,2016,-2,pre,no,no,778,open,2016-04-15
+CRG_015,Crawford Oaks WDNR,4,2017,-1,pre,no,no,82,open,2017-04-15
+CRG_015,Crawford Oaks WDNR,4,2018,0,post,no,no,104,open,2018-04-15
+CRG_015,Crawford Oaks WDNR,4,2019,1,post,no,no,535,open,2019-04-15
+CRG_015,Crawford Oaks WDNR,5,2015,-3,pre,no,no,114,open,2015-05-15
+CRG_015,Crawford Oaks WDNR,5,2016,-2,pre,no,no,453,open,2016-05-15
+CRG_015,Crawford Oaks WDNR,5,2017,-1,pre,no,no,106,open,2017-05-15
+CRG_015,Crawford Oaks WDNR,5,2018,0,post,no,no,208,open,2018-05-15
+CRG_015,Crawford Oaks WDNR,5,2019,1,post,no,no,743,open,2019-05-15
+CRG_015,Crawford Oaks WDNR,6,2015,-3,pre,no,no,127,open,2015-06-15
+CRG_015,Crawford Oaks WDNR,6,2016,-2,pre,no,no,331,open,2016-06-15
+CRG_015,Crawford Oaks WDNR,6,2017,-1,pre,no,no,145,open,2017-06-15
+CRG_015,Crawford Oaks WDNR,6,2018,0,post,no,no,182,open,2018-06-15
+CRG_015,Crawford Oaks WDNR,6,2019,1,post,no,no,236,open,2019-06-15
+CRG_015,Crawford Oaks WDNR,7,2015,-3,pre,no,no,192,open,2015-07-15
+CRG_015,Crawford Oaks WDNR,7,2016,-2,pre,no,no,262,open,2016-07-15
+CRG_015,Crawford Oaks WDNR,7,2017,-1,pre,no,no,139,open,2017-07-15
+CRG_015,Crawford Oaks WDNR,7,2018,0,post,no,no,132,open,2018-07-15
+CRG_015,Crawford Oaks WDNR,7,2019,1,post,no,no,158,open,2019-07-15
+CRG_015,Crawford Oaks WDNR,8,2015,-3,pre,no,no,108,open,2015-08-15
+CRG_015,Crawford Oaks WDNR,8,2016,-2,pre,no,no,161,open,2016-08-15
+CRG_015,Crawford Oaks WDNR,8,2017,-1,pre,no,no,168,open,2017-08-15
+CRG_015,Crawford Oaks WDNR,8,2018,0,post,no,no,158,open,2018-08-15
+CRG_015,Crawford Oaks WDNR,8,2019,1,post,no,no,177,open,2019-08-15
+CRG_015,Crawford Oaks WDNR,9,2014,-3,pre,no,no,99,open,2014-09-15
+CRG_015,Crawford Oaks WDNR,9,2015,-2,pre,no,no,94,open,2015-09-15
+CRG_015,Crawford Oaks WDNR,9,2016,-2,pre,no,no,44,open,2016-09-15
+CRG_015,Crawford Oaks WDNR,9,2016,-1,pre,no,no,159,open,2016-09-15
+CRG_015,Crawford Oaks WDNR,9,2017,0,post,no,no,85,open,2017-09-15
+CRG_015,Crawford Oaks WDNR,9,2018,1,post,no,no,89,open,2018-09-15
+CRG_015,Crawford Oaks WDNR,10,2014,-3,pre,no,no,67,open,2014-10-15
+CRG_015,Crawford Oaks WDNR,10,2015,-2,pre,no,no,74,open,2015-10-15
+CRG_015,Crawford Oaks WDNR,10,2016,-1,pre,no,no,38,open,2016-10-15
+CRG_015,Crawford Oaks WDNR,10,2017,0,post,no,no,67,open,2017-10-15
+CRG_015,Crawford Oaks WDNR,10,2018,1,post,no,no,70,open,2018-10-15
+CRG_015,Crawford Oaks WDNR,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_015,Crawford Oaks WDNR,11,2015,-2,pre,no,no,38,open,2015-11-15
+CRG_015,Crawford Oaks WDNR,11,2016,-1,pre,no,no,37,open,2016-11-15
+CRG_015,Crawford Oaks WDNR,11,2017,0,post,no,no,40,open,2017-11-15
+CRG_015,Crawford Oaks WDNR,11,2018,1,post,no,no,115,open,2018-11-15
+CRG_015,Crawford Oaks WDNR,12,2014,-3,pre,no,no,21,open,2014-12-15
+CRG_015,Crawford Oaks WDNR,12,2015,-2,pre,no,no,25,open,2015-12-15
+CRG_015,Crawford Oaks WDNR,12,2016,-1,pre,no,no,29,open,2016-12-15
+CRG_015,Crawford Oaks WDNR,12,2017,0,post,no,no,28,open,2017-12-15
+CRG_015,Crawford Oaks WDNR,12,2018,1,post,no,no,35,open,2018-12-15
+CRG_016,Mosier Plateau FCG trail,1,2015,-3,pre,no,no,37,open,2015-01-15
+CRG_016,Mosier Plateau FCG trail,1,2016,-2,pre,no,no,26,open,2016-01-15
+CRG_016,Mosier Plateau FCG trail,1,2017,-1,pre,no,no,49,open,2017-01-15
+CRG_016,Mosier Plateau FCG trail,1,2018,0,post,no,no,18,open,2018-01-15
+CRG_016,Mosier Plateau FCG trail,1,2019,1,post,no,no,38,open,2019-01-15
+CRG_016,Mosier Plateau FCG trail,2,2015,-3,pre,no,no,48,open,2015-02-15
+CRG_016,Mosier Plateau FCG trail,2,2016,-2,pre,no,no,56,open,2016-02-15
+CRG_016,Mosier Plateau FCG trail,2,2017,-1,pre,no,no,42,open,2017-02-15
+CRG_016,Mosier Plateau FCG trail,2,2018,0,post,no,no,34,open,2018-02-15
+CRG_016,Mosier Plateau FCG trail,2,2019,1,post,no,no,36,open,2019-02-15
+CRG_016,Mosier Plateau FCG trail,3,2015,-3,pre,no,no,91,open,2015-03-15
+CRG_016,Mosier Plateau FCG trail,3,2016,-2,pre,no,no,257,open,2016-03-15
+CRG_016,Mosier Plateau FCG trail,3,2017,-1,pre,no,no,129,open,2017-03-15
+CRG_016,Mosier Plateau FCG trail,3,2018,0,post,no,no,91,open,2018-03-15
+CRG_016,Mosier Plateau FCG trail,3,2019,1,post,no,no,87,open,2019-03-15
+CRG_016,Mosier Plateau FCG trail,4,2015,-3,pre,no,no,385,open,2015-04-15
+CRG_016,Mosier Plateau FCG trail,4,2016,-2,pre,no,no,715,open,2016-04-15
+CRG_016,Mosier Plateau FCG trail,4,2017,-1,pre,no,no,281,open,2017-04-15
+CRG_016,Mosier Plateau FCG trail,4,2018,0,post,no,no,107,open,2018-04-15
+CRG_016,Mosier Plateau FCG trail,4,2019,1,post,no,no,165,open,2019-04-15
+CRG_016,Mosier Plateau FCG trail,5,2015,-3,pre,no,no,237,open,2015-05-15
+CRG_016,Mosier Plateau FCG trail,5,2016,-2,pre,no,no,672,open,2016-05-15
+CRG_016,Mosier Plateau FCG trail,5,2017,-1,pre,no,no,601,open,2017-05-15
+CRG_016,Mosier Plateau FCG trail,5,2018,0,post,no,no,299,open,2018-05-15
+CRG_016,Mosier Plateau FCG trail,5,2019,1,post,no,no,312,open,2019-05-15
+CRG_016,Mosier Plateau FCG trail,6,2015,-3,pre,no,no,340,open,2015-06-15
+CRG_016,Mosier Plateau FCG trail,6,2016,-2,pre,no,no,333,open,2016-06-15
+CRG_016,Mosier Plateau FCG trail,6,2017,-1,pre,no,no,895,open,2017-06-15
+CRG_016,Mosier Plateau FCG trail,6,2018,0,post,no,no,157,open,2018-06-15
+CRG_016,Mosier Plateau FCG trail,6,2019,1,post,no,no,155,open,2019-06-15
+CRG_016,Mosier Plateau FCG trail,7,2015,-3,pre,no,no,478,open,2015-07-15
+CRG_016,Mosier Plateau FCG trail,7,2016,-2,pre,no,no,356,open,2016-07-15
+CRG_016,Mosier Plateau FCG trail,7,2017,-1,pre,no,no,834,open,2017-07-15
+CRG_016,Mosier Plateau FCG trail,7,2018,0,post,no,no,171,open,2018-07-15
+CRG_016,Mosier Plateau FCG trail,7,2019,1,post,no,no,181,open,2019-07-15
+CRG_016,Mosier Plateau FCG trail,8,2015,-3,pre,no,no,272,open,2015-08-15
+CRG_016,Mosier Plateau FCG trail,8,2016,-2,pre,no,no,495,open,2016-08-15
+CRG_016,Mosier Plateau FCG trail,8,2017,-1,pre,no,no,275,open,2017-08-15
+CRG_016,Mosier Plateau FCG trail,8,2018,0,post,no,no,205,open,2018-08-15
+CRG_016,Mosier Plateau FCG trail,8,2019,1,post,no,no,181,open,2019-08-15
+CRG_016,Mosier Plateau FCG trail,9,2014,-3,pre,no,no,148,open,2014-09-15
+CRG_016,Mosier Plateau FCG trail,9,2015,-2,pre,no,no,221,open,2015-09-15
+CRG_016,Mosier Plateau FCG trail,9,2016,-2,pre,no,no,59,open,2016-09-15
+CRG_016,Mosier Plateau FCG trail,9,2016,-1,pre,no,no,213,open,2016-09-15
+CRG_016,Mosier Plateau FCG trail,9,2017,0,post,no,no,83,open,2017-09-15
+CRG_016,Mosier Plateau FCG trail,9,2018,1,post,no,no,88,open,2018-09-15
+CRG_016,Mosier Plateau FCG trail,10,2014,-3,pre,no,no,80,open,2014-10-15
+CRG_016,Mosier Plateau FCG trail,10,2015,-2,pre,no,no,142,open,2015-10-15
+CRG_016,Mosier Plateau FCG trail,10,2016,-1,pre,no,no,70,open,2016-10-15
+CRG_016,Mosier Plateau FCG trail,10,2017,0,post,no,no,57,open,2017-10-15
+CRG_016,Mosier Plateau FCG trail,10,2018,1,post,no,no,66,open,2018-10-15
+CRG_016,Mosier Plateau FCG trail,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_016,Mosier Plateau FCG trail,11,2015,-2,pre,no,no,71,open,2015-11-15
+CRG_016,Mosier Plateau FCG trail,11,2016,-1,pre,no,no,95,open,2016-11-15
+CRG_016,Mosier Plateau FCG trail,11,2017,0,post,no,no,37,open,2017-11-15
+CRG_016,Mosier Plateau FCG trail,11,2018,1,post,no,no,59,open,2018-11-15
+CRG_016,Mosier Plateau FCG trail,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_016,Mosier Plateau FCG trail,12,2015,-2,pre,no,no,23,open,2015-12-15
+CRG_016,Mosier Plateau FCG trail,12,2016,-1,pre,no,no,78,open,2016-12-15
+CRG_016,Mosier Plateau FCG trail,12,2017,0,post,no,no,26,open,2017-12-15
+CRG_016,Mosier Plateau FCG trail,12,2018,1,post,no,no,25,open,2018-12-15
+CRG_017,Memaloose trail,1,2015,-3,pre,no,no,28,open,2015-01-15
+CRG_017,Memaloose trail,1,2016,-2,pre,no,no,17,open,2016-01-15
+CRG_017,Memaloose trail,1,2017,-1,pre,no,no,28,open,2017-01-15
+CRG_017,Memaloose trail,1,2018,0,post,no,no,18,open,2018-01-15
+CRG_017,Memaloose trail,1,2019,1,post,no,no,32,open,2019-01-15
+CRG_017,Memaloose trail,2,2015,-3,pre,no,no,44,open,2015-02-15
+CRG_017,Memaloose trail,2,2016,-2,pre,no,no,27,open,2016-02-15
+CRG_017,Memaloose trail,2,2017,-1,pre,no,no,26,open,2017-02-15
+CRG_017,Memaloose trail,2,2018,0,post,no,no,32,open,2018-02-15
+CRG_017,Memaloose trail,2,2019,1,post,no,no,38,open,2019-02-15
+CRG_017,Memaloose trail,3,2015,-3,pre,no,no,50,open,2015-03-15
+CRG_017,Memaloose trail,3,2016,-2,pre,no,no,66,open,2016-03-15
+CRG_017,Memaloose trail,3,2017,-1,pre,no,no,49,open,2017-03-15
+CRG_017,Memaloose trail,3,2018,0,post,no,no,78,open,2018-03-15
+CRG_017,Memaloose trail,3,2019,1,post,no,no,75,open,2019-03-15
+CRG_017,Memaloose trail,4,2015,-3,pre,no,no,110,open,2015-04-15
+CRG_017,Memaloose trail,4,2016,-2,pre,no,no,90,open,2016-04-15
+CRG_017,Memaloose trail,4,2017,-1,pre,no,no,67,open,2017-04-15
+CRG_017,Memaloose trail,4,2018,0,post,no,no,106,open,2018-04-15
+CRG_017,Memaloose trail,4,2019,1,post,no,no,135,open,2019-04-15
+CRG_017,Memaloose trail,5,2015,-3,pre,no,no,111,open,2015-05-15
+CRG_017,Memaloose trail,5,2016,-2,pre,no,no,118,open,2016-05-15
+CRG_017,Memaloose trail,5,2017,-1,pre,no,no,106,open,2017-05-15
+CRG_017,Memaloose trail,5,2018,0,post,no,no,169,open,2018-05-15
+CRG_017,Memaloose trail,5,2019,1,post,no,no,239,open,2019-05-15
+CRG_017,Memaloose trail,6,2015,-3,pre,no,no,131,open,2015-06-15
+CRG_017,Memaloose trail,6,2016,-2,pre,no,no,140,open,2016-06-15
+CRG_017,Memaloose trail,6,2017,-1,pre,no,no,145,open,2017-06-15
+CRG_017,Memaloose trail,6,2018,0,post,no,no,130,open,2018-06-15
+CRG_017,Memaloose trail,6,2019,1,post,no,no,134,open,2019-06-15
+CRG_017,Memaloose trail,7,2015,-3,pre,no,no,171,open,2015-07-15
+CRG_017,Memaloose trail,7,2016,-2,pre,no,no,122,open,2016-07-15
+CRG_017,Memaloose trail,7,2017,-1,pre,no,no,132,open,2017-07-15
+CRG_017,Memaloose trail,7,2018,0,post,no,no,139,open,2018-07-15
+CRG_017,Memaloose trail,7,2019,1,post,no,no,148,open,2019-07-15
+CRG_017,Memaloose trail,8,2015,-3,pre,no,no,108,open,2015-08-15
+CRG_017,Memaloose trail,8,2016,-2,pre,no,no,124,open,2016-08-15
+CRG_017,Memaloose trail,8,2017,-1,pre,no,no,123,open,2017-08-15
+CRG_017,Memaloose trail,8,2018,0,post,no,no,158,open,2018-08-15
+CRG_017,Memaloose trail,8,2019,1,post,no,no,162,open,2019-08-15
+CRG_017,Memaloose trail,9,2014,-3,pre,no,no,95,open,2014-09-15
+CRG_017,Memaloose trail,9,2015,-2,pre,no,no,94,open,2015-09-15
+CRG_017,Memaloose trail,9,2016,-2,pre,no,no,27,open,2016-09-15
+CRG_017,Memaloose trail,9,2016,-1,pre,no,no,88,open,2016-09-15
+CRG_017,Memaloose trail,9,2017,0,post,no,no,79,open,2017-09-15
+CRG_017,Memaloose trail,9,2018,1,post,no,no,93,open,2018-09-15
+CRG_017,Memaloose trail,10,2014,-3,pre,no,no,65,open,2014-10-15
+CRG_017,Memaloose trail,10,2015,-2,pre,no,no,74,open,2015-10-15
+CRG_017,Memaloose trail,10,2016,-1,pre,no,no,38,open,2016-10-15
+CRG_017,Memaloose trail,10,2017,0,post,no,no,57,open,2017-10-15
+CRG_017,Memaloose trail,10,2018,1,post,no,no,70,open,2018-10-15
+CRG_017,Memaloose trail,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_017,Memaloose trail,11,2015,-2,pre,no,no,34,open,2015-11-15
+CRG_017,Memaloose trail,11,2016,-1,pre,no,no,37,open,2016-11-15
+CRG_017,Memaloose trail,11,2017,0,post,no,no,37,open,2017-11-15
+CRG_017,Memaloose trail,11,2018,1,post,no,no,64,open,2018-11-15
+CRG_017,Memaloose trail,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_017,Memaloose trail,12,2015,-2,pre,no,no,23,open,2015-12-15
+CRG_017,Memaloose trail,12,2016,-1,pre,no,no,29,open,2016-12-15
+CRG_017,Memaloose trail,12,2017,0,post,no,no,26,open,2017-12-15
+CRG_017,Memaloose trail,12,2018,1,post,no,no,19,open,2018-12-15
+CRG_018,Tamanawas Falls trail,1,2015,-3,pre,no,no,117,open,2015-01-15
+CRG_018,Tamanawas Falls trail,1,2016,-2,pre,no,no,341,open,2016-01-15
+CRG_018,Tamanawas Falls trail,1,2017,-1,pre,no,no,1018,open,2017-01-15
+CRG_018,Tamanawas Falls trail,1,2018,0,post,no,no,508,open,2018-01-15
+CRG_018,Tamanawas Falls trail,1,2019,1,post,no,no,1083,open,2019-01-15
+CRG_018,Tamanawas Falls trail,2,2015,-3,pre,no,no,245,open,2015-02-15
+CRG_018,Tamanawas Falls trail,2,2016,-2,pre,no,no,359,open,2016-02-15
+CRG_018,Tamanawas Falls trail,2,2017,-1,pre,no,no,690,open,2017-02-15
+CRG_018,Tamanawas Falls trail,2,2018,0,post,no,no,707,open,2018-02-15
+CRG_018,Tamanawas Falls trail,2,2019,1,post,no,no,1319,open,2019-02-15
+CRG_018,Tamanawas Falls trail,3,2015,-3,pre,no,no,314,open,2015-03-15
+CRG_018,Tamanawas Falls trail,3,2016,-2,pre,no,no,626,open,2016-03-15
+CRG_018,Tamanawas Falls trail,3,2017,-1,pre,no,no,764,open,2017-03-15
+CRG_018,Tamanawas Falls trail,3,2018,0,post,no,no,1407,open,2018-03-15
+CRG_018,Tamanawas Falls trail,3,2019,1,post,no,no,1655,open,2019-03-15
+CRG_018,Tamanawas Falls trail,4,2015,-3,pre,no,no,518,open,2015-04-15
+CRG_018,Tamanawas Falls trail,4,2016,-2,pre,no,no,1057,open,2016-04-15
+CRG_018,Tamanawas Falls trail,4,2017,-1,pre,no,no,577,open,2017-04-15
+CRG_018,Tamanawas Falls trail,4,2018,0,post,no,no,1219,open,2018-04-15
+CRG_018,Tamanawas Falls trail,4,2019,1,post,no,no,1168,open,2019-04-15
+CRG_018,Tamanawas Falls trail,5,2015,-3,pre,no,no,652,open,2015-05-15
+CRG_018,Tamanawas Falls trail,5,2016,-2,pre,no,no,2590,open,2016-05-15
+CRG_018,Tamanawas Falls trail,5,2017,-1,pre,no,no,1846,open,2017-05-15
+CRG_018,Tamanawas Falls trail,5,2018,0,post,no,no,5358,open,2018-05-15
+CRG_018,Tamanawas Falls trail,5,2019,1,post,no,no,4034,open,2019-05-15
+CRG_018,Tamanawas Falls trail,6,2015,-3,pre,no,no,1034,open,2015-06-15
+CRG_018,Tamanawas Falls trail,6,2016,-2,pre,no,no,3116,open,2016-06-15
+CRG_018,Tamanawas Falls trail,6,2017,-1,pre,no,no,3643,open,2017-06-15
+CRG_018,Tamanawas Falls trail,6,2018,0,post,no,no,4499,open,2018-06-15
+CRG_018,Tamanawas Falls trail,6,2019,1,post,no,no,4623,open,2019-06-15
+CRG_018,Tamanawas Falls trail,7,2015,-3,pre,no,no,1393,open,2015-07-15
+CRG_018,Tamanawas Falls trail,7,2016,-2,pre,no,no,2890,open,2016-07-15
+CRG_018,Tamanawas Falls trail,7,2017,-1,pre,no,no,3161,open,2017-07-15
+CRG_018,Tamanawas Falls trail,7,2018,0,post,no,no,4068,open,2018-07-15
+CRG_018,Tamanawas Falls trail,7,2019,1,post,no,no,5787,open,2019-07-15
+CRG_018,Tamanawas Falls trail,8,2015,-3,pre,no,no,744,open,2015-08-15
+CRG_018,Tamanawas Falls trail,8,2016,-2,pre,no,no,1996,open,2016-08-15
+CRG_018,Tamanawas Falls trail,8,2017,-1,pre,no,no,2821,open,2017-08-15
+CRG_018,Tamanawas Falls trail,8,2018,0,post,no,no,5056,open,2018-08-15
+CRG_018,Tamanawas Falls trail,8,2019,1,post,no,no,7263,open,2019-08-15
+CRG_018,Tamanawas Falls trail,9,2014,-3,pre,no,no,336,open,2014-09-15
+CRG_018,Tamanawas Falls trail,9,2015,-2,pre,no,no,880,open,2015-09-15
+CRG_018,Tamanawas Falls trail,9,2016,-2,pre,no,no,442,open,2016-09-15
+CRG_018,Tamanawas Falls trail,9,2016,-1,pre,no,no,2071,open,2016-09-15
+CRG_018,Tamanawas Falls trail,9,2017,0,post,no,no,1048,open,2017-09-15
+CRG_018,Tamanawas Falls trail,9,2018,1,post,no,no,2415,open,2018-09-15
+CRG_018,Tamanawas Falls trail,10,2014,-3,pre,no,no,260,open,2014-10-15
+CRG_018,Tamanawas Falls trail,10,2015,-2,pre,no,no,718,open,2015-10-15
+CRG_018,Tamanawas Falls trail,10,2016,-1,pre,no,no,549,open,2016-10-15
+CRG_018,Tamanawas Falls trail,10,2017,0,post,no,no,1174,open,2017-10-15
+CRG_018,Tamanawas Falls trail,10,2018,1,post,no,no,1274,open,2018-10-15
+CRG_018,Tamanawas Falls trail,11,2014,-3,pre,no,no,155,open,2014-11-15
+CRG_018,Tamanawas Falls trail,11,2015,-2,pre,no,no,398,open,2015-11-15
+CRG_018,Tamanawas Falls trail,11,2016,-1,pre,no,no,596,open,2016-11-15
+CRG_018,Tamanawas Falls trail,11,2017,0,post,no,no,596,open,2017-11-15
+CRG_018,Tamanawas Falls trail,11,2018,1,post,no,no,1252,open,2018-11-15
+CRG_018,Tamanawas Falls trail,12,2014,-3,pre,no,no,49,open,2014-12-15
+CRG_018,Tamanawas Falls trail,12,2015,-2,pre,no,no,383,open,2015-12-15
+CRG_018,Tamanawas Falls trail,12,2016,-1,pre,no,no,855,open,2016-12-15
+CRG_018,Tamanawas Falls trail,12,2017,0,post,no,no,619,open,2017-12-15
+CRG_018,Tamanawas Falls trail,12,2018,1,post,no,no,741,open,2018-12-15
+CRG_019,Dog Mountain/Augspurger Mtn,1,2015,-3,pre,no,no,49,open,2015-01-15
+CRG_019,Dog Mountain/Augspurger Mtn,1,2016,-2,pre,no,no,76,open,2016-01-15
+CRG_019,Dog Mountain/Augspurger Mtn,1,2017,-1,pre,no,no,29,open,2017-01-15
+CRG_019,Dog Mountain/Augspurger Mtn,1,2018,0,post,no,no,370,open,2018-01-15
+CRG_019,Dog Mountain/Augspurger Mtn,1,2019,1,post,no,no,614,open,2019-01-15
+CRG_019,Dog Mountain/Augspurger Mtn,2,2015,-3,pre,no,no,84,open,2015-02-15
+CRG_019,Dog Mountain/Augspurger Mtn,2,2016,-2,pre,no,no,225,open,2016-02-15
+CRG_019,Dog Mountain/Augspurger Mtn,2,2017,-1,pre,no,no,28,open,2017-02-15
+CRG_019,Dog Mountain/Augspurger Mtn,2,2018,0,post,no,no,803,open,2018-02-15
+CRG_019,Dog Mountain/Augspurger Mtn,2,2019,1,post,no,no,513,open,2019-02-15
+CRG_019,Dog Mountain/Augspurger Mtn,3,2015,-3,pre,no,no,164,open,2015-03-15
+CRG_019,Dog Mountain/Augspurger Mtn,3,2016,-2,pre,no,no,510,open,2016-03-15
+CRG_019,Dog Mountain/Augspurger Mtn,3,2017,-1,pre,no,no,70,open,2017-03-15
+CRG_019,Dog Mountain/Augspurger Mtn,3,2018,0,post,no,no,2602,open,2018-03-15
+CRG_019,Dog Mountain/Augspurger Mtn,3,2019,1,post,no,no,1842,open,2019-03-15
+CRG_019,Dog Mountain/Augspurger Mtn,4,2015,-3,pre,no,no,515,open,2015-04-15
+CRG_019,Dog Mountain/Augspurger Mtn,4,2016,-2,pre,no,no,1991,open,2016-04-15
+CRG_019,Dog Mountain/Augspurger Mtn,4,2017,-1,pre,no,no,2006,open,2017-04-15
+CRG_019,Dog Mountain/Augspurger Mtn,4,2018,0,post,no,no,3361,open,2018-04-15
+CRG_019,Dog Mountain/Augspurger Mtn,4,2019,1,post,no,no,3084,open,2019-04-15
+CRG_019,Dog Mountain/Augspurger Mtn,5,2015,-3,pre,no,no,1091,open,2015-05-15
+CRG_019,Dog Mountain/Augspurger Mtn,5,2016,-2,pre,no,no,4472,open,2016-05-15
+CRG_019,Dog Mountain/Augspurger Mtn,5,2017,-1,pre,no,no,14498,open,2017-05-15
+CRG_019,Dog Mountain/Augspurger Mtn,5,2018,0,post,no,no,21134,open,2018-05-15
+CRG_019,Dog Mountain/Augspurger Mtn,5,2019,1,post,no,no,15876,open,2019-05-15
+CRG_019,Dog Mountain/Augspurger Mtn,6,2015,-3,pre,no,no,520,open,2015-06-15
+CRG_019,Dog Mountain/Augspurger Mtn,6,2016,-2,pre,no,no,2617,open,2016-06-15
+CRG_019,Dog Mountain/Augspurger Mtn,6,2017,-1,pre,no,no,11098,open,2017-06-15
+CRG_019,Dog Mountain/Augspurger Mtn,6,2018,0,post,no,no,7020,open,2018-06-15
+CRG_019,Dog Mountain/Augspurger Mtn,6,2019,1,post,no,no,7368,open,2019-06-15
+CRG_019,Dog Mountain/Augspurger Mtn,7,2015,-3,pre,no,no,461,open,2015-07-15
+CRG_019,Dog Mountain/Augspurger Mtn,7,2016,-2,pre,no,no,1159,open,2016-07-15
+CRG_019,Dog Mountain/Augspurger Mtn,7,2017,-1,pre,no,no,5948,open,2017-07-15
+CRG_019,Dog Mountain/Augspurger Mtn,7,2018,0,post,no,no,5003,open,2018-07-15
+CRG_019,Dog Mountain/Augspurger Mtn,7,2019,1,post,no,no,5781,open,2019-07-15
+CRG_019,Dog Mountain/Augspurger Mtn,8,2015,-3,pre,no,no,425,open,2015-08-15
+CRG_019,Dog Mountain/Augspurger Mtn,8,2016,-2,pre,no,no,956,open,2016-08-15
+CRG_019,Dog Mountain/Augspurger Mtn,8,2017,-1,pre,no,no,3069,open,2017-08-15
+CRG_019,Dog Mountain/Augspurger Mtn,8,2018,0,post,no,no,6007,open,2018-08-15
+CRG_019,Dog Mountain/Augspurger Mtn,8,2019,1,post,no,no,4877,open,2019-08-15
+CRG_019,Dog Mountain/Augspurger Mtn,9,2014,-3,pre,no,no,140,open,2014-09-15
+CRG_019,Dog Mountain/Augspurger Mtn,9,2015,-2,pre,no,no,361,open,2015-09-15
+CRG_019,Dog Mountain/Augspurger Mtn,9,2016,-2,pre,no,no,220,open,2016-09-15
+CRG_019,Dog Mountain/Augspurger Mtn,9,2016,-1,pre,no,no,703,open,2016-09-15
+CRG_019,Dog Mountain/Augspurger Mtn,9,2017,0,post,no,no,1262,open,2017-09-15
+CRG_019,Dog Mountain/Augspurger Mtn,9,2018,1,post,no,no,2597,open,2018-09-15
+CRG_019,Dog Mountain/Augspurger Mtn,10,2014,-3,pre,no,no,143,open,2014-10-15
+CRG_019,Dog Mountain/Augspurger Mtn,10,2015,-2,pre,no,no,129,open,2015-10-15
+CRG_019,Dog Mountain/Augspurger Mtn,10,2016,-1,pre,no,no,217,open,2016-10-15
+CRG_019,Dog Mountain/Augspurger Mtn,10,2017,0,post,no,no,1207,open,2017-10-15
+CRG_019,Dog Mountain/Augspurger Mtn,10,2018,1,post,no,no,1972,open,2018-10-15
+CRG_019,Dog Mountain/Augspurger Mtn,11,2014,-3,pre,no,no,48,open,2014-11-15
+CRG_019,Dog Mountain/Augspurger Mtn,11,2015,-2,pre,no,no,74,open,2015-11-15
+CRG_019,Dog Mountain/Augspurger Mtn,11,2016,-1,pre,no,no,278,open,2016-11-15
+CRG_019,Dog Mountain/Augspurger Mtn,11,2017,0,post,no,no,801,open,2017-11-15
+CRG_019,Dog Mountain/Augspurger Mtn,11,2018,1,post,no,no,1154,open,2018-11-15
+CRG_019,Dog Mountain/Augspurger Mtn,12,2014,-3,pre,no,no,28,open,2014-12-15
+CRG_019,Dog Mountain/Augspurger Mtn,12,2015,-2,pre,no,no,85,open,2015-12-15
+CRG_019,Dog Mountain/Augspurger Mtn,12,2016,-1,pre,no,no,28,open,2016-12-15
+CRG_019,Dog Mountain/Augspurger Mtn,12,2017,0,post,no,no,490,open,2017-12-15
+CRG_019,Dog Mountain/Augspurger Mtn,12,2018,1,post,no,no,299,open,2018-12-15
+CRG_020,Mitchell/Wygant area,1,2015,-3,pre,no,no,71,open,2015-01-15
+CRG_020,Mitchell/Wygant area,1,2016,-2,pre,no,no,77,open,2016-01-15
+CRG_020,Mitchell/Wygant area,1,2017,-1,pre,no,no,151,open,2017-01-15
+CRG_020,Mitchell/Wygant area,1,2018,0,post,no,no,41,open,2018-01-15
+CRG_020,Mitchell/Wygant area,1,2019,1,post,no,no,179,open,2019-01-15
+CRG_020,Mitchell/Wygant area,2,2015,-3,pre,no,no,211,open,2015-02-15
+CRG_020,Mitchell/Wygant area,2,2016,-2,pre,no,no,131,open,2016-02-15
+CRG_020,Mitchell/Wygant area,2,2017,-1,pre,no,no,116,open,2017-02-15
+CRG_020,Mitchell/Wygant area,2,2018,0,post,no,no,97,open,2018-02-15
+CRG_020,Mitchell/Wygant area,2,2019,1,post,no,no,132,open,2019-02-15
+CRG_020,Mitchell/Wygant area,3,2015,-3,pre,no,no,186,open,2015-03-15
+CRG_020,Mitchell/Wygant area,3,2016,-2,pre,no,no,424,open,2016-03-15
+CRG_020,Mitchell/Wygant area,3,2017,-1,pre,no,no,302,open,2017-03-15
+CRG_020,Mitchell/Wygant area,3,2018,0,post,no,no,380,open,2018-03-15
+CRG_020,Mitchell/Wygant area,3,2019,1,post,no,no,392,open,2019-03-15
+CRG_020,Mitchell/Wygant area,4,2015,-3,pre,no,no,324,open,2015-04-15
+CRG_020,Mitchell/Wygant area,4,2016,-2,pre,no,no,703,open,2016-04-15
+CRG_020,Mitchell/Wygant area,4,2017,-1,pre,no,no,495,open,2017-04-15
+CRG_020,Mitchell/Wygant area,4,2018,0,post,no,no,846,open,2018-04-15
+CRG_020,Mitchell/Wygant area,4,2019,1,post,no,no,566,open,2019-04-15
+CRG_020,Mitchell/Wygant area,5,2015,-3,pre,no,no,300,open,2015-05-15
+CRG_020,Mitchell/Wygant area,5,2016,-2,pre,no,no,511,open,2016-05-15
+CRG_020,Mitchell/Wygant area,5,2017,-1,pre,no,no,1026,open,2017-05-15
+CRG_020,Mitchell/Wygant area,5,2018,0,post,no,no,2228,open,2018-05-15
+CRG_020,Mitchell/Wygant area,5,2019,1,post,no,no,1459,open,2019-05-15
+CRG_020,Mitchell/Wygant area,6,2015,-3,pre,no,no,316,open,2015-06-15
+CRG_020,Mitchell/Wygant area,6,2016,-2,pre,no,no,722,open,2016-06-15
+CRG_020,Mitchell/Wygant area,6,2017,-1,pre,no,no,1412,open,2017-06-15
+CRG_020,Mitchell/Wygant area,6,2018,0,post,no,no,1364,open,2018-06-15
+CRG_020,Mitchell/Wygant area,6,2019,1,post,no,no,1031,open,2019-06-15
+CRG_020,Mitchell/Wygant area,7,2015,-3,pre,no,no,452,open,2015-07-15
+CRG_020,Mitchell/Wygant area,7,2016,-2,pre,no,no,513,open,2016-07-15
+CRG_020,Mitchell/Wygant area,7,2017,-1,pre,no,no,1004,open,2017-07-15
+CRG_020,Mitchell/Wygant area,7,2018,0,post,no,no,1198,open,2018-07-15
+CRG_020,Mitchell/Wygant area,7,2019,1,post,no,no,1328,open,2019-07-15
+CRG_020,Mitchell/Wygant area,8,2015,-3,pre,no,no,325,open,2015-08-15
+CRG_020,Mitchell/Wygant area,8,2016,-2,pre,no,no,506,open,2016-08-15
+CRG_020,Mitchell/Wygant area,8,2017,-1,pre,no,no,906,open,2017-08-15
+CRG_020,Mitchell/Wygant area,8,2018,0,post,no,no,1330,open,2018-08-15
+CRG_020,Mitchell/Wygant area,8,2019,1,post,no,no,1262,open,2019-08-15
+CRG_020,Mitchell/Wygant area,9,2014,-3,pre,no,no,162,open,2014-09-15
+CRG_020,Mitchell/Wygant area,9,2015,-2,pre,no,no,339,open,2015-09-15
+CRG_020,Mitchell/Wygant area,9,2016,-2,pre,no,no,201,open,2016-09-15
+CRG_020,Mitchell/Wygant area,9,2016,-1,pre,no,no,416,open,2016-09-15
+CRG_020,Mitchell/Wygant area,9,2017,0,post,no,no,289,open,2017-09-15
+CRG_020,Mitchell/Wygant area,9,2018,1,post,no,no,803,open,2018-09-15
+CRG_020,Mitchell/Wygant area,10,2014,-3,pre,no,no,153,open,2014-10-15
+CRG_020,Mitchell/Wygant area,10,2015,-2,pre,no,no,264,open,2015-10-15
+CRG_020,Mitchell/Wygant area,10,2016,-1,pre,no,no,208,open,2016-10-15
+CRG_020,Mitchell/Wygant area,10,2017,0,post,no,no,152,open,2017-10-15
+CRG_020,Mitchell/Wygant area,10,2018,1,post,no,no,458,open,2018-10-15
+CRG_020,Mitchell/Wygant area,11,2014,-3,pre,no,no,72,open,2014-11-15
+CRG_020,Mitchell/Wygant area,11,2015,-2,pre,no,no,130,open,2015-11-15
+CRG_020,Mitchell/Wygant area,11,2016,-1,pre,no,no,210,open,2016-11-15
+CRG_020,Mitchell/Wygant area,11,2017,0,post,no,no,122,open,2017-11-15
+CRG_020,Mitchell/Wygant area,11,2018,1,post,no,no,462,open,2018-11-15
+CRG_020,Mitchell/Wygant area,12,2014,-3,pre,no,no,53,open,2014-12-15
+CRG_020,Mitchell/Wygant area,12,2015,-2,pre,no,no,89,open,2015-12-15
+CRG_020,Mitchell/Wygant area,12,2016,-1,pre,no,no,130,open,2016-12-15
+CRG_020,Mitchell/Wygant area,12,2017,0,post,no,no,73,open,2017-12-15
+CRG_020,Mitchell/Wygant area,12,2018,1,post,no,no,109,open,2018-12-15
+CRG_021,Herman Creek,1,2015,-3,pre,no,yes,75,open,2015-01-15
+CRG_021,Herman Creek,1,2016,-2,pre,no,yes,56,open,2016-01-15
+CRG_021,Herman Creek,1,2017,-1,pre,no,yes,33,open,2017-01-15
+CRG_021,Herman Creek,1,2018,0,post,no,yes,0,closed,2018-01-15
+CRG_021,Herman Creek,1,2019,1,post,no,yes,293,open,2019-01-15
+CRG_021,Herman Creek,2,2015,-3,pre,no,yes,143,open,2015-02-15
+CRG_021,Herman Creek,2,2016,-2,pre,no,yes,152,open,2016-02-15
+CRG_021,Herman Creek,2,2017,-1,pre,no,yes,53,open,2017-02-15
+CRG_021,Herman Creek,2,2018,0,post,no,yes,0,closed,2018-02-15
+CRG_021,Herman Creek,2,2019,1,post,no,yes,173,open,2019-02-15
+CRG_021,Herman Creek,3,2015,-3,pre,no,yes,163,open,2015-03-15
+CRG_021,Herman Creek,3,2016,-2,pre,no,yes,299,open,2016-03-15
+CRG_021,Herman Creek,3,2017,-1,pre,no,yes,236,open,2017-03-15
+CRG_021,Herman Creek,3,2018,0,post,no,yes,0,closed,2018-03-15
+CRG_021,Herman Creek,3,2019,1,post,no,yes,430,open,2019-03-15
+CRG_021,Herman Creek,4,2015,-3,pre,no,yes,287,open,2015-04-15
+CRG_021,Herman Creek,4,2016,-2,pre,no,yes,630,open,2016-04-15
+CRG_021,Herman Creek,4,2017,-1,pre,no,yes,283,open,2017-04-15
+CRG_021,Herman Creek,4,2018,0,post,no,yes,0,closed,2018-04-15
+CRG_021,Herman Creek,4,2019,1,post,no,yes,592,open,2019-04-15
+CRG_021,Herman Creek,5,2015,-3,pre,no,yes,180,open,2015-05-15
+CRG_021,Herman Creek,5,2016,-2,pre,no,yes,815,open,2016-05-15
+CRG_021,Herman Creek,5,2017,-1,pre,no,yes,432,open,2017-05-15
+CRG_021,Herman Creek,5,2018,0,post,no,yes,0,closed,2018-05-15
+CRG_021,Herman Creek,5,2019,1,post,no,yes,1076,open,2019-05-15
+CRG_021,Herman Creek,6,2015,-3,pre,no,yes,356,open,2015-06-15
+CRG_021,Herman Creek,6,2016,-2,pre,no,yes,573,open,2016-06-15
+CRG_021,Herman Creek,6,2017,-1,pre,no,yes,761,open,2017-06-15
+CRG_021,Herman Creek,6,2018,0,post,no,yes,796,open,2018-06-15
+CRG_021,Herman Creek,6,2019,1,post,no,yes,802,open,2019-06-15
+CRG_021,Herman Creek,7,2015,-3,pre,no,yes,327,open,2015-07-15
+CRG_021,Herman Creek,7,2016,-2,pre,no,yes,592,open,2016-07-15
+CRG_021,Herman Creek,7,2017,-1,pre,no,yes,605,open,2017-07-15
+CRG_021,Herman Creek,7,2018,0,post,no,yes,622,open,2018-07-15
+CRG_021,Herman Creek,7,2019,1,post,no,yes,522,open,2019-07-15
+CRG_021,Herman Creek,8,2015,-3,pre,no,yes,502,open,2015-08-15
+CRG_021,Herman Creek,8,2016,-2,pre,no,yes,451,open,2016-08-15
+CRG_021,Herman Creek,8,2017,-1,pre,no,yes,468,open,2017-08-15
+CRG_021,Herman Creek,8,2018,0,post,no,yes,834,open,2018-08-15
+CRG_021,Herman Creek,8,2019,1,post,no,yes,562,open,2019-08-15
+CRG_021,Herman Creek,9,2014,-3,pre,no,yes,183,open,2014-09-15
+CRG_021,Herman Creek,9,2015,-2,pre,no,yes,197,open,2015-09-15
+CRG_021,Herman Creek,9,2016,-2,pre,no,yes,98,open,2016-09-15
+CRG_021,Herman Creek,9,2016,-1,pre,no,yes,299,open,2016-09-15
+CRG_021,Herman Creek,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_021,Herman Creek,9,2018,1,post,no,yes,363,open,2018-09-15
+CRG_021,Herman Creek,10,2014,-3,pre,no,yes,104,open,2014-10-15
+CRG_021,Herman Creek,10,2015,-2,pre,no,yes,249,open,2015-10-15
+CRG_021,Herman Creek,10,2016,-1,pre,no,yes,143,open,2016-10-15
+CRG_021,Herman Creek,10,2017,0,post,no,yes,0,closed,2017-10-15
+CRG_021,Herman Creek,10,2018,1,post,no,yes,275,open,2018-10-15
+CRG_021,Herman Creek,11,2014,-3,pre,no,yes,61,open,2014-11-15
+CRG_021,Herman Creek,11,2015,-2,pre,no,yes,108,open,2015-11-15
+CRG_021,Herman Creek,11,2016,-1,pre,no,yes,181,open,2016-11-15
+CRG_021,Herman Creek,11,2017,0,post,no,yes,0,closed,2017-11-15
+CRG_021,Herman Creek,11,2018,1,post,no,yes,218,open,2018-11-15
+CRG_021,Herman Creek,12,2014,-3,pre,no,yes,32,open,2014-12-15
+CRG_021,Herman Creek,12,2015,-2,pre,no,yes,76,open,2015-12-15
+CRG_021,Herman Creek,12,2016,-1,pre,no,yes,68,open,2016-12-15
+CRG_021,Herman Creek,12,2017,0,post,no,yes,0,closed,2017-12-15
+CRG_021,Herman Creek,12,2018,1,post,no,yes,108,open,2018-12-15
+CRG_022,Horsetail Falls,1,2015,-3,pre,no,yes,328,open,2015-01-15
+CRG_022,Horsetail Falls,1,2016,-2,pre,no,yes,403,open,2016-01-15
+CRG_022,Horsetail Falls,1,2017,-1,pre,no,yes,921,open,2017-01-15
+CRG_022,Horsetail Falls,1,2018,0,post,no,yes,0,closed,2018-01-15
+CRG_022,Horsetail Falls,1,2019,1,post,no,yes,460,open,2019-01-15
+CRG_022,Horsetail Falls,2,2015,-3,pre,no,yes,690,open,2015-02-15
+CRG_022,Horsetail Falls,2,2016,-2,pre,no,yes,638,open,2016-02-15
+CRG_022,Horsetail Falls,2,2017,-1,pre,no,yes,548,open,2017-02-15
+CRG_022,Horsetail Falls,2,2018,0,post,no,yes,0,closed,2018-02-15
+CRG_022,Horsetail Falls,2,2019,1,post,no,yes,623,open,2019-02-15
+CRG_022,Horsetail Falls,3,2015,-3,pre,no,yes,809,open,2015-03-15
+CRG_022,Horsetail Falls,3,2016,-2,pre,no,yes,1475,open,2016-03-15
+CRG_022,Horsetail Falls,3,2017,-1,pre,no,yes,1801,open,2017-03-15
+CRG_022,Horsetail Falls,3,2018,0,post,no,yes,0,closed,2018-03-15
+CRG_022,Horsetail Falls,3,2019,1,post,no,yes,1803,open,2019-03-15
+CRG_022,Horsetail Falls,4,2015,-3,pre,no,yes,2057,open,2015-04-15
+CRG_022,Horsetail Falls,4,2016,-2,pre,no,yes,2640,open,2016-04-15
+CRG_022,Horsetail Falls,4,2017,-1,pre,no,yes,3322,open,2017-04-15
+CRG_022,Horsetail Falls,4,2018,0,post,no,yes,0,closed,2018-04-15
+CRG_022,Horsetail Falls,4,2019,1,post,no,yes,1757,open,2019-04-15
+CRG_022,Horsetail Falls,5,2015,-3,pre,no,yes,2408,open,2015-05-15
+CRG_022,Horsetail Falls,5,2016,-2,pre,no,yes,7032,open,2016-05-15
+CRG_022,Horsetail Falls,5,2017,-1,pre,no,yes,4930,open,2017-05-15
+CRG_022,Horsetail Falls,5,2018,0,post,no,yes,0,closed,2018-05-15
+CRG_022,Horsetail Falls,5,2019,1,post,no,yes,4230,open,2019-05-15
+CRG_022,Horsetail Falls,6,2015,-3,pre,no,yes,3185,open,2015-06-15
+CRG_022,Horsetail Falls,6,2016,-2,pre,no,yes,8029,open,2016-06-15
+CRG_022,Horsetail Falls,6,2017,-1,pre,no,yes,8627,open,2017-06-15
+CRG_022,Horsetail Falls,6,2018,0,post,no,yes,0,closed,2018-06-15
+CRG_022,Horsetail Falls,6,2019,1,post,no,yes,4012,open,2019-06-15
+CRG_022,Horsetail Falls,7,2015,-3,pre,no,yes,4175,open,2015-07-15
+CRG_022,Horsetail Falls,7,2016,-2,pre,no,yes,6838,open,2016-07-15
+CRG_022,Horsetail Falls,7,2017,-1,pre,no,yes,8687,open,2017-07-15
+CRG_022,Horsetail Falls,7,2018,0,post,no,yes,0,closed,2018-07-15
+CRG_022,Horsetail Falls,7,2019,1,post,no,yes,5143,open,2019-07-15
+CRG_022,Horsetail Falls,8,2015,-3,pre,no,yes,2731,open,2015-08-15
+CRG_022,Horsetail Falls,8,2016,-2,pre,no,yes,7348,open,2016-08-15
+CRG_022,Horsetail Falls,8,2017,-1,pre,no,yes,6861,open,2017-08-15
+CRG_022,Horsetail Falls,8,2018,0,post,no,yes,0,closed,2018-08-15
+CRG_022,Horsetail Falls,8,2019,1,post,no,yes,5011,open,2019-08-15
+CRG_022,Horsetail Falls,9,2014,-3,pre,no,yes,1625,open,2014-09-15
+CRG_022,Horsetail Falls,9,2015,-2,pre,no,yes,2200,open,2015-09-15
+CRG_022,Horsetail Falls,9,2016,-2,pre,no,yes,1388,open,2016-09-15
+CRG_022,Horsetail Falls,9,2016,-1,pre,no,yes,3515,open,2016-09-15
+CRG_022,Horsetail Falls,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_022,Horsetail Falls,9,2018,1,post,no,yes,0,closed,2018-09-15
+CRG_022,Horsetail Falls,10,2014,-3,pre,no,yes,683,open,2014-10-15
+CRG_022,Horsetail Falls,10,2015,-2,pre,no,yes,1618,open,2015-10-15
+CRG_022,Horsetail Falls,10,2016,-1,pre,no,yes,1176,open,2016-10-15
+CRG_022,Horsetail Falls,10,2017,0,post,no,yes,0,closed,2017-10-15
+CRG_022,Horsetail Falls,10,2018,1,post,no,yes,0,closed,2018-10-15
+CRG_022,Horsetail Falls,11,2014,-3,pre,no,yes,432,open,2014-11-15
+CRG_022,Horsetail Falls,11,2015,-2,pre,no,yes,776,open,2015-11-15
+CRG_022,Horsetail Falls,11,2016,-1,pre,no,yes,1022,open,2016-11-15
+CRG_022,Horsetail Falls,11,2017,0,post,no,yes,0,closed,2017-11-15
+CRG_022,Horsetail Falls,11,2018,1,post,no,yes,116,closed,2018-11-15
+CRG_022,Horsetail Falls,12,2014,-3,pre,no,yes,190,open,2014-12-15
+CRG_022,Horsetail Falls,12,2015,-2,pre,no,yes,465,open,2015-12-15
+CRG_022,Horsetail Falls,12,2016,-1,pre,no,yes,677,open,2016-12-15
+CRG_022,Horsetail Falls,12,2017,0,post,no,yes,0,closed,2017-12-15
+CRG_022,Horsetail Falls,12,2018,1,post,no,yes,314,open,2018-12-15
+CRG_023,Wahkeena Falls,1,2015,-3,pre,no,yes,200,open,2015-01-15
+CRG_023,Wahkeena Falls,1,2016,-2,pre,no,yes,409,open,2016-01-15
+CRG_023,Wahkeena Falls,1,2017,-1,pre,no,yes,424,open,2017-01-15
+CRG_023,Wahkeena Falls,1,2018,0,post,no,yes,0,closed,2018-01-15
+CRG_023,Wahkeena Falls,1,2019,1,post,no,yes,1309,open,2019-01-15
+CRG_023,Wahkeena Falls,2,2015,-3,pre,no,yes,489,open,2015-02-15
+CRG_023,Wahkeena Falls,2,2016,-2,pre,no,yes,755,open,2016-02-15
+CRG_023,Wahkeena Falls,2,2017,-1,pre,no,yes,531,open,2017-02-15
+CRG_023,Wahkeena Falls,2,2018,0,post,no,yes,0,closed,2018-02-15
+CRG_023,Wahkeena Falls,2,2019,1,post,no,yes,761,open,2019-02-15
+CRG_023,Wahkeena Falls,3,2015,-3,pre,no,yes,587,open,2015-03-15
+CRG_023,Wahkeena Falls,3,2016,-2,pre,no,yes,1645,open,2016-03-15
+CRG_023,Wahkeena Falls,3,2017,-1,pre,no,yes,1229,open,2017-03-15
+CRG_023,Wahkeena Falls,3,2018,0,post,no,yes,0,closed,2018-03-15
+CRG_023,Wahkeena Falls,3,2019,1,post,no,yes,2826,open,2019-03-15
+CRG_023,Wahkeena Falls,4,2015,-3,pre,no,yes,1413,open,2015-04-15
+CRG_023,Wahkeena Falls,4,2016,-2,pre,no,yes,2336,open,2016-04-15
+CRG_023,Wahkeena Falls,4,2017,-1,pre,no,yes,2235,open,2017-04-15
+CRG_023,Wahkeena Falls,4,2018,0,post,no,yes,0,closed,2018-04-15
+CRG_023,Wahkeena Falls,4,2019,1,post,no,yes,2252,open,2019-04-15
+CRG_023,Wahkeena Falls,5,2015,-3,pre,no,yes,1834,open,2015-05-15
+CRG_023,Wahkeena Falls,5,2016,-2,pre,no,yes,4073,open,2016-05-15
+CRG_023,Wahkeena Falls,5,2017,-1,pre,no,yes,3723,open,2017-05-15
+CRG_023,Wahkeena Falls,5,2018,0,post,no,yes,0,closed,2018-05-15
+CRG_023,Wahkeena Falls,5,2019,1,post,no,yes,5581,open,2019-05-15
+CRG_023,Wahkeena Falls,6,2015,-3,pre,no,yes,2648,open,2015-06-15
+CRG_023,Wahkeena Falls,6,2016,-2,pre,no,yes,4775,open,2016-06-15
+CRG_023,Wahkeena Falls,6,2017,-1,pre,no,yes,7385,open,2017-06-15
+CRG_023,Wahkeena Falls,6,2018,0,post,no,yes,0,closed,2018-06-15
+CRG_023,Wahkeena Falls,6,2019,1,post,no,yes,5253,open,2019-06-15
+CRG_023,Wahkeena Falls,7,2015,-3,pre,no,yes,3318,open,2015-07-15
+CRG_023,Wahkeena Falls,7,2016,-2,pre,no,yes,5791,open,2016-07-15
+CRG_023,Wahkeena Falls,7,2017,-1,pre,no,yes,6611,open,2017-07-15
+CRG_023,Wahkeena Falls,7,2018,0,post,no,yes,0,closed,2018-07-15
+CRG_023,Wahkeena Falls,7,2019,1,post,no,yes,8423,open,2019-07-15
+CRG_023,Wahkeena Falls,8,2015,-3,pre,no,yes,2528,open,2015-08-15
+CRG_023,Wahkeena Falls,8,2016,-2,pre,no,yes,5685,open,2016-08-15
+CRG_023,Wahkeena Falls,8,2017,-1,pre,no,yes,6831,open,2017-08-15
+CRG_023,Wahkeena Falls,8,2018,0,post,no,yes,0,closed,2018-08-15
+CRG_023,Wahkeena Falls,8,2019,1,post,no,yes,7196,open,2019-08-15
+CRG_023,Wahkeena Falls,9,2014,-3,pre,no,yes,882,open,2014-09-15
+CRG_023,Wahkeena Falls,9,2015,-2,pre,no,yes,2219,open,2015-09-15
+CRG_023,Wahkeena Falls,9,2016,-2,pre,no,yes,1238,open,2016-09-15
+CRG_023,Wahkeena Falls,9,2016,-1,pre,no,yes,3379,open,2016-09-15
+CRG_023,Wahkeena Falls,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_023,Wahkeena Falls,9,2018,1,post,no,yes,0,closed,2018-09-15
+CRG_023,Wahkeena Falls,10,2014,-3,pre,no,yes,302,open,2014-10-15
+CRG_023,Wahkeena Falls,10,2015,-2,pre,no,yes,1522,open,2015-10-15
+CRG_023,Wahkeena Falls,10,2016,-1,pre,no,yes,1375,open,2016-10-15
+CRG_023,Wahkeena Falls,10,2017,0,post,no,yes,0,closed,2017-10-15
+CRG_023,Wahkeena Falls,10,2018,1,post,no,yes,0,closed,2018-10-15
+CRG_023,Wahkeena Falls,11,2014,-3,pre,no,yes,126,open,2014-11-15
+CRG_023,Wahkeena Falls,11,2015,-2,pre,no,yes,777,open,2015-11-15
+CRG_023,Wahkeena Falls,11,2016,-1,pre,no,yes,1193,open,2016-11-15
+CRG_023,Wahkeena Falls,11,2017,0,post,no,yes,0,closed,2017-11-15
+CRG_023,Wahkeena Falls,11,2018,1,post,no,yes,303,closed,2018-11-15
+CRG_023,Wahkeena Falls,12,2014,-3,pre,no,yes,173,open,2014-12-15
+CRG_023,Wahkeena Falls,12,2015,-2,pre,no,yes,536,open,2015-12-15
+CRG_023,Wahkeena Falls,12,2016,-1,pre,no,yes,556,open,2016-12-15
+CRG_023,Wahkeena Falls,12,2017,0,post,no,yes,0,closed,2017-12-15
+CRG_023,Wahkeena Falls,12,2018,1,post,no,yes,686,open,2018-12-15
+CRG_024,Angels rest trail,1,2015,-3,pre,no,yes,464,open,2015-01-15
+CRG_024,Angels rest trail,1,2016,-2,pre,no,yes,400,open,2016-01-15
+CRG_024,Angels rest trail,1,2017,-1,pre,no,yes,451,open,2017-01-15
+CRG_024,Angels rest trail,1,2018,0,post,no,yes,0,closed,2018-01-15
+CRG_024,Angels rest trail,1,2019,1,post,no,yes,2306,open,2019-01-15
+CRG_024,Angels rest trail,2,2015,-3,pre,no,yes,915,open,2015-02-15
+CRG_024,Angels rest trail,2,2016,-2,pre,no,yes,706,open,2016-02-15
+CRG_024,Angels rest trail,2,2017,-1,pre,no,yes,825,open,2017-02-15
+CRG_024,Angels rest trail,2,2018,0,post,no,yes,0,closed,2018-02-15
+CRG_024,Angels rest trail,2,2019,1,post,no,yes,1325,open,2019-02-15
+CRG_024,Angels rest trail,3,2015,-3,pre,no,yes,729,open,2015-03-15
+CRG_024,Angels rest trail,3,2016,-2,pre,no,yes,1850,open,2016-03-15
+CRG_024,Angels rest trail,3,2017,-1,pre,no,yes,2128,open,2017-03-15
+CRG_024,Angels rest trail,3,2018,0,post,no,yes,0,closed,2018-03-15
+CRG_024,Angels rest trail,3,2019,1,post,no,yes,5191,open,2019-03-15
+CRG_024,Angels rest trail,4,2015,-3,pre,no,yes,1897,open,2015-04-15
+CRG_024,Angels rest trail,4,2016,-2,pre,no,yes,2389,open,2016-04-15
+CRG_024,Angels rest trail,4,2017,-1,pre,no,yes,3138,open,2017-04-15
+CRG_024,Angels rest trail,4,2018,0,post,no,yes,0,closed,2018-04-15
+CRG_024,Angels rest trail,4,2019,1,post,no,yes,7124,open,2019-04-15
+CRG_024,Angels rest trail,5,2015,-3,pre,no,yes,2787,open,2015-05-15
+CRG_024,Angels rest trail,5,2016,-2,pre,no,yes,5432,open,2016-05-15
+CRG_024,Angels rest trail,5,2017,-1,pre,no,yes,7460,open,2017-05-15
+CRG_024,Angels rest trail,5,2018,0,post,no,yes,0,closed,2018-05-15
+CRG_024,Angels rest trail,5,2019,1,post,no,yes,13036,open,2019-05-15
+CRG_024,Angels rest trail,6,2015,-3,pre,no,yes,3985,open,2015-06-15
+CRG_024,Angels rest trail,6,2016,-2,pre,no,yes,5795,open,2016-06-15
+CRG_024,Angels rest trail,6,2017,-1,pre,no,yes,12362,open,2017-06-15
+CRG_024,Angels rest trail,6,2018,0,post,no,yes,0,closed,2018-06-15
+CRG_024,Angels rest trail,6,2019,1,post,no,yes,11256,open,2019-06-15
+CRG_024,Angels rest trail,7,2015,-3,pre,no,yes,3875,open,2015-07-15
+CRG_024,Angels rest trail,7,2016,-2,pre,no,yes,5055,open,2016-07-15
+CRG_024,Angels rest trail,7,2017,-1,pre,no,yes,8594,open,2017-07-15
+CRG_024,Angels rest trail,7,2018,0,post,no,yes,0,closed,2018-07-15
+CRG_024,Angels rest trail,7,2019,1,post,no,yes,14211,open,2019-07-15
+CRG_024,Angels rest trail,8,2015,-3,pre,no,yes,2293,open,2015-08-15
+CRG_024,Angels rest trail,8,2016,-2,pre,no,yes,4341,open,2016-08-15
+CRG_024,Angels rest trail,8,2017,-1,pre,no,yes,6542,open,2017-08-15
+CRG_024,Angels rest trail,8,2018,0,post,no,yes,0,closed,2018-08-15
+CRG_024,Angels rest trail,8,2019,1,post,no,yes,14116,open,2019-08-15
+CRG_024,Angels rest trail,9,2014,-3,pre,no,yes,920,open,2014-09-15
+CRG_024,Angels rest trail,9,2015,-2,pre,no,yes,3131,open,2015-09-15
+CRG_024,Angels rest trail,9,2016,-2,pre,no,yes,798,open,2016-09-15
+CRG_024,Angels rest trail,9,2016,-1,pre,no,yes,2178,open,2016-09-15
+CRG_024,Angels rest trail,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_024,Angels rest trail,9,2018,1,post,no,yes,0,closed,2018-09-15
+CRG_024,Angels rest trail,10,2014,-3,pre,no,yes,693,open,2014-10-15
+CRG_024,Angels rest trail,10,2015,-2,pre,no,yes,1301,open,2015-10-15
+CRG_024,Angels rest trail,10,2016,-1,pre,no,yes,826,open,2016-10-15
+CRG_024,Angels rest trail,10,2017,0,post,no,yes,0,closed,2017-10-15
+CRG_024,Angels rest trail,10,2018,1,post,no,yes,0,closed,2018-10-15
+CRG_024,Angels rest trail,11,2014,-3,pre,no,yes,307,open,2014-11-15
+CRG_024,Angels rest trail,11,2015,-2,pre,no,yes,656,open,2015-11-15
+CRG_024,Angels rest trail,11,2016,-1,pre,no,yes,1223,open,2016-11-15
+CRG_024,Angels rest trail,11,2017,0,post,no,yes,0,closed,2017-11-15
+CRG_024,Angels rest trail,11,2018,1,post,no,yes,509,closed,2018-11-15
+CRG_024,Angels rest trail,12,2014,-3,pre,no,yes,162,open,2014-12-15
+CRG_024,Angels rest trail,12,2015,-2,pre,no,yes,310,open,2015-12-15
+CRG_024,Angels rest trail,12,2016,-1,pre,no,yes,481,open,2016-12-15
+CRG_024,Angels rest trail,12,2017,0,post,no,yes,0,closed,2017-12-15
+CRG_024,Angels rest trail,12,2018,1,post,no,yes,1196,open,2018-12-15
+CRG_026,Beacon Rock,1,2015,-3,pre,no,yes,297,open,2015-01-15
+CRG_026,Beacon Rock,1,2016,-2,pre,no,yes,206,open,2016-01-15
+CRG_026,Beacon Rock,1,2017,-1,pre,no,yes,322,open,2017-01-15
+CRG_026,Beacon Rock,1,2018,0,post,no,yes,963,open,2018-01-15
+CRG_026,Beacon Rock,1,2019,1,post,no,yes,1493,open,2019-01-15
+CRG_026,Beacon Rock,2,2015,-3,pre,no,yes,847,open,2015-02-15
+CRG_026,Beacon Rock,2,2016,-2,pre,no,yes,355,open,2016-02-15
+CRG_026,Beacon Rock,2,2017,-1,pre,no,yes,395,open,2017-02-15
+CRG_026,Beacon Rock,2,2018,0,post,no,yes,1506,open,2018-02-15
+CRG_026,Beacon Rock,2,2019,1,post,no,yes,881,open,2019-02-15
+CRG_026,Beacon Rock,3,2015,-3,pre,no,yes,561,open,2015-03-15
+CRG_026,Beacon Rock,3,2016,-2,pre,no,yes,776,open,2016-03-15
+CRG_026,Beacon Rock,3,2017,-1,pre,no,yes,1145,open,2017-03-15
+CRG_026,Beacon Rock,3,2018,0,post,no,yes,4072,open,2018-03-15
+CRG_026,Beacon Rock,3,2019,1,post,no,yes,4119,open,2019-03-15
+CRG_026,Beacon Rock,4,2015,-3,pre,no,yes,1457,open,2015-04-15
+CRG_026,Beacon Rock,4,2016,-2,pre,no,yes,1741,open,2016-04-15
+CRG_026,Beacon Rock,4,2017,-1,pre,no,yes,2429,open,2017-04-15
+CRG_026,Beacon Rock,4,2018,0,post,no,yes,4088,open,2018-04-15
+CRG_026,Beacon Rock,4,2019,1,post,no,yes,4540,open,2019-04-15
+CRG_026,Beacon Rock,5,2015,-3,pre,no,yes,1589,open,2015-05-15
+CRG_026,Beacon Rock,5,2016,-2,pre,no,yes,2989,open,2016-05-15
+CRG_026,Beacon Rock,5,2017,-1,pre,no,yes,5383,open,2017-05-15
+CRG_026,Beacon Rock,5,2018,0,post,no,yes,14777,open,2018-05-15
+CRG_026,Beacon Rock,5,2019,1,post,no,yes,11355,open,2019-05-15
+CRG_026,Beacon Rock,6,2015,-3,pre,no,yes,1579,open,2015-06-15
+CRG_026,Beacon Rock,6,2016,-2,pre,no,yes,4598,open,2016-06-15
+CRG_026,Beacon Rock,6,2017,-1,pre,no,yes,6221,open,2017-06-15
+CRG_026,Beacon Rock,6,2018,0,post,no,yes,9162,open,2018-06-15
+CRG_026,Beacon Rock,6,2019,1,post,no,yes,7673,open,2019-06-15
+CRG_026,Beacon Rock,7,2015,-3,pre,no,yes,2054,open,2015-07-15
+CRG_026,Beacon Rock,7,2016,-2,pre,no,yes,4654,open,2016-07-15
+CRG_026,Beacon Rock,7,2017,-1,pre,no,yes,5296,open,2017-07-15
+CRG_026,Beacon Rock,7,2018,0,post,no,yes,8066,open,2018-07-15
+CRG_026,Beacon Rock,7,2019,1,post,no,yes,10294,open,2019-07-15
+CRG_026,Beacon Rock,8,2015,-3,pre,no,yes,1577,open,2015-08-15
+CRG_026,Beacon Rock,8,2016,-2,pre,no,yes,3835,open,2016-08-15
+CRG_026,Beacon Rock,8,2017,-1,pre,no,yes,4610,open,2017-08-15
+CRG_026,Beacon Rock,8,2018,0,post,no,yes,10231,open,2018-08-15
+CRG_026,Beacon Rock,8,2019,1,post,no,yes,10033,open,2019-08-15
+CRG_026,Beacon Rock,9,2014,-3,pre,no,yes,632,open,2014-09-15
+CRG_026,Beacon Rock,9,2015,-2,pre,no,yes,1899,open,2015-09-15
+CRG_026,Beacon Rock,9,2016,-2,pre,no,yes,809,open,2016-09-15
+CRG_026,Beacon Rock,9,2016,-1,pre,no,yes,2152,open,2016-09-15
+CRG_026,Beacon Rock,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_026,Beacon Rock,9,2018,1,post,no,yes,5039,open,2018-09-15
+CRG_026,Beacon Rock,10,2014,-3,pre,no,yes,398,open,2014-10-15
+CRG_026,Beacon Rock,10,2015,-2,pre,no,yes,932,open,2015-10-15
+CRG_026,Beacon Rock,10,2016,-1,pre,no,yes,798,open,2016-10-15
+CRG_026,Beacon Rock,10,2017,0,post,no,yes,974,open,2017-10-15
+CRG_026,Beacon Rock,10,2018,1,post,no,yes,3345,open,2018-10-15
+CRG_026,Beacon Rock,11,2014,-3,pre,no,yes,198,open,2014-11-15
+CRG_026,Beacon Rock,11,2015,-2,pre,no,yes,329,open,2015-11-15
+CRG_026,Beacon Rock,11,2016,-1,pre,no,yes,674,open,2016-11-15
+CRG_026,Beacon Rock,11,2017,0,post,no,yes,1413,open,2017-11-15
+CRG_026,Beacon Rock,11,2018,1,post,no,yes,2204,open,2018-11-15
+CRG_026,Beacon Rock,12,2014,-3,pre,no,yes,169,open,2014-12-15
+CRG_026,Beacon Rock,12,2015,-2,pre,no,yes,150,open,2015-12-15
+CRG_026,Beacon Rock,12,2016,-1,pre,no,yes,386,open,2016-12-15
+CRG_026,Beacon Rock,12,2017,0,post,no,yes,945,open,2017-12-15
+CRG_026,Beacon Rock,12,2018,1,post,no,yes,634,open,2018-12-15
+CRG_027,Latourell Falls,1,2015,-3,pre,no,yes,462,open,2015-01-15
+CRG_027,Latourell Falls,1,2016,-2,pre,no,yes,462,open,2016-01-15
+CRG_027,Latourell Falls,1,2017,-1,pre,no,yes,840,open,2017-01-15
+CRG_027,Latourell Falls,1,2018,0,post,no,yes,1051,open,2018-01-15
+CRG_027,Latourell Falls,1,2019,1,post,no,yes,1472,open,2019-01-15
+CRG_027,Latourell Falls,2,2015,-3,pre,no,yes,731,open,2015-02-15
+CRG_027,Latourell Falls,2,2016,-2,pre,no,yes,867,open,2016-02-15
+CRG_027,Latourell Falls,2,2017,-1,pre,no,yes,802,open,2017-02-15
+CRG_027,Latourell Falls,2,2018,0,post,no,yes,2079,open,2018-02-15
+CRG_027,Latourell Falls,2,2019,1,post,no,yes,1367,open,2019-02-15
+CRG_027,Latourell Falls,3,2015,-3,pre,no,yes,739,open,2015-03-15
+CRG_027,Latourell Falls,3,2016,-2,pre,no,yes,1909,open,2016-03-15
+CRG_027,Latourell Falls,3,2017,-1,pre,no,yes,2928,open,2017-03-15
+CRG_027,Latourell Falls,3,2018,0,post,no,yes,4404,open,2018-03-15
+CRG_027,Latourell Falls,3,2019,1,post,no,yes,2788,open,2019-03-15
+CRG_027,Latourell Falls,4,2015,-3,pre,no,yes,1825,open,2015-04-15
+CRG_027,Latourell Falls,4,2016,-2,pre,no,yes,3143,open,2016-04-15
+CRG_027,Latourell Falls,4,2017,-1,pre,no,yes,3126,open,2017-04-15
+CRG_027,Latourell Falls,4,2018,0,post,no,yes,5389,open,2018-04-15
+CRG_027,Latourell Falls,4,2019,1,post,no,yes,5530,open,2019-04-15
+CRG_027,Latourell Falls,5,2015,-3,pre,no,yes,2244,open,2015-05-15
+CRG_027,Latourell Falls,5,2016,-2,pre,no,yes,7582,open,2016-05-15
+CRG_027,Latourell Falls,5,2017,-1,pre,no,yes,6902,open,2017-05-15
+CRG_027,Latourell Falls,5,2018,0,post,no,yes,15167,open,2018-05-15
+CRG_027,Latourell Falls,5,2019,1,post,no,yes,10738,open,2019-05-15
+CRG_027,Latourell Falls,6,2015,-3,pre,no,yes,3011,open,2015-06-15
+CRG_027,Latourell Falls,6,2016,-2,pre,no,yes,8668,open,2016-06-15
+CRG_027,Latourell Falls,6,2017,-1,pre,no,yes,11195,open,2017-06-15
+CRG_027,Latourell Falls,6,2018,0,post,no,yes,9060,open,2018-06-15
+CRG_027,Latourell Falls,6,2019,1,post,no,yes,8799,open,2019-06-15
+CRG_027,Latourell Falls,7,2015,-3,pre,no,yes,4456,open,2015-07-15
+CRG_027,Latourell Falls,7,2016,-2,pre,no,yes,8034,open,2016-07-15
+CRG_027,Latourell Falls,7,2017,-1,pre,no,yes,7924,open,2017-07-15
+CRG_027,Latourell Falls,7,2018,0,post,no,yes,12420,open,2018-07-15
+CRG_027,Latourell Falls,7,2019,1,post,no,yes,10036,open,2019-07-15
+CRG_027,Latourell Falls,8,2015,-3,pre,no,yes,2524,open,2015-08-15
+CRG_027,Latourell Falls,8,2016,-2,pre,no,yes,6439,open,2016-08-15
+CRG_027,Latourell Falls,8,2017,-1,pre,no,yes,7245,open,2017-08-15
+CRG_027,Latourell Falls,8,2018,0,post,no,yes,11472,open,2018-08-15
+CRG_027,Latourell Falls,8,2019,1,post,no,yes,12083,open,2019-08-15
+CRG_027,Latourell Falls,9,2014,-3,pre,no,yes,1209,open,2014-09-15
+CRG_027,Latourell Falls,9,2015,-2,pre,no,yes,1919,open,2015-09-15
+CRG_027,Latourell Falls,9,2016,-2,pre,no,yes,1644,open,2016-09-15
+CRG_027,Latourell Falls,9,2016,-1,pre,no,yes,4471,open,2016-09-15
+CRG_027,Latourell Falls,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_027,Latourell Falls,9,2018,1,post,no,yes,4788,open,2018-09-15
+CRG_027,Latourell Falls,10,2014,-3,pre,no,yes,708,open,2014-10-15
+CRG_027,Latourell Falls,10,2015,-2,pre,no,yes,1660,open,2015-10-15
+CRG_027,Latourell Falls,10,2016,-1,pre,no,yes,1901,open,2016-10-15
+CRG_027,Latourell Falls,10,2017,0,post,no,yes,158,open,2017-10-15
+CRG_027,Latourell Falls,10,2018,1,post,no,yes,4491,open,2018-10-15
+CRG_027,Latourell Falls,11,2014,-3,pre,no,yes,415,open,2014-11-15
+CRG_027,Latourell Falls,11,2015,-2,pre,no,yes,797,open,2015-11-15
+CRG_027,Latourell Falls,11,2016,-1,pre,no,yes,1507,open,2016-11-15
+CRG_027,Latourell Falls,11,2017,0,post,no,yes,873,open,2017-11-15
+CRG_027,Latourell Falls,11,2018,1,post,no,yes,3016,open,2018-11-15
+CRG_027,Latourell Falls,12,2014,-3,pre,no,yes,266,open,2014-12-15
+CRG_027,Latourell Falls,12,2015,-2,pre,no,yes,547,open,2015-12-15
+CRG_027,Latourell Falls,12,2016,-1,pre,no,yes,1013,open,2016-12-15
+CRG_027,Latourell Falls,12,2017,0,post,no,yes,814,open,2017-12-15
+CRG_027,Latourell Falls,12,2018,1,post,no,yes,918,open,2018-12-15
+CRG_028,Dog River,1,2015,-3,pre,no,no,28,open,2015-01-15
+CRG_028,Dog River,1,2016,-2,pre,no,no,17,open,2016-01-15
+CRG_028,Dog River,1,2017,-1,pre,no,no,28,open,2017-01-15
+CRG_028,Dog River,1,2018,0,post,no,no,21,open,2018-01-15
+CRG_028,Dog River,1,2019,1,post,no,no,40,open,2019-01-15
+CRG_028,Dog River,2,2015,-3,pre,no,no,47,open,2015-02-15
+CRG_028,Dog River,2,2016,-2,pre,no,no,31,open,2016-02-15
+CRG_028,Dog River,2,2017,-1,pre,no,no,29,open,2017-02-15
+CRG_028,Dog River,2,2018,0,post,no,no,32,open,2018-02-15
+CRG_028,Dog River,2,2019,1,post,no,no,36,open,2019-02-15
+CRG_028,Dog River,3,2015,-3,pre,no,no,50,open,2015-03-15
+CRG_028,Dog River,3,2016,-2,pre,no,no,75,open,2016-03-15
+CRG_028,Dog River,3,2017,-1,pre,no,no,49,open,2017-03-15
+CRG_028,Dog River,3,2018,0,post,no,no,71,open,2018-03-15
+CRG_028,Dog River,3,2019,1,post,no,no,77,open,2019-03-15
+CRG_028,Dog River,4,2015,-3,pre,no,no,186,open,2015-04-15
+CRG_028,Dog River,4,2016,-2,pre,no,no,93,open,2016-04-15
+CRG_028,Dog River,4,2017,-1,pre,no,no,63,open,2017-04-15
+CRG_028,Dog River,4,2018,0,post,no,no,122,open,2018-04-15
+CRG_028,Dog River,4,2019,1,post,no,no,74,open,2019-04-15
+CRG_028,Dog River,5,2015,-3,pre,no,no,111,open,2015-05-15
+CRG_028,Dog River,5,2016,-2,pre,no,no,365,open,2016-05-15
+CRG_028,Dog River,5,2017,-1,pre,no,no,263,open,2017-05-15
+CRG_028,Dog River,5,2018,0,post,no,no,249,open,2018-05-15
+CRG_028,Dog River,5,2019,1,post,no,no,235,open,2019-05-15
+CRG_028,Dog River,6,2015,-3,pre,no,no,150,open,2015-06-15
+CRG_028,Dog River,6,2016,-2,pre,no,no,213,open,2016-06-15
+CRG_028,Dog River,6,2017,-1,pre,no,no,328,open,2017-06-15
+CRG_028,Dog River,6,2018,0,post,no,no,146,open,2018-06-15
+CRG_028,Dog River,6,2019,1,post,no,no,143,open,2019-06-15
+CRG_028,Dog River,7,2015,-3,pre,no,no,192,open,2015-07-15
+CRG_028,Dog River,7,2016,-2,pre,no,no,160,open,2016-07-15
+CRG_028,Dog River,7,2017,-1,pre,no,no,139,open,2017-07-15
+CRG_028,Dog River,7,2018,0,post,no,no,153,open,2018-07-15
+CRG_028,Dog River,7,2019,1,post,no,no,148,open,2019-07-15
+CRG_028,Dog River,8,2015,-3,pre,no,no,135,open,2015-08-15
+CRG_028,Dog River,8,2016,-2,pre,no,no,165,open,2016-08-15
+CRG_028,Dog River,8,2017,-1,pre,no,no,184,open,2017-08-15
+CRG_028,Dog River,8,2018,0,post,no,no,200,open,2018-08-15
+CRG_028,Dog River,8,2019,1,post,no,no,226,open,2019-08-15
+CRG_028,Dog River,9,2014,-3,pre,no,no,108,open,2014-09-15
+CRG_028,Dog River,9,2015,-2,pre,no,no,117,open,2015-09-15
+CRG_028,Dog River,9,2016,-2,pre,no,no,44,open,2016-09-15
+CRG_028,Dog River,9,2016,-1,pre,no,no,143,open,2016-09-15
+CRG_028,Dog River,9,2017,0,post,no,no,128,open,2017-09-15
+CRG_028,Dog River,9,2018,1,post,no,no,84,open,2018-09-15
+CRG_028,Dog River,10,2014,-3,pre,no,no,71,open,2014-10-15
+CRG_028,Dog River,10,2015,-2,pre,no,no,74,open,2015-10-15
+CRG_028,Dog River,10,2016,-1,pre,no,no,50,open,2016-10-15
+CRG_028,Dog River,10,2017,0,post,no,no,111,open,2017-10-15
+CRG_028,Dog River,10,2018,1,post,no,no,97,open,2018-10-15
+CRG_028,Dog River,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_028,Dog River,11,2015,-2,pre,no,no,38,open,2015-11-15
+CRG_028,Dog River,11,2016,-1,pre,no,no,58,open,2016-11-15
+CRG_028,Dog River,11,2017,0,post,no,no,56,open,2017-11-15
+CRG_028,Dog River,11,2018,1,post,no,no,55,open,2018-11-15
+CRG_028,Dog River,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_028,Dog River,12,2015,-2,pre,no,no,23,open,2015-12-15
+CRG_028,Dog River,12,2016,-1,pre,no,no,37,open,2016-12-15
+CRG_028,Dog River,12,2017,0,post,no,no,26,open,2017-12-15
+CRG_028,Dog River,12,2018,1,post,no,no,19,open,2018-12-15
+CRG_029,Umbrella/Sahalie Falls,1,2015,-3,pre,no,no,97,open,2015-01-15
+CRG_029,Umbrella/Sahalie Falls,1,2016,-2,pre,no,no,124,open,2016-01-15
+CRG_029,Umbrella/Sahalie Falls,1,2017,-1,pre,no,no,368,open,2017-01-15
+CRG_029,Umbrella/Sahalie Falls,1,2018,0,post,no,no,411,open,2018-01-15
+CRG_029,Umbrella/Sahalie Falls,1,2019,1,post,no,no,543,open,2019-01-15
+CRG_029,Umbrella/Sahalie Falls,2,2015,-3,pre,no,no,263,open,2015-02-15
+CRG_029,Umbrella/Sahalie Falls,2,2016,-2,pre,no,no,268,open,2016-02-15
+CRG_029,Umbrella/Sahalie Falls,2,2017,-1,pre,no,no,332,open,2017-02-15
+CRG_029,Umbrella/Sahalie Falls,2,2018,0,post,no,no,604,open,2018-02-15
+CRG_029,Umbrella/Sahalie Falls,2,2019,1,post,no,no,445,open,2019-02-15
+CRG_029,Umbrella/Sahalie Falls,3,2015,-3,pre,no,no,233,open,2015-03-15
+CRG_029,Umbrella/Sahalie Falls,3,2016,-2,pre,no,no,844,open,2016-03-15
+CRG_029,Umbrella/Sahalie Falls,3,2017,-1,pre,no,no,832,open,2017-03-15
+CRG_029,Umbrella/Sahalie Falls,3,2018,0,post,no,no,1098,open,2018-03-15
+CRG_029,Umbrella/Sahalie Falls,3,2019,1,post,no,no,760,open,2019-03-15
+CRG_029,Umbrella/Sahalie Falls,4,2015,-3,pre,no,no,714,open,2015-04-15
+CRG_029,Umbrella/Sahalie Falls,4,2016,-2,pre,no,no,1325,open,2016-04-15
+CRG_029,Umbrella/Sahalie Falls,4,2017,-1,pre,no,no,1293,open,2017-04-15
+CRG_029,Umbrella/Sahalie Falls,4,2018,0,post,no,no,1147,open,2018-04-15
+CRG_029,Umbrella/Sahalie Falls,4,2019,1,post,no,no,1148,open,2019-04-15
+CRG_029,Umbrella/Sahalie Falls,5,2015,-3,pre,no,no,947,open,2015-05-15
+CRG_029,Umbrella/Sahalie Falls,5,2016,-2,pre,no,no,1964,open,2016-05-15
+CRG_029,Umbrella/Sahalie Falls,5,2017,-1,pre,no,no,2466,open,2017-05-15
+CRG_029,Umbrella/Sahalie Falls,5,2018,0,post,no,no,4459,open,2018-05-15
+CRG_029,Umbrella/Sahalie Falls,5,2019,1,post,no,no,2916,open,2019-05-15
+CRG_029,Umbrella/Sahalie Falls,6,2015,-3,pre,no,no,1331,open,2015-06-15
+CRG_029,Umbrella/Sahalie Falls,6,2016,-2,pre,no,no,3066,open,2016-06-15
+CRG_029,Umbrella/Sahalie Falls,6,2017,-1,pre,no,no,5109,open,2017-06-15
+CRG_029,Umbrella/Sahalie Falls,6,2018,0,post,no,no,5959,open,2018-06-15
+CRG_029,Umbrella/Sahalie Falls,6,2019,1,post,no,no,3987,open,2019-06-15
+CRG_029,Umbrella/Sahalie Falls,7,2015,-3,pre,no,no,2169,open,2015-07-15
+CRG_029,Umbrella/Sahalie Falls,7,2016,-2,pre,no,no,3650,open,2016-07-15
+CRG_029,Umbrella/Sahalie Falls,7,2017,-1,pre,no,no,5154,open,2017-07-15
+CRG_029,Umbrella/Sahalie Falls,7,2018,0,post,no,no,6693,open,2018-07-15
+CRG_029,Umbrella/Sahalie Falls,7,2019,1,post,no,no,5690,open,2019-07-15
+CRG_029,Umbrella/Sahalie Falls,8,2015,-3,pre,no,no,1098,open,2015-08-15
+CRG_029,Umbrella/Sahalie Falls,8,2016,-2,pre,no,no,4599,open,2016-08-15
+CRG_029,Umbrella/Sahalie Falls,8,2017,-1,pre,no,no,4315,open,2017-08-15
+CRG_029,Umbrella/Sahalie Falls,8,2018,0,post,no,no,8448,open,2018-08-15
+CRG_029,Umbrella/Sahalie Falls,8,2019,1,post,no,no,7077,open,2019-08-15
+CRG_029,Umbrella/Sahalie Falls,9,2014,-3,pre,no,no,408,open,2014-09-15
+CRG_029,Umbrella/Sahalie Falls,9,2015,-2,pre,no,no,1024,open,2015-09-15
+CRG_029,Umbrella/Sahalie Falls,9,2016,-2,pre,no,no,854,open,2016-09-15
+CRG_029,Umbrella/Sahalie Falls,9,2016,-1,pre,no,no,2044,open,2016-09-15
+CRG_029,Umbrella/Sahalie Falls,9,2017,0,post,no,no,2097,open,2017-09-15
+CRG_029,Umbrella/Sahalie Falls,9,2018,1,post,no,no,2479,open,2018-09-15
+CRG_029,Umbrella/Sahalie Falls,10,2014,-3,pre,no,no,136,open,2014-10-15
+CRG_029,Umbrella/Sahalie Falls,10,2015,-2,pre,no,no,726,open,2015-10-15
+CRG_029,Umbrella/Sahalie Falls,10,2016,-1,pre,no,no,759,open,2016-10-15
+CRG_029,Umbrella/Sahalie Falls,10,2017,0,post,no,no,1219,open,2017-10-15
+CRG_029,Umbrella/Sahalie Falls,10,2018,1,post,no,no,1773,open,2018-10-15
+CRG_029,Umbrella/Sahalie Falls,11,2014,-3,pre,no,no,58,open,2014-11-15
+CRG_029,Umbrella/Sahalie Falls,11,2015,-2,pre,no,no,333,open,2015-11-15
+CRG_029,Umbrella/Sahalie Falls,11,2016,-1,pre,no,no,878,open,2016-11-15
+CRG_029,Umbrella/Sahalie Falls,11,2017,0,post,no,no,752,open,2017-11-15
+CRG_029,Umbrella/Sahalie Falls,11,2018,1,post,no,no,956,open,2018-11-15
+CRG_029,Umbrella/Sahalie Falls,12,2014,-3,pre,no,no,47,open,2014-12-15
+CRG_029,Umbrella/Sahalie Falls,12,2015,-2,pre,no,no,163,open,2015-12-15
+CRG_029,Umbrella/Sahalie Falls,12,2016,-1,pre,no,no,380,open,2016-12-15
+CRG_029,Umbrella/Sahalie Falls,12,2017,0,post,no,no,440,open,2017-12-15
+CRG_029,Umbrella/Sahalie Falls,12,2018,1,post,no,no,353,open,2018-12-15
+CRG_030,Surveyors ridge/cooks meadow,1,2015,-3,pre,no,no,113,open,2015-01-15
+CRG_030,Surveyors ridge/cooks meadow,1,2016,-2,pre,no,no,307,open,2016-01-15
+CRG_030,Surveyors ridge/cooks meadow,1,2017,-1,pre,no,no,863,open,2017-01-15
+CRG_030,Surveyors ridge/cooks meadow,1,2018,0,post,no,no,403,open,2018-01-15
+CRG_030,Surveyors ridge/cooks meadow,1,2019,1,post,no,no,655,open,2019-01-15
+CRG_030,Surveyors ridge/cooks meadow,2,2015,-3,pre,no,no,245,open,2015-02-15
+CRG_030,Surveyors ridge/cooks meadow,2,2016,-2,pre,no,no,302,open,2016-02-15
+CRG_030,Surveyors ridge/cooks meadow,2,2017,-1,pre,no,no,641,open,2017-02-15
+CRG_030,Surveyors ridge/cooks meadow,2,2018,0,post,no,no,599,open,2018-02-15
+CRG_030,Surveyors ridge/cooks meadow,2,2019,1,post,no,no,823,open,2019-02-15
+CRG_030,Surveyors ridge/cooks meadow,3,2015,-3,pre,no,no,280,open,2015-03-15
+CRG_030,Surveyors ridge/cooks meadow,3,2016,-2,pre,no,no,506,open,2016-03-15
+CRG_030,Surveyors ridge/cooks meadow,3,2017,-1,pre,no,no,661,open,2017-03-15
+CRG_030,Surveyors ridge/cooks meadow,3,2018,0,post,no,no,1157,open,2018-03-15
+CRG_030,Surveyors ridge/cooks meadow,3,2019,1,post,no,no,986,open,2019-03-15
+CRG_030,Surveyors ridge/cooks meadow,4,2015,-3,pre,no,no,461,open,2015-04-15
+CRG_030,Surveyors ridge/cooks meadow,4,2016,-2,pre,no,no,710,open,2016-04-15
+CRG_030,Surveyors ridge/cooks meadow,4,2017,-1,pre,no,no,527,open,2017-04-15
+CRG_030,Surveyors ridge/cooks meadow,4,2018,0,post,no,no,776,open,2018-04-15
+CRG_030,Surveyors ridge/cooks meadow,4,2019,1,post,no,no,726,open,2019-04-15
+CRG_030,Surveyors ridge/cooks meadow,5,2015,-3,pre,no,no,549,open,2015-05-15
+CRG_030,Surveyors ridge/cooks meadow,5,2016,-2,pre,no,no,1493,open,2016-05-15
+CRG_030,Surveyors ridge/cooks meadow,5,2017,-1,pre,no,no,1468,open,2017-05-15
+CRG_030,Surveyors ridge/cooks meadow,5,2018,0,post,no,no,3336,open,2018-05-15
+CRG_030,Surveyors ridge/cooks meadow,5,2019,1,post,no,no,2194,open,2019-05-15
+CRG_030,Surveyors ridge/cooks meadow,6,2015,-3,pre,no,no,844,open,2015-06-15
+CRG_030,Surveyors ridge/cooks meadow,6,2016,-2,pre,no,no,1864,open,2016-06-15
+CRG_030,Surveyors ridge/cooks meadow,6,2017,-1,pre,no,no,2659,open,2017-06-15
+CRG_030,Surveyors ridge/cooks meadow,6,2018,0,post,no,no,2749,open,2018-06-15
+CRG_030,Surveyors ridge/cooks meadow,6,2019,1,post,no,no,2095,open,2019-06-15
+CRG_030,Surveyors ridge/cooks meadow,7,2015,-3,pre,no,no,1148,open,2015-07-15
+CRG_030,Surveyors ridge/cooks meadow,7,2016,-2,pre,no,no,1698,open,2016-07-15
+CRG_030,Surveyors ridge/cooks meadow,7,2017,-1,pre,no,no,2434,open,2017-07-15
+CRG_030,Surveyors ridge/cooks meadow,7,2018,0,post,no,no,2408,open,2018-07-15
+CRG_030,Surveyors ridge/cooks meadow,7,2019,1,post,no,no,2697,open,2019-07-15
+CRG_030,Surveyors ridge/cooks meadow,8,2015,-3,pre,no,no,718,open,2015-08-15
+CRG_030,Surveyors ridge/cooks meadow,8,2016,-2,pre,no,no,1424,open,2016-08-15
+CRG_030,Surveyors ridge/cooks meadow,8,2017,-1,pre,no,no,1906,open,2017-08-15
+CRG_030,Surveyors ridge/cooks meadow,8,2018,0,post,no,no,2737,open,2018-08-15
+CRG_030,Surveyors ridge/cooks meadow,8,2019,1,post,no,no,3127,open,2019-08-15
+CRG_030,Surveyors ridge/cooks meadow,9,2014,-3,pre,no,no,279,open,2014-09-15
+CRG_030,Surveyors ridge/cooks meadow,9,2015,-2,pre,no,no,816,open,2015-09-15
+CRG_030,Surveyors ridge/cooks meadow,9,2016,-2,pre,no,no,303,open,2016-09-15
+CRG_030,Surveyors ridge/cooks meadow,9,2016,-1,pre,no,no,1449,open,2016-09-15
+CRG_030,Surveyors ridge/cooks meadow,9,2017,0,post,no,no,803,open,2017-09-15
+CRG_030,Surveyors ridge/cooks meadow,9,2018,1,post,no,no,1272,open,2018-09-15
+CRG_030,Surveyors ridge/cooks meadow,10,2014,-3,pre,no,no,224,open,2014-10-15
+CRG_030,Surveyors ridge/cooks meadow,10,2015,-2,pre,no,no,658,open,2015-10-15
+CRG_030,Surveyors ridge/cooks meadow,10,2016,-1,pre,no,no,563,open,2016-10-15
+CRG_030,Surveyors ridge/cooks meadow,10,2017,0,post,no,no,831,open,2017-10-15
+CRG_030,Surveyors ridge/cooks meadow,10,2018,1,post,no,no,848,open,2018-10-15
+CRG_030,Surveyors ridge/cooks meadow,11,2014,-3,pre,no,no,130,open,2014-11-15
+CRG_030,Surveyors ridge/cooks meadow,11,2015,-2,pre,no,no,355,open,2015-11-15
+CRG_030,Surveyors ridge/cooks meadow,11,2016,-1,pre,no,no,450,open,2016-11-15
+CRG_030,Surveyors ridge/cooks meadow,11,2017,0,post,no,no,552,open,2017-11-15
+CRG_030,Surveyors ridge/cooks meadow,11,2018,1,post,no,no,797,open,2018-11-15
+CRG_030,Surveyors ridge/cooks meadow,12,2014,-3,pre,no,no,48,open,2014-12-15
+CRG_030,Surveyors ridge/cooks meadow,12,2015,-2,pre,no,no,359,open,2015-12-15
+CRG_030,Surveyors ridge/cooks meadow,12,2016,-1,pre,no,no,723,open,2016-12-15
+CRG_030,Surveyors ridge/cooks meadow,12,2017,0,post,no,no,497,open,2017-12-15
+CRG_030,Surveyors ridge/cooks meadow,12,2018,1,post,no,no,472,open,2018-12-15
+CRG_031,Eight Mile trail,1,2015,-3,pre,no,no,28,open,2015-01-15
+CRG_031,Eight Mile trail,1,2016,-2,pre,no,no,20,open,2016-01-15
+CRG_031,Eight Mile trail,1,2017,-1,pre,no,no,64,open,2017-01-15
+CRG_031,Eight Mile trail,1,2018,0,post,no,no,18,open,2018-01-15
+CRG_031,Eight Mile trail,1,2019,1,post,no,no,53,open,2019-01-15
+CRG_031,Eight Mile trail,2,2015,-3,pre,no,no,69,open,2015-02-15
+CRG_031,Eight Mile trail,2,2016,-2,pre,no,no,67,open,2016-02-15
+CRG_031,Eight Mile trail,2,2017,-1,pre,no,no,120,open,2017-02-15
+CRG_031,Eight Mile trail,2,2018,0,post,no,no,32,open,2018-02-15
+CRG_031,Eight Mile trail,2,2019,1,post,no,no,95,open,2019-02-15
+CRG_031,Eight Mile trail,3,2015,-3,pre,no,no,55,open,2015-03-15
+CRG_031,Eight Mile trail,3,2016,-2,pre,no,no,92,open,2016-03-15
+CRG_031,Eight Mile trail,3,2017,-1,pre,no,no,105,open,2017-03-15
+CRG_031,Eight Mile trail,3,2018,0,post,no,no,79,open,2018-03-15
+CRG_031,Eight Mile trail,3,2019,1,post,no,no,154,open,2019-03-15
+CRG_031,Eight Mile trail,4,2015,-3,pre,no,no,135,open,2015-04-15
+CRG_031,Eight Mile trail,4,2016,-2,pre,no,no,183,open,2016-04-15
+CRG_031,Eight Mile trail,4,2017,-1,pre,no,no,142,open,2017-04-15
+CRG_031,Eight Mile trail,4,2018,0,post,no,no,66,open,2018-04-15
+CRG_031,Eight Mile trail,4,2019,1,post,no,no,132,open,2019-04-15
+CRG_031,Eight Mile trail,5,2015,-3,pre,no,no,126,open,2015-05-15
+CRG_031,Eight Mile trail,5,2016,-2,pre,no,no,183,open,2016-05-15
+CRG_031,Eight Mile trail,5,2017,-1,pre,no,no,370,open,2017-05-15
+CRG_031,Eight Mile trail,5,2018,0,post,no,no,167,open,2018-05-15
+CRG_031,Eight Mile trail,5,2019,1,post,no,no,264,open,2019-05-15
+CRG_031,Eight Mile trail,6,2015,-3,pre,no,no,131,open,2015-06-15
+CRG_031,Eight Mile trail,6,2016,-2,pre,no,no,218,open,2016-06-15
+CRG_031,Eight Mile trail,6,2017,-1,pre,no,no,297,open,2017-06-15
+CRG_031,Eight Mile trail,6,2018,0,post,no,no,313,open,2018-06-15
+CRG_031,Eight Mile trail,6,2019,1,post,no,no,242,open,2019-06-15
+CRG_031,Eight Mile trail,7,2015,-3,pre,no,no,185,open,2015-07-15
+CRG_031,Eight Mile trail,7,2016,-2,pre,no,no,163,open,2016-07-15
+CRG_031,Eight Mile trail,7,2017,-1,pre,no,no,217,open,2017-07-15
+CRG_031,Eight Mile trail,7,2018,0,post,no,no,298,open,2018-07-15
+CRG_031,Eight Mile trail,7,2019,1,post,no,no,353,open,2019-07-15
+CRG_031,Eight Mile trail,8,2015,-3,pre,no,no,114,open,2015-08-15
+CRG_031,Eight Mile trail,8,2016,-2,pre,no,no,180,open,2016-08-15
+CRG_031,Eight Mile trail,8,2017,-1,pre,no,no,220,open,2017-08-15
+CRG_031,Eight Mile trail,8,2018,0,post,no,no,310,open,2018-08-15
+CRG_031,Eight Mile trail,8,2019,1,post,no,no,389,open,2019-08-15
+CRG_031,Eight Mile trail,9,2014,-3,pre,no,no,95,open,2014-09-15
+CRG_031,Eight Mile trail,9,2015,-2,pre,no,no,118,open,2015-09-15
+CRG_031,Eight Mile trail,9,2016,-2,pre,no,no,59,open,2016-09-15
+CRG_031,Eight Mile trail,9,2016,-1,pre,no,no,88,open,2016-09-15
+CRG_031,Eight Mile trail,9,2017,0,post,no,no,151,open,2017-09-15
+CRG_031,Eight Mile trail,9,2018,1,post,no,no,163,open,2018-09-15
+CRG_031,Eight Mile trail,10,2014,-3,pre,no,no,65,open,2014-10-15
+CRG_031,Eight Mile trail,10,2015,-2,pre,no,no,91,open,2015-10-15
+CRG_031,Eight Mile trail,10,2016,-1,pre,no,no,45,open,2016-10-15
+CRG_031,Eight Mile trail,10,2017,0,post,no,no,74,open,2017-10-15
+CRG_031,Eight Mile trail,10,2018,1,post,no,no,86,open,2018-10-15
+CRG_031,Eight Mile trail,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_031,Eight Mile trail,11,2015,-2,pre,no,no,34,open,2015-11-15
+CRG_031,Eight Mile trail,11,2016,-1,pre,no,no,94,open,2016-11-15
+CRG_031,Eight Mile trail,11,2017,0,post,no,no,53,open,2017-11-15
+CRG_031,Eight Mile trail,11,2018,1,post,no,no,93,open,2018-11-15
+CRG_031,Eight Mile trail,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_031,Eight Mile trail,12,2015,-2,pre,no,no,41,open,2015-12-15
+CRG_031,Eight Mile trail,12,2016,-1,pre,no,no,54,open,2016-12-15
+CRG_031,Eight Mile trail,12,2017,0,post,no,no,26,open,2017-12-15
+CRG_031,Eight Mile trail,12,2018,1,post,no,no,24,open,2018-12-15
+CRG_032,Cape Horn,1,2015,-3,pre,no,no,245,open,2015-01-15
+CRG_032,Cape Horn,1,2016,-2,pre,no,no,183,open,2016-01-15
+CRG_032,Cape Horn,1,2017,-1,pre,no,no,196,open,2017-01-15
+CRG_032,Cape Horn,1,2018,0,post,no,no,689,open,2018-01-15
+CRG_032,Cape Horn,1,2019,1,post,no,no,731,open,2019-01-15
+CRG_032,Cape Horn,2,2015,-3,pre,no,no,344,open,2015-02-15
+CRG_032,Cape Horn,2,2016,-2,pre,no,no,273,open,2016-02-15
+CRG_032,Cape Horn,2,2017,-1,pre,no,no,263,open,2017-02-15
+CRG_032,Cape Horn,2,2018,0,post,no,no,718,open,2018-02-15
+CRG_032,Cape Horn,2,2019,1,post,no,no,560,open,2019-02-15
+CRG_032,Cape Horn,3,2015,-3,pre,no,no,321,open,2015-03-15
+CRG_032,Cape Horn,3,2016,-2,pre,no,no,625,open,2016-03-15
+CRG_032,Cape Horn,3,2017,-1,pre,no,no,660,open,2017-03-15
+CRG_032,Cape Horn,3,2018,0,post,no,no,1447,open,2018-03-15
+CRG_032,Cape Horn,3,2019,1,post,no,no,1058,open,2019-03-15
+CRG_032,Cape Horn,4,2015,-3,pre,no,no,555,open,2015-04-15
+CRG_032,Cape Horn,4,2016,-2,pre,no,no,785,open,2016-04-15
+CRG_032,Cape Horn,4,2017,-1,pre,no,no,695,open,2017-04-15
+CRG_032,Cape Horn,4,2018,0,post,no,no,1427,open,2018-04-15
+CRG_032,Cape Horn,4,2019,1,post,no,no,1060,open,2019-04-15
+CRG_032,Cape Horn,5,2015,-3,pre,no,no,710,open,2015-05-15
+CRG_032,Cape Horn,5,2016,-2,pre,no,no,1648,open,2016-05-15
+CRG_032,Cape Horn,5,2017,-1,pre,no,no,2136,open,2017-05-15
+CRG_032,Cape Horn,5,2018,0,post,no,no,4478,open,2018-05-15
+CRG_032,Cape Horn,5,2019,1,post,no,no,2419,open,2019-05-15
+CRG_032,Cape Horn,6,2015,-3,pre,no,no,766,open,2015-06-15
+CRG_032,Cape Horn,6,2016,-2,pre,no,no,1505,open,2016-06-15
+CRG_032,Cape Horn,6,2017,-1,pre,no,no,2319,open,2017-06-15
+CRG_032,Cape Horn,6,2018,0,post,no,no,1753,open,2018-06-15
+CRG_032,Cape Horn,6,2019,1,post,no,no,2653,open,2019-06-15
+CRG_032,Cape Horn,7,2015,-3,pre,no,no,1056,open,2015-07-15
+CRG_032,Cape Horn,7,2016,-2,pre,no,no,1320,open,2016-07-15
+CRG_032,Cape Horn,7,2017,-1,pre,no,no,3253,open,2017-07-15
+CRG_032,Cape Horn,7,2018,0,post,no,no,2242,open,2018-07-15
+CRG_032,Cape Horn,7,2019,1,post,no,no,3564,open,2019-07-15
+CRG_032,Cape Horn,8,2015,-3,pre,no,no,1298,open,2015-08-15
+CRG_032,Cape Horn,8,2016,-2,pre,no,no,1563,open,2016-08-15
+CRG_032,Cape Horn,8,2017,-1,pre,no,no,2464,open,2017-08-15
+CRG_032,Cape Horn,8,2018,0,post,no,no,2643,open,2018-08-15
+CRG_032,Cape Horn,8,2019,1,post,no,no,4300,open,2019-08-15
+CRG_032,Cape Horn,9,2014,-3,pre,no,no,448,open,2014-09-15
+CRG_032,Cape Horn,9,2015,-2,pre,no,no,1083,open,2015-09-15
+CRG_032,Cape Horn,9,2016,-2,pre,no,no,346,open,2016-09-15
+CRG_032,Cape Horn,9,2016,-1,pre,no,no,1129,open,2016-09-15
+CRG_032,Cape Horn,9,2017,0,post,no,no,2059,open,2017-09-15
+CRG_032,Cape Horn,9,2018,1,post,no,no,1661,open,2018-09-15
+CRG_032,Cape Horn,10,2014,-3,pre,no,no,251,open,2014-10-15
+CRG_032,Cape Horn,10,2015,-2,pre,no,no,702,open,2015-10-15
+CRG_032,Cape Horn,10,2016,-1,pre,no,no,510,open,2016-10-15
+CRG_032,Cape Horn,10,2017,0,post,no,no,1568,open,2017-10-15
+CRG_032,Cape Horn,10,2018,1,post,no,no,1274,open,2018-10-15
+CRG_032,Cape Horn,11,2014,-3,pre,no,no,155,open,2014-11-15
+CRG_032,Cape Horn,11,2015,-2,pre,no,no,457,open,2015-11-15
+CRG_032,Cape Horn,11,2016,-1,pre,no,no,620,open,2016-11-15
+CRG_032,Cape Horn,11,2017,0,post,no,no,1011,open,2017-11-15
+CRG_032,Cape Horn,11,2018,1,post,no,no,1168,open,2018-11-15
+CRG_032,Cape Horn,12,2014,-3,pre,no,no,100,open,2014-12-15
+CRG_032,Cape Horn,12,2015,-2,pre,no,no,198,open,2015-12-15
+CRG_032,Cape Horn,12,2016,-1,pre,no,no,253,open,2016-12-15
+CRG_032,Cape Horn,12,2017,0,post,no,no,646,open,2017-12-15
+CRG_032,Cape Horn,12,2018,1,post,no,no,286,open,2018-12-15
+CRG_033,Falls Creek Falls,1,2015,-3,pre,no,no,91,open,2015-01-15
+CRG_033,Falls Creek Falls,1,2016,-2,pre,no,no,52,open,2016-01-15
+CRG_033,Falls Creek Falls,1,2017,-1,pre,no,no,99,open,2017-01-15
+CRG_033,Falls Creek Falls,1,2018,0,post,no,no,263,open,2018-01-15
+CRG_033,Falls Creek Falls,1,2019,1,post,no,no,320,open,2019-01-15
+CRG_033,Falls Creek Falls,2,2015,-3,pre,no,no,182,open,2015-02-15
+CRG_033,Falls Creek Falls,2,2016,-2,pre,no,no,172,open,2016-02-15
+CRG_033,Falls Creek Falls,2,2017,-1,pre,no,no,111,open,2017-02-15
+CRG_033,Falls Creek Falls,2,2018,0,post,no,no,477,open,2018-02-15
+CRG_033,Falls Creek Falls,2,2019,1,post,no,no,215,open,2019-02-15
+CRG_033,Falls Creek Falls,3,2015,-3,pre,no,no,233,open,2015-03-15
+CRG_033,Falls Creek Falls,3,2016,-2,pre,no,no,479,open,2016-03-15
+CRG_033,Falls Creek Falls,3,2017,-1,pre,no,no,181,open,2017-03-15
+CRG_033,Falls Creek Falls,3,2018,0,post,no,no,866,open,2018-03-15
+CRG_033,Falls Creek Falls,3,2019,1,post,no,no,345,open,2019-03-15
+CRG_033,Falls Creek Falls,4,2015,-3,pre,no,no,768,open,2015-04-15
+CRG_033,Falls Creek Falls,4,2016,-2,pre,no,no,1191,open,2016-04-15
+CRG_033,Falls Creek Falls,4,2017,-1,pre,no,no,473,open,2017-04-15
+CRG_033,Falls Creek Falls,4,2018,0,post,no,no,1711,open,2018-04-15
+CRG_033,Falls Creek Falls,4,2019,1,post,no,no,1370,open,2019-04-15
+CRG_033,Falls Creek Falls,5,2015,-3,pre,no,no,1006,open,2015-05-15
+CRG_033,Falls Creek Falls,5,2016,-2,pre,no,no,1928,open,2016-05-15
+CRG_033,Falls Creek Falls,5,2017,-1,pre,no,no,2471,open,2017-05-15
+CRG_033,Falls Creek Falls,5,2018,0,post,no,no,6710,open,2018-05-15
+CRG_033,Falls Creek Falls,5,2019,1,post,no,no,4486,open,2019-05-15
+CRG_033,Falls Creek Falls,6,2015,-3,pre,no,no,749,open,2015-06-15
+CRG_033,Falls Creek Falls,6,2016,-2,pre,no,no,1831,open,2016-06-15
+CRG_033,Falls Creek Falls,6,2017,-1,pre,no,no,2775,open,2017-06-15
+CRG_033,Falls Creek Falls,6,2018,0,post,no,no,6237,open,2018-06-15
+CRG_033,Falls Creek Falls,6,2019,1,post,no,no,3718,open,2019-06-15
+CRG_033,Falls Creek Falls,7,2015,-3,pre,no,no,1104,open,2015-07-15
+CRG_033,Falls Creek Falls,7,2016,-2,pre,no,no,1932,open,2016-07-15
+CRG_033,Falls Creek Falls,7,2017,-1,pre,no,no,2943,open,2017-07-15
+CRG_033,Falls Creek Falls,7,2018,0,post,no,no,4311,open,2018-07-15
+CRG_033,Falls Creek Falls,7,2019,1,post,no,no,4040,open,2019-07-15
+CRG_033,Falls Creek Falls,8,2015,-3,pre,no,no,799,open,2015-08-15
+CRG_033,Falls Creek Falls,8,2016,-2,pre,no,no,2020,open,2016-08-15
+CRG_033,Falls Creek Falls,8,2017,-1,pre,no,no,1689,open,2017-08-15
+CRG_033,Falls Creek Falls,8,2018,0,post,no,no,3928,open,2018-08-15
+CRG_033,Falls Creek Falls,8,2019,1,post,no,no,4097,open,2019-08-15
+CRG_033,Falls Creek Falls,9,2014,-3,pre,no,no,177,open,2014-09-15
+CRG_033,Falls Creek Falls,9,2015,-2,pre,no,no,760,open,2015-09-15
+CRG_033,Falls Creek Falls,9,2016,-2,pre,no,no,288,open,2016-09-15
+CRG_033,Falls Creek Falls,9,2016,-1,pre,no,no,864,open,2016-09-15
+CRG_033,Falls Creek Falls,9,2017,0,post,no,no,900,open,2017-09-15
+CRG_033,Falls Creek Falls,9,2018,1,post,no,no,1767,open,2018-09-15
+CRG_033,Falls Creek Falls,10,2014,-3,pre,no,no,108,open,2014-10-15
+CRG_033,Falls Creek Falls,10,2015,-2,pre,no,no,493,open,2015-10-15
+CRG_033,Falls Creek Falls,10,2016,-1,pre,no,no,311,open,2016-10-15
+CRG_033,Falls Creek Falls,10,2017,0,post,no,no,932,open,2017-10-15
+CRG_033,Falls Creek Falls,10,2018,1,post,no,no,1315,open,2018-10-15
+CRG_033,Falls Creek Falls,11,2014,-3,pre,no,no,66,open,2014-11-15
+CRG_033,Falls Creek Falls,11,2015,-2,pre,no,no,277,open,2015-11-15
+CRG_033,Falls Creek Falls,11,2016,-1,pre,no,no,342,open,2016-11-15
+CRG_033,Falls Creek Falls,11,2017,0,post,no,no,578,open,2017-11-15
+CRG_033,Falls Creek Falls,11,2018,1,post,no,no,893,open,2018-11-15
+CRG_033,Falls Creek Falls,12,2014,-3,pre,no,no,33,open,2014-12-15
+CRG_033,Falls Creek Falls,12,2015,-2,pre,no,no,74,open,2015-12-15
+CRG_033,Falls Creek Falls,12,2016,-1,pre,no,no,108,open,2016-12-15
+CRG_033,Falls Creek Falls,12,2017,0,post,no,no,272,open,2017-12-15
+CRG_033,Falls Creek Falls,12,2018,1,post,no,no,115,open,2018-12-15
+CRG_034,Panther Creek Falls,1,2015,-3,pre,no,no,53,open,2015-01-15
+CRG_034,Panther Creek Falls,1,2016,-2,pre,no,no,70,open,2016-01-15
+CRG_034,Panther Creek Falls,1,2017,-1,pre,no,no,78,open,2017-01-15
+CRG_034,Panther Creek Falls,1,2018,0,post,no,no,21,open,2018-01-15
+CRG_034,Panther Creek Falls,1,2019,1,post,no,no,98,open,2019-01-15
+CRG_034,Panther Creek Falls,2,2015,-3,pre,no,no,98,open,2015-02-15
+CRG_034,Panther Creek Falls,2,2016,-2,pre,no,no,145,open,2016-02-15
+CRG_034,Panther Creek Falls,2,2017,-1,pre,no,no,51,open,2017-02-15
+CRG_034,Panther Creek Falls,2,2018,0,post,no,no,35,open,2018-02-15
+CRG_034,Panther Creek Falls,2,2019,1,post,no,no,73,open,2019-02-15
+CRG_034,Panther Creek Falls,3,2015,-3,pre,no,no,125,open,2015-03-15
+CRG_034,Panther Creek Falls,3,2016,-2,pre,no,no,524,open,2016-03-15
+CRG_034,Panther Creek Falls,3,2017,-1,pre,no,no,97,open,2017-03-15
+CRG_034,Panther Creek Falls,3,2018,0,post,no,no,71,open,2018-03-15
+CRG_034,Panther Creek Falls,3,2019,1,post,no,no,130,open,2019-03-15
+CRG_034,Panther Creek Falls,4,2015,-3,pre,no,no,230,open,2015-04-15
+CRG_034,Panther Creek Falls,4,2016,-2,pre,no,no,770,open,2016-04-15
+CRG_034,Panther Creek Falls,4,2017,-1,pre,no,no,175,open,2017-04-15
+CRG_034,Panther Creek Falls,4,2018,0,post,no,no,92,open,2018-04-15
+CRG_034,Panther Creek Falls,4,2019,1,post,no,no,298,open,2019-04-15
+CRG_034,Panther Creek Falls,5,2015,-3,pre,no,no,378,open,2015-05-15
+CRG_034,Panther Creek Falls,5,2016,-2,pre,no,no,899,open,2016-05-15
+CRG_034,Panther Creek Falls,5,2017,-1,pre,no,no,175,open,2017-05-15
+CRG_034,Panther Creek Falls,5,2018,0,post,no,no,246,open,2018-05-15
+CRG_034,Panther Creek Falls,5,2019,1,post,no,no,419,open,2019-05-15
+CRG_034,Panther Creek Falls,6,2015,-3,pre,no,no,360,open,2015-06-15
+CRG_034,Panther Creek Falls,6,2016,-2,pre,no,no,1282,open,2016-06-15
+CRG_034,Panther Creek Falls,6,2017,-1,pre,no,no,160,open,2017-06-15
+CRG_034,Panther Creek Falls,6,2018,0,post,no,no,193,open,2018-06-15
+CRG_034,Panther Creek Falls,6,2019,1,post,no,no,289,open,2019-06-15
+CRG_034,Panther Creek Falls,7,2015,-3,pre,no,no,449,open,2015-07-15
+CRG_034,Panther Creek Falls,7,2016,-2,pre,no,no,1026,open,2016-07-15
+CRG_034,Panther Creek Falls,7,2017,-1,pre,no,no,150,open,2017-07-15
+CRG_034,Panther Creek Falls,7,2018,0,post,no,no,176,open,2018-07-15
+CRG_034,Panther Creek Falls,7,2019,1,post,no,no,272,open,2019-07-15
+CRG_034,Panther Creek Falls,8,2015,-3,pre,no,no,338,open,2015-08-15
+CRG_034,Panther Creek Falls,8,2016,-2,pre,no,no,842,open,2016-08-15
+CRG_034,Panther Creek Falls,8,2017,-1,pre,no,no,145,open,2017-08-15
+CRG_034,Panther Creek Falls,8,2018,0,post,no,no,196,open,2018-08-15
+CRG_034,Panther Creek Falls,8,2019,1,post,no,no,512,open,2019-08-15
+CRG_034,Panther Creek Falls,9,2014,-3,pre,no,no,123,open,2014-09-15
+CRG_034,Panther Creek Falls,9,2015,-2,pre,no,no,201,open,2015-09-15
+CRG_034,Panther Creek Falls,9,2016,-2,pre,no,no,206,open,2016-09-15
+CRG_034,Panther Creek Falls,9,2016,-1,pre,no,no,608,open,2016-09-15
+CRG_034,Panther Creek Falls,9,2017,0,post,no,no,104,open,2017-09-15
+CRG_034,Panther Creek Falls,9,2018,1,post,no,no,98,open,2018-09-15
+CRG_034,Panther Creek Falls,10,2014,-3,pre,no,no,80,open,2014-10-15
+CRG_034,Panther Creek Falls,10,2015,-2,pre,no,no,222,open,2015-10-15
+CRG_034,Panther Creek Falls,10,2016,-1,pre,no,no,232,open,2016-10-15
+CRG_034,Panther Creek Falls,10,2017,0,post,no,no,64,open,2017-10-15
+CRG_034,Panther Creek Falls,10,2018,1,post,no,no,73,open,2018-10-15
+CRG_034,Panther Creek Falls,11,2014,-3,pre,no,no,40,open,2014-11-15
+CRG_034,Panther Creek Falls,11,2015,-2,pre,no,no,87,open,2015-11-15
+CRG_034,Panther Creek Falls,11,2016,-1,pre,no,no,164,open,2016-11-15
+CRG_034,Panther Creek Falls,11,2017,0,post,no,no,41,open,2017-11-15
+CRG_034,Panther Creek Falls,11,2018,1,post,no,no,67,open,2018-11-15
+CRG_034,Panther Creek Falls,12,2014,-3,pre,no,no,32,open,2014-12-15
+CRG_034,Panther Creek Falls,12,2015,-2,pre,no,no,36,open,2015-12-15
+CRG_034,Panther Creek Falls,12,2016,-1,pre,no,no,102,open,2016-12-15
+CRG_034,Panther Creek Falls,12,2017,0,post,no,no,27,open,2017-12-15
+CRG_034,Panther Creek Falls,12,2018,1,post,no,no,46,open,2018-12-15
+CRG_035,Weldon Wagon Rd Trail,1,2015,-3,pre,no,no,28,open,2015-01-15
+CRG_035,Weldon Wagon Rd Trail,1,2016,-2,pre,no,no,17,open,2016-01-15
+CRG_035,Weldon Wagon Rd Trail,1,2017,-1,pre,no,no,34,open,2017-01-15
+CRG_035,Weldon Wagon Rd Trail,1,2018,0,post,no,no,30,open,2018-01-15
+CRG_035,Weldon Wagon Rd Trail,1,2019,1,post,no,no,53,open,2019-01-15
+CRG_035,Weldon Wagon Rd Trail,2,2015,-3,pre,no,no,47,open,2015-02-15
+CRG_035,Weldon Wagon Rd Trail,2,2016,-2,pre,no,no,27,open,2016-02-15
+CRG_035,Weldon Wagon Rd Trail,2,2017,-1,pre,no,no,26,open,2017-02-15
+CRG_035,Weldon Wagon Rd Trail,2,2018,0,post,no,no,49,open,2018-02-15
+CRG_035,Weldon Wagon Rd Trail,2,2019,1,post,no,no,43,open,2019-02-15
+CRG_035,Weldon Wagon Rd Trail,3,2015,-3,pre,no,no,50,open,2015-03-15
+CRG_035,Weldon Wagon Rd Trail,3,2016,-2,pre,no,no,77,open,2016-03-15
+CRG_035,Weldon Wagon Rd Trail,3,2017,-1,pre,no,no,49,open,2017-03-15
+CRG_035,Weldon Wagon Rd Trail,3,2018,0,post,no,no,109,open,2018-03-15
+CRG_035,Weldon Wagon Rd Trail,3,2019,1,post,no,no,99,open,2019-03-15
+CRG_035,Weldon Wagon Rd Trail,4,2015,-3,pre,no,no,120,open,2015-04-15
+CRG_035,Weldon Wagon Rd Trail,4,2016,-2,pre,no,no,128,open,2016-04-15
+CRG_035,Weldon Wagon Rd Trail,4,2017,-1,pre,no,no,163,open,2017-04-15
+CRG_035,Weldon Wagon Rd Trail,4,2018,0,post,no,no,199,open,2018-04-15
+CRG_035,Weldon Wagon Rd Trail,4,2019,1,post,no,no,213,open,2019-04-15
+CRG_035,Weldon Wagon Rd Trail,5,2015,-3,pre,no,no,111,open,2015-05-15
+CRG_035,Weldon Wagon Rd Trail,5,2016,-2,pre,no,no,181,open,2016-05-15
+CRG_035,Weldon Wagon Rd Trail,5,2017,-1,pre,no,no,136,open,2017-05-15
+CRG_035,Weldon Wagon Rd Trail,5,2018,0,post,no,no,509,open,2018-05-15
+CRG_035,Weldon Wagon Rd Trail,5,2019,1,post,no,no,326,open,2019-05-15
+CRG_035,Weldon Wagon Rd Trail,6,2015,-3,pre,no,no,131,open,2015-06-15
+CRG_035,Weldon Wagon Rd Trail,6,2016,-2,pre,no,no,171,open,2016-06-15
+CRG_035,Weldon Wagon Rd Trail,6,2017,-1,pre,no,no,238,open,2017-06-15
+CRG_035,Weldon Wagon Rd Trail,6,2018,0,post,no,no,233,open,2018-06-15
+CRG_035,Weldon Wagon Rd Trail,6,2019,1,post,no,no,132,open,2019-06-15
+CRG_035,Weldon Wagon Rd Trail,7,2015,-3,pre,no,no,171,open,2015-07-15
+CRG_035,Weldon Wagon Rd Trail,7,2016,-2,pre,no,no,122,open,2016-07-15
+CRG_035,Weldon Wagon Rd Trail,7,2017,-1,pre,no,no,247,open,2017-07-15
+CRG_035,Weldon Wagon Rd Trail,7,2018,0,post,no,no,154,open,2018-07-15
+CRG_035,Weldon Wagon Rd Trail,7,2019,1,post,no,no,191,open,2019-07-15
+CRG_035,Weldon Wagon Rd Trail,8,2015,-3,pre,no,no,108,open,2015-08-15
+CRG_035,Weldon Wagon Rd Trail,8,2016,-2,pre,no,no,124,open,2016-08-15
+CRG_035,Weldon Wagon Rd Trail,8,2017,-1,pre,no,no,150,open,2017-08-15
+CRG_035,Weldon Wagon Rd Trail,8,2018,0,post,no,no,201,open,2018-08-15
+CRG_035,Weldon Wagon Rd Trail,8,2019,1,post,no,no,211,open,2019-08-15
+CRG_035,Weldon Wagon Rd Trail,9,2014,-3,pre,no,no,95,open,2014-09-15
+CRG_035,Weldon Wagon Rd Trail,9,2015,-2,pre,no,no,94,open,2015-09-15
+CRG_035,Weldon Wagon Rd Trail,9,2016,-2,pre,no,no,27,open,2016-09-15
+CRG_035,Weldon Wagon Rd Trail,9,2016,-1,pre,no,no,98,open,2016-09-15
+CRG_035,Weldon Wagon Rd Trail,9,2017,0,post,no,no,79,open,2017-09-15
+CRG_035,Weldon Wagon Rd Trail,9,2018,1,post,no,no,122,open,2018-09-15
+CRG_035,Weldon Wagon Rd Trail,10,2014,-3,pre,no,no,65,open,2014-10-15
+CRG_035,Weldon Wagon Rd Trail,10,2015,-2,pre,no,no,74,open,2015-10-15
+CRG_035,Weldon Wagon Rd Trail,10,2016,-1,pre,no,no,38,open,2016-10-15
+CRG_035,Weldon Wagon Rd Trail,10,2017,0,post,no,no,57,open,2017-10-15
+CRG_035,Weldon Wagon Rd Trail,10,2018,1,post,no,no,109,open,2018-10-15
+CRG_035,Weldon Wagon Rd Trail,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_035,Weldon Wagon Rd Trail,11,2015,-2,pre,no,no,37,open,2015-11-15
+CRG_035,Weldon Wagon Rd Trail,11,2016,-1,pre,no,no,39,open,2016-11-15
+CRG_035,Weldon Wagon Rd Trail,11,2017,0,post,no,no,68,open,2017-11-15
+CRG_035,Weldon Wagon Rd Trail,11,2018,1,post,no,no,79,open,2018-11-15
+CRG_035,Weldon Wagon Rd Trail,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_035,Weldon Wagon Rd Trail,12,2015,-2,pre,no,no,23,open,2015-12-15
+CRG_035,Weldon Wagon Rd Trail,12,2016,-1,pre,no,no,36,open,2016-12-15
+CRG_035,Weldon Wagon Rd Trail,12,2017,0,post,no,no,33,open,2017-12-15
+CRG_035,Weldon Wagon Rd Trail,12,2018,1,post,no,no,30,open,2018-12-15
+CRG_036,Lower Deschutes,1,2015,-3,pre,no,no,31,open,2015-01-15
+CRG_036,Lower Deschutes,1,2016,-2,pre,no,no,18,open,2016-01-15
+CRG_036,Lower Deschutes,1,2017,-1,pre,no,no,28,open,2017-01-15
+CRG_036,Lower Deschutes,1,2018,0,post,no,no,22,open,2018-01-15
+CRG_036,Lower Deschutes,1,2019,1,post,no,no,32,open,2019-01-15
+CRG_036,Lower Deschutes,2,2015,-3,pre,no,no,42,open,2015-02-15
+CRG_036,Lower Deschutes,2,2016,-2,pre,no,no,35,open,2016-02-15
+CRG_036,Lower Deschutes,2,2017,-1,pre,no,no,26,open,2017-02-15
+CRG_036,Lower Deschutes,2,2018,0,post,no,no,32,open,2018-02-15
+CRG_036,Lower Deschutes,2,2019,1,post,no,no,41,open,2019-02-15
+CRG_036,Lower Deschutes,3,2015,-3,pre,no,no,48,open,2015-03-15
+CRG_036,Lower Deschutes,3,2016,-2,pre,no,no,76,open,2016-03-15
+CRG_036,Lower Deschutes,3,2017,-1,pre,no,no,55,open,2017-03-15
+CRG_036,Lower Deschutes,3,2018,0,post,no,no,77,open,2018-03-15
+CRG_036,Lower Deschutes,3,2019,1,post,no,no,72,open,2019-03-15
+CRG_036,Lower Deschutes,4,2015,-3,pre,no,no,117,open,2015-04-15
+CRG_036,Lower Deschutes,4,2016,-2,pre,no,no,79,open,2016-04-15
+CRG_036,Lower Deschutes,4,2017,-1,pre,no,no,74,open,2017-04-15
+CRG_036,Lower Deschutes,4,2018,0,post,no,no,87,open,2018-04-15
+CRG_036,Lower Deschutes,4,2019,1,post,no,no,98,open,2019-04-15
+CRG_036,Lower Deschutes,5,2015,-3,pre,no,no,112,open,2015-05-15
+CRG_036,Lower Deschutes,5,2016,-2,pre,no,no,118,open,2016-05-15
+CRG_036,Lower Deschutes,5,2017,-1,pre,no,no,116,open,2017-05-15
+CRG_036,Lower Deschutes,5,2018,0,post,no,no,161,open,2018-05-15
+CRG_036,Lower Deschutes,5,2019,1,post,no,no,179,open,2019-05-15
+CRG_036,Lower Deschutes,6,2015,-3,pre,no,no,156,open,2015-06-15
+CRG_036,Lower Deschutes,6,2016,-2,pre,no,no,192,open,2016-06-15
+CRG_036,Lower Deschutes,6,2017,-1,pre,no,no,167,open,2017-06-15
+CRG_036,Lower Deschutes,6,2018,0,post,no,no,163,open,2018-06-15
+CRG_036,Lower Deschutes,6,2019,1,post,no,no,124,open,2019-06-15
+CRG_036,Lower Deschutes,7,2015,-3,pre,no,no,219,open,2015-07-15
+CRG_036,Lower Deschutes,7,2016,-2,pre,no,no,115,open,2016-07-15
+CRG_036,Lower Deschutes,7,2017,-1,pre,no,no,139,open,2017-07-15
+CRG_036,Lower Deschutes,7,2018,0,post,no,no,128,open,2018-07-15
+CRG_036,Lower Deschutes,7,2019,1,post,no,no,152,open,2019-07-15
+CRG_036,Lower Deschutes,8,2015,-3,pre,no,no,114,open,2015-08-15
+CRG_036,Lower Deschutes,8,2016,-2,pre,no,no,150,open,2016-08-15
+CRG_036,Lower Deschutes,8,2017,-1,pre,no,no,129,open,2017-08-15
+CRG_036,Lower Deschutes,8,2018,0,post,no,no,189,open,2018-08-15
+CRG_036,Lower Deschutes,8,2019,1,post,no,no,172,open,2019-08-15
+CRG_036,Lower Deschutes,9,2014,-3,pre,no,no,97,open,2014-09-15
+CRG_036,Lower Deschutes,9,2015,-2,pre,no,no,94,open,2015-09-15
+CRG_036,Lower Deschutes,9,2016,-2,pre,no,no,32,open,2016-09-15
+CRG_036,Lower Deschutes,9,2016,-1,pre,no,no,101,open,2016-09-15
+CRG_036,Lower Deschutes,9,2017,0,post,no,no,74,open,2017-09-15
+CRG_036,Lower Deschutes,9,2018,1,post,no,no,100,open,2018-09-15
+CRG_036,Lower Deschutes,10,2014,-3,pre,no,no,64,open,2014-10-15
+CRG_036,Lower Deschutes,10,2015,-2,pre,no,no,81,open,2015-10-15
+CRG_036,Lower Deschutes,10,2016,-1,pre,no,no,38,open,2016-10-15
+CRG_036,Lower Deschutes,10,2017,0,post,no,no,68,open,2017-10-15
+CRG_036,Lower Deschutes,10,2018,1,post,no,no,74,open,2018-10-15
+CRG_036,Lower Deschutes,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_036,Lower Deschutes,11,2015,-2,pre,no,no,34,open,2015-11-15
+CRG_036,Lower Deschutes,11,2016,-1,pre,no,no,35,open,2016-11-15
+CRG_036,Lower Deschutes,11,2017,0,post,no,no,38,open,2017-11-15
+CRG_036,Lower Deschutes,11,2018,1,post,no,no,57,open,2018-11-15
+CRG_036,Lower Deschutes,12,2014,-3,pre,no,no,23,open,2014-12-15
+CRG_036,Lower Deschutes,12,2015,-2,pre,no,no,23,open,2015-12-15
+CRG_036,Lower Deschutes,12,2016,-1,pre,no,no,29,open,2016-12-15
+CRG_036,Lower Deschutes,12,2017,0,post,no,no,26,open,2017-12-15
+CRG_036,Lower Deschutes,12,2018,1,post,no,no,19,open,2018-12-15
+CRG_037,Mosier Twin Tunnels Trail,1,2015,-3,pre,no,no,74,open,2015-01-15
+CRG_037,Mosier Twin Tunnels Trail,1,2016,-2,pre,no,no,40,open,2016-01-15
+CRG_037,Mosier Twin Tunnels Trail,1,2017,-1,pre,no,no,69,open,2017-01-15
+CRG_037,Mosier Twin Tunnels Trail,1,2018,0,post,no,no,41,open,2018-01-15
+CRG_037,Mosier Twin Tunnels Trail,1,2019,1,post,no,no,58,open,2019-01-15
+CRG_037,Mosier Twin Tunnels Trail,2,2015,-3,pre,no,no,105,open,2015-02-15
+CRG_037,Mosier Twin Tunnels Trail,2,2016,-2,pre,no,no,89,open,2016-02-15
+CRG_037,Mosier Twin Tunnels Trail,2,2017,-1,pre,no,no,54,open,2017-02-15
+CRG_037,Mosier Twin Tunnels Trail,2,2018,0,post,no,no,80,open,2018-02-15
+CRG_037,Mosier Twin Tunnels Trail,2,2019,1,post,no,no,65,open,2019-02-15
+CRG_037,Mosier Twin Tunnels Trail,3,2015,-3,pre,no,no,155,open,2015-03-15
+CRG_037,Mosier Twin Tunnels Trail,3,2016,-2,pre,no,no,291,open,2016-03-15
+CRG_037,Mosier Twin Tunnels Trail,3,2017,-1,pre,no,no,149,open,2017-03-15
+CRG_037,Mosier Twin Tunnels Trail,3,2018,0,post,no,no,159,open,2018-03-15
+CRG_037,Mosier Twin Tunnels Trail,3,2019,1,post,no,no,188,open,2019-03-15
+CRG_037,Mosier Twin Tunnels Trail,4,2015,-3,pre,no,no,199,open,2015-04-15
+CRG_037,Mosier Twin Tunnels Trail,4,2016,-2,pre,no,no,397,open,2016-04-15
+CRG_037,Mosier Twin Tunnels Trail,4,2017,-1,pre,no,no,322,open,2017-04-15
+CRG_037,Mosier Twin Tunnels Trail,4,2018,0,post,no,no,145,open,2018-04-15
+CRG_037,Mosier Twin Tunnels Trail,4,2019,1,post,no,no,247,open,2019-04-15
+CRG_037,Mosier Twin Tunnels Trail,5,2015,-3,pre,no,no,358,open,2015-05-15
+CRG_037,Mosier Twin Tunnels Trail,5,2016,-2,pre,no,no,395,open,2016-05-15
+CRG_037,Mosier Twin Tunnels Trail,5,2017,-1,pre,no,no,614,open,2017-05-15
+CRG_037,Mosier Twin Tunnels Trail,5,2018,0,post,no,no,316,open,2018-05-15
+CRG_037,Mosier Twin Tunnels Trail,5,2019,1,post,no,no,403,open,2019-05-15
+CRG_037,Mosier Twin Tunnels Trail,6,2015,-3,pre,no,no,314,open,2015-06-15
+CRG_037,Mosier Twin Tunnels Trail,6,2016,-2,pre,no,no,615,open,2016-06-15
+CRG_037,Mosier Twin Tunnels Trail,6,2017,-1,pre,no,no,611,open,2017-06-15
+CRG_037,Mosier Twin Tunnels Trail,6,2018,0,post,no,no,434,open,2018-06-15
+CRG_037,Mosier Twin Tunnels Trail,6,2019,1,post,no,no,375,open,2019-06-15
+CRG_037,Mosier Twin Tunnels Trail,7,2015,-3,pre,no,no,395,open,2015-07-15
+CRG_037,Mosier Twin Tunnels Trail,7,2016,-2,pre,no,no,619,open,2016-07-15
+CRG_037,Mosier Twin Tunnels Trail,7,2017,-1,pre,no,no,754,open,2017-07-15
+CRG_037,Mosier Twin Tunnels Trail,7,2018,0,post,no,no,441,open,2018-07-15
+CRG_037,Mosier Twin Tunnels Trail,7,2019,1,post,no,no,390,open,2019-07-15
+CRG_037,Mosier Twin Tunnels Trail,8,2015,-3,pre,no,no,256,open,2015-08-15
+CRG_037,Mosier Twin Tunnels Trail,8,2016,-2,pre,no,no,465,open,2016-08-15
+CRG_037,Mosier Twin Tunnels Trail,8,2017,-1,pre,no,no,299,open,2017-08-15
+CRG_037,Mosier Twin Tunnels Trail,8,2018,0,post,no,no,402,open,2018-08-15
+CRG_037,Mosier Twin Tunnels Trail,8,2019,1,post,no,no,518,open,2019-08-15
+CRG_037,Mosier Twin Tunnels Trail,9,2014,-3,pre,no,no,176,open,2014-09-15
+CRG_037,Mosier Twin Tunnels Trail,9,2015,-2,pre,no,no,228,open,2015-09-15
+CRG_037,Mosier Twin Tunnels Trail,9,2016,-2,pre,no,no,204,open,2016-09-15
+CRG_037,Mosier Twin Tunnels Trail,9,2016,-1,pre,no,no,315,open,2016-09-15
+CRG_037,Mosier Twin Tunnels Trail,9,2017,0,post,no,no,106,open,2017-09-15
+CRG_037,Mosier Twin Tunnels Trail,9,2018,1,post,no,no,201,open,2018-09-15
+CRG_037,Mosier Twin Tunnels Trail,10,2014,-3,pre,no,no,130,open,2014-10-15
+CRG_037,Mosier Twin Tunnels Trail,10,2015,-2,pre,no,no,196,open,2015-10-15
+CRG_037,Mosier Twin Tunnels Trail,10,2016,-1,pre,no,no,117,open,2016-10-15
+CRG_037,Mosier Twin Tunnels Trail,10,2017,0,post,no,no,83,open,2017-10-15
+CRG_037,Mosier Twin Tunnels Trail,10,2018,1,post,no,no,85,open,2018-10-15
+CRG_037,Mosier Twin Tunnels Trail,11,2014,-3,pre,no,no,72,open,2014-11-15
+CRG_037,Mosier Twin Tunnels Trail,11,2015,-2,pre,no,no,48,open,2015-11-15
+CRG_037,Mosier Twin Tunnels Trail,11,2016,-1,pre,no,no,153,open,2016-11-15
+CRG_037,Mosier Twin Tunnels Trail,11,2017,0,post,no,no,62,open,2017-11-15
+CRG_037,Mosier Twin Tunnels Trail,11,2018,1,post,no,no,128,open,2018-11-15
+CRG_037,Mosier Twin Tunnels Trail,12,2014,-3,pre,no,no,30,open,2014-12-15
+CRG_037,Mosier Twin Tunnels Trail,12,2015,-2,pre,no,no,55,open,2015-12-15
+CRG_037,Mosier Twin Tunnels Trail,12,2016,-1,pre,no,no,93,open,2016-12-15
+CRG_037,Mosier Twin Tunnels Trail,12,2017,0,post,no,no,25,open,2017-12-15
+CRG_037,Mosier Twin Tunnels Trail,12,2018,1,post,no,no,38,open,2018-12-15
+CRG_038,Klickitat Trail,1,2015,-3,pre,no,no,48,open,2015-01-15
+CRG_038,Klickitat Trail,1,2016,-2,pre,no,no,29,open,2016-01-15
+CRG_038,Klickitat Trail,1,2017,-1,pre,no,no,28,open,2017-01-15
+CRG_038,Klickitat Trail,1,2018,0,post,no,no,19,open,2018-01-15
+CRG_038,Klickitat Trail,1,2019,1,post,no,no,68,open,2019-01-15
+CRG_038,Klickitat Trail,2,2015,-3,pre,no,no,107,open,2015-02-15
+CRG_038,Klickitat Trail,2,2016,-2,pre,no,no,37,open,2016-02-15
+CRG_038,Klickitat Trail,2,2017,-1,pre,no,no,26,open,2017-02-15
+CRG_038,Klickitat Trail,2,2018,0,post,no,no,34,open,2018-02-15
+CRG_038,Klickitat Trail,2,2019,1,post,no,no,46,open,2019-02-15
+CRG_038,Klickitat Trail,3,2015,-3,pre,no,no,81,open,2015-03-15
+CRG_038,Klickitat Trail,3,2016,-2,pre,no,no,134,open,2016-03-15
+CRG_038,Klickitat Trail,3,2017,-1,pre,no,no,53,open,2017-03-15
+CRG_038,Klickitat Trail,3,2018,0,post,no,no,71,open,2018-03-15
+CRG_038,Klickitat Trail,3,2019,1,post,no,no,111,open,2019-03-15
+CRG_038,Klickitat Trail,4,2015,-3,pre,no,no,160,open,2015-04-15
+CRG_038,Klickitat Trail,4,2016,-2,pre,no,no,163,open,2016-04-15
+CRG_038,Klickitat Trail,4,2017,-1,pre,no,no,77,open,2017-04-15
+CRG_038,Klickitat Trail,4,2018,0,post,no,no,71,open,2018-04-15
+CRG_038,Klickitat Trail,4,2019,1,post,no,no,153,open,2019-04-15
+CRG_038,Klickitat Trail,5,2015,-3,pre,no,no,198,open,2015-05-15
+CRG_038,Klickitat Trail,5,2016,-2,pre,no,no,183,open,2016-05-15
+CRG_038,Klickitat Trail,5,2017,-1,pre,no,no,106,open,2017-05-15
+CRG_038,Klickitat Trail,5,2018,0,post,no,no,187,open,2018-05-15
+CRG_038,Klickitat Trail,5,2019,1,post,no,no,333,open,2019-05-15
+CRG_038,Klickitat Trail,6,2015,-3,pre,no,no,207,open,2015-06-15
+CRG_038,Klickitat Trail,6,2016,-2,pre,no,no,232,open,2016-06-15
+CRG_038,Klickitat Trail,6,2017,-1,pre,no,no,154,open,2017-06-15
+CRG_038,Klickitat Trail,6,2018,0,post,no,no,126,open,2018-06-15
+CRG_038,Klickitat Trail,6,2019,1,post,no,no,179,open,2019-06-15
+CRG_038,Klickitat Trail,7,2015,-3,pre,no,no,315,open,2015-07-15
+CRG_038,Klickitat Trail,7,2016,-2,pre,no,no,143,open,2016-07-15
+CRG_038,Klickitat Trail,7,2017,-1,pre,no,no,132,open,2017-07-15
+CRG_038,Klickitat Trail,7,2018,0,post,no,no,132,open,2018-07-15
+CRG_038,Klickitat Trail,7,2019,1,post,no,no,272,open,2019-07-15
+CRG_038,Klickitat Trail,8,2015,-3,pre,no,no,129,open,2015-08-15
+CRG_038,Klickitat Trail,8,2016,-2,pre,no,no,124,open,2016-08-15
+CRG_038,Klickitat Trail,8,2017,-1,pre,no,no,130,open,2017-08-15
+CRG_038,Klickitat Trail,8,2018,0,post,no,no,175,open,2018-08-15
+CRG_038,Klickitat Trail,8,2019,1,post,no,no,380,open,2019-08-15
+CRG_038,Klickitat Trail,9,2014,-3,pre,no,no,91,open,2014-09-15
+CRG_038,Klickitat Trail,9,2015,-2,pre,no,no,111,open,2015-09-15
+CRG_038,Klickitat Trail,9,2016,-2,pre,no,no,59,open,2016-09-15
+CRG_038,Klickitat Trail,9,2016,-1,pre,no,no,213,open,2016-09-15
+CRG_038,Klickitat Trail,9,2017,0,post,no,no,83,open,2017-09-15
+CRG_038,Klickitat Trail,9,2018,1,post,no,no,84,open,2018-09-15
+CRG_038,Klickitat Trail,10,2014,-3,pre,no,no,119,open,2014-10-15
+CRG_038,Klickitat Trail,10,2015,-2,pre,no,no,103,open,2015-10-15
+CRG_038,Klickitat Trail,10,2016,-1,pre,no,no,68,open,2016-10-15
+CRG_038,Klickitat Trail,10,2017,0,post,no,no,57,open,2017-10-15
+CRG_038,Klickitat Trail,10,2018,1,post,no,no,73,open,2018-10-15
+CRG_038,Klickitat Trail,11,2014,-3,pre,no,no,39,open,2014-11-15
+CRG_038,Klickitat Trail,11,2015,-2,pre,no,no,48,open,2015-11-15
+CRG_038,Klickitat Trail,11,2016,-1,pre,no,no,59,open,2016-11-15
+CRG_038,Klickitat Trail,11,2017,0,post,no,no,37,open,2017-11-15
+CRG_038,Klickitat Trail,11,2018,1,post,no,no,112,open,2018-11-15
+CRG_038,Klickitat Trail,12,2014,-3,pre,no,no,21,open,2014-12-15
+CRG_038,Klickitat Trail,12,2015,-2,pre,no,no,37,open,2015-12-15
+CRG_038,Klickitat Trail,12,2016,-1,pre,no,no,28,open,2016-12-15
+CRG_038,Klickitat Trail,12,2017,0,post,no,no,26,open,2017-12-15
+CRG_038,Klickitat Trail,12,2018,1,post,no,no,40,open,2018-12-15
+CRG_039,Starvation Creek area,1,2015,-3,pre,no,yes,34,open,2015-01-15
+CRG_039,Starvation Creek area,1,2016,-2,pre,no,yes,51,open,2016-01-15
+CRG_039,Starvation Creek area,1,2017,-1,pre,no,yes,52,open,2017-01-15
+CRG_039,Starvation Creek area,1,2018,0,post,no,yes,0,closed,2018-01-15
+CRG_039,Starvation Creek area,1,2019,1,post,no,yes,71,open,2019-01-15
+CRG_039,Starvation Creek area,2,2015,-3,pre,no,yes,91,open,2015-02-15
+CRG_039,Starvation Creek area,2,2016,-2,pre,no,yes,103,open,2016-02-15
+CRG_039,Starvation Creek area,2,2017,-1,pre,no,yes,39,open,2017-02-15
+CRG_039,Starvation Creek area,2,2018,0,post,no,yes,0,closed,2018-02-15
+CRG_039,Starvation Creek area,2,2019,1,post,no,yes,82,open,2019-02-15
+CRG_039,Starvation Creek area,3,2015,-3,pre,no,yes,54,open,2015-03-15
+CRG_039,Starvation Creek area,3,2016,-2,pre,no,yes,160,open,2016-03-15
+CRG_039,Starvation Creek area,3,2017,-1,pre,no,yes,152,open,2017-03-15
+CRG_039,Starvation Creek area,3,2018,0,post,no,yes,0,closed,2018-03-15
+CRG_039,Starvation Creek area,3,2019,1,post,no,yes,149,open,2019-03-15
+CRG_039,Starvation Creek area,4,2015,-3,pre,no,yes,132,open,2015-04-15
+CRG_039,Starvation Creek area,4,2016,-2,pre,no,yes,410,open,2016-04-15
+CRG_039,Starvation Creek area,4,2017,-1,pre,no,yes,159,open,2017-04-15
+CRG_039,Starvation Creek area,4,2018,0,post,no,yes,0,closed,2018-04-15
+CRG_039,Starvation Creek area,4,2019,1,post,no,yes,372,open,2019-04-15
+CRG_039,Starvation Creek area,5,2015,-3,pre,no,yes,385,open,2015-05-15
+CRG_039,Starvation Creek area,5,2016,-2,pre,no,yes,478,open,2016-05-15
+CRG_039,Starvation Creek area,5,2017,-1,pre,no,yes,328,open,2017-05-15
+CRG_039,Starvation Creek area,5,2018,0,post,no,yes,0,closed,2018-05-15
+CRG_039,Starvation Creek area,5,2019,1,post,no,yes,817,open,2019-05-15
+CRG_039,Starvation Creek area,6,2015,-3,pre,no,yes,359,open,2015-06-15
+CRG_039,Starvation Creek area,6,2016,-2,pre,no,yes,643,open,2016-06-15
+CRG_039,Starvation Creek area,6,2017,-1,pre,no,yes,313,open,2017-06-15
+CRG_039,Starvation Creek area,6,2018,0,post,no,yes,422,open,2018-06-15
+CRG_039,Starvation Creek area,6,2019,1,post,no,yes,542,open,2019-06-15
+CRG_039,Starvation Creek area,7,2015,-3,pre,no,yes,392,open,2015-07-15
+CRG_039,Starvation Creek area,7,2016,-2,pre,no,yes,458,open,2016-07-15
+CRG_039,Starvation Creek area,7,2017,-1,pre,no,yes,495,open,2017-07-15
+CRG_039,Starvation Creek area,7,2018,0,post,no,yes,650,open,2018-07-15
+CRG_039,Starvation Creek area,7,2019,1,post,no,yes,691,open,2019-07-15
+CRG_039,Starvation Creek area,8,2015,-3,pre,no,yes,426,open,2015-08-15
+CRG_039,Starvation Creek area,8,2016,-2,pre,no,yes,414,open,2016-08-15
+CRG_039,Starvation Creek area,8,2017,-1,pre,no,yes,432,open,2017-08-15
+CRG_039,Starvation Creek area,8,2018,0,post,no,yes,609,open,2018-08-15
+CRG_039,Starvation Creek area,8,2019,1,post,no,yes,961,open,2019-08-15
+CRG_039,Starvation Creek area,9,2014,-3,pre,no,yes,118,open,2014-09-15
+CRG_039,Starvation Creek area,9,2015,-2,pre,no,yes,233,open,2015-09-15
+CRG_039,Starvation Creek area,9,2016,-2,pre,no,yes,192,open,2016-09-15
+CRG_039,Starvation Creek area,9,2016,-1,pre,no,yes,272,open,2016-09-15
+CRG_039,Starvation Creek area,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_039,Starvation Creek area,9,2018,1,post,no,yes,243,open,2018-09-15
+CRG_039,Starvation Creek area,10,2014,-3,pre,no,yes,75,open,2014-10-15
+CRG_039,Starvation Creek area,10,2015,-2,pre,no,yes,205,open,2015-10-15
+CRG_039,Starvation Creek area,10,2016,-1,pre,no,yes,145,open,2016-10-15
+CRG_039,Starvation Creek area,10,2017,0,post,no,yes,0,closed,2017-10-15
+CRG_039,Starvation Creek area,10,2018,1,post,no,yes,238,open,2018-10-15
+CRG_039,Starvation Creek area,11,2014,-3,pre,no,yes,36,open,2014-11-15
+CRG_039,Starvation Creek area,11,2015,-2,pre,no,yes,120,open,2015-11-15
+CRG_039,Starvation Creek area,11,2016,-1,pre,no,yes,168,open,2016-11-15
+CRG_039,Starvation Creek area,11,2017,0,post,no,yes,0,closed,2017-11-15
+CRG_039,Starvation Creek area,11,2018,1,post,no,yes,138,open,2018-11-15
+CRG_039,Starvation Creek area,12,2014,-3,pre,no,yes,20,open,2014-12-15
+CRG_039,Starvation Creek area,12,2015,-2,pre,no,yes,60,open,2015-12-15
+CRG_039,Starvation Creek area,12,2016,-1,pre,no,yes,33,open,2016-12-15
+CRG_039,Starvation Creek area,12,2017,0,post,no,yes,0,closed,2017-12-15
+CRG_039,Starvation Creek area,12,2018,1,post,no,yes,41,open,2018-12-15
+CRG_042,Washougal River area,1,2015,-3,pre,no,no,55,open,2015-01-15
+CRG_042,Washougal River area,1,2016,-2,pre,no,no,67,open,2016-01-15
+CRG_042,Washougal River area,1,2017,-1,pre,no,no,83,open,2017-01-15
+CRG_042,Washougal River area,1,2018,0,post,no,no,84,open,2018-01-15
+CRG_042,Washougal River area,1,2019,1,post,no,no,143,open,2019-01-15
+CRG_042,Washougal River area,2,2015,-3,pre,no,no,64,open,2015-02-15
+CRG_042,Washougal River area,2,2016,-2,pre,no,no,117,open,2016-02-15
+CRG_042,Washougal River area,2,2017,-1,pre,no,no,158,open,2017-02-15
+CRG_042,Washougal River area,2,2018,0,post,no,no,166,open,2018-02-15
+CRG_042,Washougal River area,2,2019,1,post,no,no,109,open,2019-02-15
+CRG_042,Washougal River area,3,2015,-3,pre,no,no,78,open,2015-03-15
+CRG_042,Washougal River area,3,2016,-2,pre,no,no,263,open,2016-03-15
+CRG_042,Washougal River area,3,2017,-1,pre,no,no,174,open,2017-03-15
+CRG_042,Washougal River area,3,2018,0,post,no,no,298,open,2018-03-15
+CRG_042,Washougal River area,3,2019,1,post,no,no,208,open,2019-03-15
+CRG_042,Washougal River area,4,2015,-3,pre,no,no,244,open,2015-04-15
+CRG_042,Washougal River area,4,2016,-2,pre,no,no,561,open,2016-04-15
+CRG_042,Washougal River area,4,2017,-1,pre,no,no,301,open,2017-04-15
+CRG_042,Washougal River area,4,2018,0,post,no,no,379,open,2018-04-15
+CRG_042,Washougal River area,4,2019,1,post,no,no,282,open,2019-04-15
+CRG_042,Washougal River area,5,2015,-3,pre,no,no,384,open,2015-05-15
+CRG_042,Washougal River area,5,2016,-2,pre,no,no,957,open,2016-05-15
+CRG_042,Washougal River area,5,2017,-1,pre,no,no,1316,open,2017-05-15
+CRG_042,Washougal River area,5,2018,0,post,no,no,1246,open,2018-05-15
+CRG_042,Washougal River area,5,2019,1,post,no,no,1085,open,2019-05-15
+CRG_042,Washougal River area,6,2015,-3,pre,no,no,2187,open,2015-06-15
+CRG_042,Washougal River area,6,2016,-2,pre,no,no,2297,open,2016-06-15
+CRG_042,Washougal River area,6,2017,-1,pre,no,no,2055,open,2017-06-15
+CRG_042,Washougal River area,6,2018,0,post,no,no,1927,open,2018-06-15
+CRG_042,Washougal River area,6,2019,1,post,no,no,1128,open,2019-06-15
+CRG_042,Washougal River area,7,2015,-3,pre,no,no,2740,open,2015-07-15
+CRG_042,Washougal River area,7,2016,-2,pre,no,no,1435,open,2016-07-15
+CRG_042,Washougal River area,7,2017,-1,pre,no,no,2662,open,2017-07-15
+CRG_042,Washougal River area,7,2018,0,post,no,no,3423,open,2018-07-15
+CRG_042,Washougal River area,7,2019,1,post,no,no,1979,open,2019-07-15
+CRG_042,Washougal River area,8,2015,-3,pre,no,no,1616,open,2015-08-15
+CRG_042,Washougal River area,8,2016,-2,pre,no,no,2127,open,2016-08-15
+CRG_042,Washougal River area,8,2017,-1,pre,no,no,2407,open,2017-08-15
+CRG_042,Washougal River area,8,2018,0,post,no,no,3517,open,2018-08-15
+CRG_042,Washougal River area,8,2019,1,post,no,no,2587,open,2019-08-15
+CRG_042,Washougal River area,9,2014,-3,pre,no,no,578,open,2014-09-15
+CRG_042,Washougal River area,9,2015,-2,pre,no,no,466,open,2015-09-15
+CRG_042,Washougal River area,9,2016,-2,pre,no,no,161,open,2016-09-15
+CRG_042,Washougal River area,9,2016,-1,pre,no,no,557,open,2016-09-15
+CRG_042,Washougal River area,9,2017,0,post,no,no,477,open,2017-09-15
+CRG_042,Washougal River area,9,2018,1,post,no,no,684,open,2018-09-15
+CRG_042,Washougal River area,10,2014,-3,pre,no,no,132,open,2014-10-15
+CRG_042,Washougal River area,10,2015,-2,pre,no,no,261,open,2015-10-15
+CRG_042,Washougal River area,10,2016,-1,pre,no,no,128,open,2016-10-15
+CRG_042,Washougal River area,10,2017,0,post,no,no,345,open,2017-10-15
+CRG_042,Washougal River area,10,2018,1,post,no,no,293,open,2018-10-15
+CRG_042,Washougal River area,11,2014,-3,pre,no,no,58,open,2014-11-15
+CRG_042,Washougal River area,11,2015,-2,pre,no,no,74,open,2015-11-15
+CRG_042,Washougal River area,11,2016,-1,pre,no,no,131,open,2016-11-15
+CRG_042,Washougal River area,11,2017,0,post,no,no,188,open,2017-11-15
+CRG_042,Washougal River area,11,2018,1,post,no,no,193,open,2018-11-15
+CRG_042,Washougal River area,12,2014,-3,pre,no,no,49,open,2014-12-15
+CRG_042,Washougal River area,12,2015,-2,pre,no,no,125,open,2015-12-15
+CRG_042,Washougal River area,12,2016,-1,pre,no,no,128,open,2016-12-15
+CRG_042,Washougal River area,12,2017,0,post,no,no,143,open,2017-12-15
+CRG_042,Washougal River area,12,2018,1,post,no,no,59,open,2018-12-15
+CRG_043,Wind Mountain,1,2015,-3,pre,no,no,40,open,2015-01-15
+CRG_043,Wind Mountain,1,2016,-2,pre,no,no,57,open,2016-01-15
+CRG_043,Wind Mountain,1,2017,-1,pre,no,no,113,open,2017-01-15
+CRG_043,Wind Mountain,1,2018,0,post,no,no,152,open,2018-01-15
+CRG_043,Wind Mountain,1,2019,1,post,no,no,189,open,2019-01-15
+CRG_043,Wind Mountain,2,2015,-3,pre,no,no,64,open,2015-02-15
+CRG_043,Wind Mountain,2,2016,-2,pre,no,no,117,open,2016-02-15
+CRG_043,Wind Mountain,2,2017,-1,pre,no,no,67,open,2017-02-15
+CRG_043,Wind Mountain,2,2018,0,post,no,no,218,open,2018-02-15
+CRG_043,Wind Mountain,2,2019,1,post,no,no,104,open,2019-02-15
+CRG_043,Wind Mountain,3,2015,-3,pre,no,no,99,open,2015-03-15
+CRG_043,Wind Mountain,3,2016,-2,pre,no,no,361,open,2016-03-15
+CRG_043,Wind Mountain,3,2017,-1,pre,no,no,397,open,2017-03-15
+CRG_043,Wind Mountain,3,2018,0,post,no,no,814,open,2018-03-15
+CRG_043,Wind Mountain,3,2019,1,post,no,no,536,open,2019-03-15
+CRG_043,Wind Mountain,4,2015,-3,pre,no,no,249,open,2015-04-15
+CRG_043,Wind Mountain,4,2016,-2,pre,no,no,582,open,2016-04-15
+CRG_043,Wind Mountain,4,2017,-1,pre,no,no,629,open,2017-04-15
+CRG_043,Wind Mountain,4,2018,0,post,no,no,749,open,2018-04-15
+CRG_043,Wind Mountain,4,2019,1,post,no,no,587,open,2019-04-15
+CRG_043,Wind Mountain,5,2015,-3,pre,no,no,238,open,2015-05-15
+CRG_043,Wind Mountain,5,2016,-2,pre,no,no,579,open,2016-05-15
+CRG_043,Wind Mountain,5,2017,-1,pre,no,no,1107,open,2017-05-15
+CRG_043,Wind Mountain,5,2018,0,post,no,no,1938,open,2018-05-15
+CRG_043,Wind Mountain,5,2019,1,post,no,no,1612,open,2019-05-15
+CRG_043,Wind Mountain,6,2015,-3,pre,no,no,243,open,2015-06-15
+CRG_043,Wind Mountain,6,2016,-2,pre,no,no,686,open,2016-06-15
+CRG_043,Wind Mountain,6,2017,-1,pre,no,no,1353,open,2017-06-15
+CRG_043,Wind Mountain,6,2018,0,post,no,no,1722,open,2018-06-15
+CRG_043,Wind Mountain,6,2019,1,post,no,no,909,open,2019-06-15
+CRG_043,Wind Mountain,7,2015,-3,pre,no,no,283,open,2015-07-15
+CRG_043,Wind Mountain,7,2016,-2,pre,no,no,591,open,2016-07-15
+CRG_043,Wind Mountain,7,2017,-1,pre,no,no,1251,open,2017-07-15
+CRG_043,Wind Mountain,7,2018,0,post,no,no,1453,open,2018-07-15
+CRG_043,Wind Mountain,7,2019,1,post,no,no,892,open,2019-07-15
+CRG_043,Wind Mountain,8,2015,-3,pre,no,no,241,open,2015-08-15
+CRG_043,Wind Mountain,8,2016,-2,pre,no,no,696,open,2016-08-15
+CRG_043,Wind Mountain,8,2017,-1,pre,no,no,758,open,2017-08-15
+CRG_043,Wind Mountain,8,2018,0,post,no,no,1309,open,2018-08-15
+CRG_043,Wind Mountain,8,2019,1,post,no,no,1015,open,2019-08-15
+CRG_043,Wind Mountain,9,2014,-3,pre,no,no,116,open,2014-09-15
+CRG_043,Wind Mountain,9,2015,-2,pre,no,no,312,open,2015-09-15
+CRG_043,Wind Mountain,9,2016,-2,pre,no,no,76,open,2016-09-15
+CRG_043,Wind Mountain,9,2016,-1,pre,no,no,414,open,2016-09-15
+CRG_043,Wind Mountain,9,2017,0,post,no,no,380,open,2017-09-15
+CRG_043,Wind Mountain,9,2018,1,post,no,no,556,open,2018-09-15
+CRG_043,Wind Mountain,10,2014,-3,pre,no,no,87,open,2014-10-15
+CRG_043,Wind Mountain,10,2015,-2,pre,no,no,221,open,2015-10-15
+CRG_043,Wind Mountain,10,2016,-1,pre,no,no,143,open,2016-10-15
+CRG_043,Wind Mountain,10,2017,0,post,no,no,372,open,2017-10-15
+CRG_043,Wind Mountain,10,2018,1,post,no,no,623,open,2018-10-15
+CRG_043,Wind Mountain,11,2014,-3,pre,no,no,56,open,2014-11-15
+CRG_043,Wind Mountain,11,2015,-2,pre,no,no,109,open,2015-11-15
+CRG_043,Wind Mountain,11,2016,-1,pre,no,no,188,open,2016-11-15
+CRG_043,Wind Mountain,11,2017,0,post,no,no,257,open,2017-11-15
+CRG_043,Wind Mountain,11,2018,1,post,no,no,410,open,2018-11-15
+CRG_043,Wind Mountain,12,2014,-3,pre,no,no,28,open,2014-12-15
+CRG_043,Wind Mountain,12,2015,-2,pre,no,no,59,open,2015-12-15
+CRG_043,Wind Mountain,12,2016,-1,pre,no,no,86,open,2016-12-15
+CRG_043,Wind Mountain,12,2017,0,post,no,no,150,open,2017-12-15
+CRG_043,Wind Mountain,12,2018,1,post,no,no,102,open,2018-12-15
+CRG_044,Dog Creek Falls,1,2015,-3,pre,no,no,32,open,2015-01-15
+CRG_044,Dog Creek Falls,1,2016,-2,pre,no,no,27,open,2016-01-15
+CRG_044,Dog Creek Falls,1,2017,-1,pre,no,no,47,open,2017-01-15
+CRG_044,Dog Creek Falls,1,2018,0,post,no,no,25,open,2018-01-15
+CRG_044,Dog Creek Falls,1,2019,1,post,no,no,58,open,2019-01-15
+CRG_044,Dog Creek Falls,2,2015,-3,pre,no,no,44,open,2015-02-15
+CRG_044,Dog Creek Falls,2,2016,-2,pre,no,no,47,open,2016-02-15
+CRG_044,Dog Creek Falls,2,2017,-1,pre,no,no,63,open,2017-02-15
+CRG_044,Dog Creek Falls,2,2018,0,post,no,no,62,open,2018-02-15
+CRG_044,Dog Creek Falls,2,2019,1,post,no,no,56,open,2019-02-15
+CRG_044,Dog Creek Falls,3,2015,-3,pre,no,no,50,open,2015-03-15
+CRG_044,Dog Creek Falls,3,2016,-2,pre,no,no,100,open,2016-03-15
+CRG_044,Dog Creek Falls,3,2017,-1,pre,no,no,93,open,2017-03-15
+CRG_044,Dog Creek Falls,3,2018,0,post,no,no,159,open,2018-03-15
+CRG_044,Dog Creek Falls,3,2019,1,post,no,no,88,open,2019-03-15
+CRG_044,Dog Creek Falls,4,2015,-3,pre,no,no,117,open,2015-04-15
+CRG_044,Dog Creek Falls,4,2016,-2,pre,no,no,205,open,2016-04-15
+CRG_044,Dog Creek Falls,4,2017,-1,pre,no,no,111,open,2017-04-15
+CRG_044,Dog Creek Falls,4,2018,0,post,no,no,210,open,2018-04-15
+CRG_044,Dog Creek Falls,4,2019,1,post,no,no,134,open,2019-04-15
+CRG_044,Dog Creek Falls,5,2015,-3,pre,no,no,151,open,2015-05-15
+CRG_044,Dog Creek Falls,5,2016,-2,pre,no,no,174,open,2016-05-15
+CRG_044,Dog Creek Falls,5,2017,-1,pre,no,no,222,open,2017-05-15
+CRG_044,Dog Creek Falls,5,2018,0,post,no,no,318,open,2018-05-15
+CRG_044,Dog Creek Falls,5,2019,1,post,no,no,199,open,2019-05-15
+CRG_044,Dog Creek Falls,6,2015,-3,pre,no,no,153,open,2015-06-15
+CRG_044,Dog Creek Falls,6,2016,-2,pre,no,no,192,open,2016-06-15
+CRG_044,Dog Creek Falls,6,2017,-1,pre,no,no,314,open,2017-06-15
+CRG_044,Dog Creek Falls,6,2018,0,post,no,no,254,open,2018-06-15
+CRG_044,Dog Creek Falls,6,2019,1,post,no,no,206,open,2019-06-15
+CRG_044,Dog Creek Falls,7,2015,-3,pre,no,no,348,open,2015-07-15
+CRG_044,Dog Creek Falls,7,2016,-2,pre,no,no,238,open,2016-07-15
+CRG_044,Dog Creek Falls,7,2017,-1,pre,no,no,234,open,2017-07-15
+CRG_044,Dog Creek Falls,7,2018,0,post,no,no,333,open,2018-07-15
+CRG_044,Dog Creek Falls,7,2019,1,post,no,no,278,open,2019-07-15
+CRG_044,Dog Creek Falls,8,2015,-3,pre,no,no,126,open,2015-08-15
+CRG_044,Dog Creek Falls,8,2016,-2,pre,no,no,375,open,2016-08-15
+CRG_044,Dog Creek Falls,8,2017,-1,pre,no,no,192,open,2017-08-15
+CRG_044,Dog Creek Falls,8,2018,0,post,no,no,398,open,2018-08-15
+CRG_044,Dog Creek Falls,8,2019,1,post,no,no,332,open,2019-08-15
+CRG_044,Dog Creek Falls,9,2014,-3,pre,no,no,95,open,2014-09-15
+CRG_044,Dog Creek Falls,9,2015,-2,pre,no,no,106,open,2015-09-15
+CRG_044,Dog Creek Falls,9,2016,-2,pre,no,no,27,open,2016-09-15
+CRG_044,Dog Creek Falls,9,2016,-1,pre,no,no,117,open,2016-09-15
+CRG_044,Dog Creek Falls,9,2017,0,post,no,no,124,open,2017-09-15
+CRG_044,Dog Creek Falls,9,2018,1,post,no,no,139,open,2018-09-15
+CRG_044,Dog Creek Falls,10,2014,-3,pre,no,no,65,open,2014-10-15
+CRG_044,Dog Creek Falls,10,2015,-2,pre,no,no,82,open,2015-10-15
+CRG_044,Dog Creek Falls,10,2016,-1,pre,no,no,72,open,2016-10-15
+CRG_044,Dog Creek Falls,10,2017,0,post,no,no,104,open,2017-10-15
+CRG_044,Dog Creek Falls,10,2018,1,post,no,no,121,open,2018-10-15
+CRG_044,Dog Creek Falls,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_044,Dog Creek Falls,11,2015,-2,pre,no,no,38,open,2015-11-15
+CRG_044,Dog Creek Falls,11,2016,-1,pre,no,no,46,open,2016-11-15
+CRG_044,Dog Creek Falls,11,2017,0,post,no,no,53,open,2017-11-15
+CRG_044,Dog Creek Falls,11,2018,1,post,no,no,91,open,2018-11-15
+CRG_044,Dog Creek Falls,12,2014,-3,pre,no,no,19,open,2014-12-15
+CRG_044,Dog Creek Falls,12,2015,-2,pre,no,no,35,open,2015-12-15
+CRG_044,Dog Creek Falls,12,2016,-1,pre,no,no,54,open,2016-12-15
+CRG_044,Dog Creek Falls,12,2017,0,post,no,no,26,open,2017-12-15
+CRG_044,Dog Creek Falls,12,2018,1,post,no,no,24,open,2018-12-15
+CRG_045,Spirit falls,1,2015,-3,pre,no,no,28,open,2015-01-15
+CRG_045,Spirit falls,1,2016,-2,pre,no,no,55,open,2016-01-15
+CRG_045,Spirit falls,1,2017,-1,pre,no,no,31,open,2017-01-15
+CRG_045,Spirit falls,1,2018,0,post,no,no,145,open,2018-01-15
+CRG_045,Spirit falls,1,2019,1,post,no,no,173,open,2019-01-15
+CRG_045,Spirit falls,2,2015,-3,pre,no,no,42,open,2015-02-15
+CRG_045,Spirit falls,2,2016,-2,pre,no,no,76,open,2016-02-15
+CRG_045,Spirit falls,2,2017,-1,pre,no,no,29,open,2017-02-15
+CRG_045,Spirit falls,2,2018,0,post,no,no,258,open,2018-02-15
+CRG_045,Spirit falls,2,2019,1,post,no,no,167,open,2019-02-15
+CRG_045,Spirit falls,3,2015,-3,pre,no,no,72,open,2015-03-15
+CRG_045,Spirit falls,3,2016,-2,pre,no,no,188,open,2016-03-15
+CRG_045,Spirit falls,3,2017,-1,pre,no,no,49,open,2017-03-15
+CRG_045,Spirit falls,3,2018,0,post,no,no,612,open,2018-03-15
+CRG_045,Spirit falls,3,2019,1,post,no,no,300,open,2019-03-15
+CRG_045,Spirit falls,4,2015,-3,pre,no,no,208,open,2015-04-15
+CRG_045,Spirit falls,4,2016,-2,pre,no,no,264,open,2016-04-15
+CRG_045,Spirit falls,4,2017,-1,pre,no,no,84,open,2017-04-15
+CRG_045,Spirit falls,4,2018,0,post,no,no,528,open,2018-04-15
+CRG_045,Spirit falls,4,2019,1,post,no,no,517,open,2019-04-15
+CRG_045,Spirit falls,5,2015,-3,pre,no,no,111,open,2015-05-15
+CRG_045,Spirit falls,5,2016,-2,pre,no,no,295,open,2016-05-15
+CRG_045,Spirit falls,5,2017,-1,pre,no,no,537,open,2017-05-15
+CRG_045,Spirit falls,5,2018,0,post,no,no,1428,open,2018-05-15
+CRG_045,Spirit falls,5,2019,1,post,no,no,1109,open,2019-05-15
+CRG_045,Spirit falls,6,2015,-3,pre,no,no,153,open,2015-06-15
+CRG_045,Spirit falls,6,2016,-2,pre,no,no,525,open,2016-06-15
+CRG_045,Spirit falls,6,2017,-1,pre,no,no,957,open,2017-06-15
+CRG_045,Spirit falls,6,2018,0,post,no,no,724,open,2018-06-15
+CRG_045,Spirit falls,6,2019,1,post,no,no,691,open,2019-06-15
+CRG_045,Spirit falls,7,2015,-3,pre,no,no,292,open,2015-07-15
+CRG_045,Spirit falls,7,2016,-2,pre,no,no,457,open,2016-07-15
+CRG_045,Spirit falls,7,2017,-1,pre,no,no,580,open,2017-07-15
+CRG_045,Spirit falls,7,2018,0,post,no,no,835,open,2018-07-15
+CRG_045,Spirit falls,7,2019,1,post,no,no,1198,open,2019-07-15
+CRG_045,Spirit falls,8,2015,-3,pre,no,no,212,open,2015-08-15
+CRG_045,Spirit falls,8,2016,-2,pre,no,no,292,open,2016-08-15
+CRG_045,Spirit falls,8,2017,-1,pre,no,no,624,open,2017-08-15
+CRG_045,Spirit falls,8,2018,0,post,no,no,918,open,2018-08-15
+CRG_045,Spirit falls,8,2019,1,post,no,no,964,open,2019-08-15
+CRG_045,Spirit falls,9,2014,-3,pre,no,no,95,open,2014-09-15
+CRG_045,Spirit falls,9,2015,-2,pre,no,no,111,open,2015-09-15
+CRG_045,Spirit falls,9,2016,-2,pre,no,no,44,open,2016-09-15
+CRG_045,Spirit falls,9,2016,-1,pre,no,no,156,open,2016-09-15
+CRG_045,Spirit falls,9,2017,0,post,no,no,192,open,2017-09-15
+CRG_045,Spirit falls,9,2018,1,post,no,no,320,open,2018-09-15
+CRG_045,Spirit falls,10,2014,-3,pre,no,no,65,open,2014-10-15
+CRG_045,Spirit falls,10,2015,-2,pre,no,no,127,open,2015-10-15
+CRG_045,Spirit falls,10,2016,-1,pre,no,no,166,open,2016-10-15
+CRG_045,Spirit falls,10,2017,0,post,no,no,206,open,2017-10-15
+CRG_045,Spirit falls,10,2018,1,post,no,no,298,open,2018-10-15
+CRG_045,Spirit falls,11,2014,-3,pre,no,no,36,open,2014-11-15
+CRG_045,Spirit falls,11,2015,-2,pre,no,no,55,open,2015-11-15
+CRG_045,Spirit falls,11,2016,-1,pre,no,no,99,open,2016-11-15
+CRG_045,Spirit falls,11,2017,0,post,no,no,201,open,2017-11-15
+CRG_045,Spirit falls,11,2018,1,post,no,no,195,open,2018-11-15
+CRG_045,Spirit falls,12,2014,-3,pre,no,no,21,open,2014-12-15
+CRG_045,Spirit falls,12,2015,-2,pre,no,no,73,open,2015-12-15
+CRG_045,Spirit falls,12,2016,-1,pre,no,no,57,open,2016-12-15
+CRG_045,Spirit falls,12,2017,0,post,no,no,134,open,2017-12-15
+CRG_045,Spirit falls,12,2018,1,post,no,no,62,open,2018-12-15
+CRG_046,Larch Mountain,1,2015,-3,pre,no,yes,72,open,2015-01-15
+CRG_046,Larch Mountain,1,2016,-2,pre,no,yes,106,open,2016-01-15
+CRG_046,Larch Mountain,1,2017,-1,pre,no,yes,69,open,2017-01-15
+CRG_046,Larch Mountain,1,2018,0,post,no,yes,0,closed,2018-01-15
+CRG_046,Larch Mountain,1,2019,1,post,no,yes,326,open,2019-01-15
+CRG_046,Larch Mountain,2,2015,-3,pre,no,yes,97,open,2015-02-15
+CRG_046,Larch Mountain,2,2016,-2,pre,no,yes,167,open,2016-02-15
+CRG_046,Larch Mountain,2,2017,-1,pre,no,yes,73,open,2017-02-15
+CRG_046,Larch Mountain,2,2018,0,post,no,yes,0,closed,2018-02-15
+CRG_046,Larch Mountain,2,2019,1,post,no,yes,182,open,2019-02-15
+CRG_046,Larch Mountain,3,2015,-3,pre,no,yes,115,open,2015-03-15
+CRG_046,Larch Mountain,3,2016,-2,pre,no,yes,527,open,2016-03-15
+CRG_046,Larch Mountain,3,2017,-1,pre,no,yes,168,open,2017-03-15
+CRG_046,Larch Mountain,3,2018,0,post,no,yes,0,closed,2018-03-15
+CRG_046,Larch Mountain,3,2019,1,post,no,yes,455,open,2019-03-15
+CRG_046,Larch Mountain,4,2015,-3,pre,no,yes,208,open,2015-04-15
+CRG_046,Larch Mountain,4,2016,-2,pre,no,yes,754,open,2016-04-15
+CRG_046,Larch Mountain,4,2017,-1,pre,no,yes,338,open,2017-04-15
+CRG_046,Larch Mountain,4,2018,0,post,no,yes,0,closed,2018-04-15
+CRG_046,Larch Mountain,4,2019,1,post,no,yes,285,open,2019-04-15
+CRG_046,Larch Mountain,5,2015,-3,pre,no,yes,443,open,2015-05-15
+CRG_046,Larch Mountain,5,2016,-2,pre,no,yes,1054,open,2016-05-15
+CRG_046,Larch Mountain,5,2017,-1,pre,no,yes,791,open,2017-05-15
+CRG_046,Larch Mountain,5,2018,0,post,no,yes,0,closed,2018-05-15
+CRG_046,Larch Mountain,5,2019,1,post,no,yes,452,open,2019-05-15
+CRG_046,Larch Mountain,6,2015,-3,pre,no,yes,824,open,2015-06-15
+CRG_046,Larch Mountain,6,2016,-2,pre,no,yes,1313,open,2016-06-15
+CRG_046,Larch Mountain,6,2017,-1,pre,no,yes,1122,open,2017-06-15
+CRG_046,Larch Mountain,6,2018,0,post,no,yes,0,closed,2018-06-15
+CRG_046,Larch Mountain,6,2019,1,post,no,yes,1023,open,2019-06-15
+CRG_046,Larch Mountain,7,2015,-3,pre,no,yes,736,open,2015-07-15
+CRG_046,Larch Mountain,7,2016,-2,pre,no,yes,1493,open,2016-07-15
+CRG_046,Larch Mountain,7,2017,-1,pre,no,yes,1123,open,2017-07-15
+CRG_046,Larch Mountain,7,2018,0,post,no,yes,0,closed,2018-07-15
+CRG_046,Larch Mountain,7,2019,1,post,no,yes,1399,open,2019-07-15
+CRG_046,Larch Mountain,8,2015,-3,pre,no,yes,648,open,2015-08-15
+CRG_046,Larch Mountain,8,2016,-2,pre,no,yes,1158,open,2016-08-15
+CRG_046,Larch Mountain,8,2017,-1,pre,no,yes,924,open,2017-08-15
+CRG_046,Larch Mountain,8,2018,0,post,no,yes,0,closed,2018-08-15
+CRG_046,Larch Mountain,8,2019,1,post,no,yes,2282,open,2019-08-15
+CRG_046,Larch Mountain,9,2014,-3,pre,no,yes,320,open,2014-09-15
+CRG_046,Larch Mountain,9,2015,-2,pre,no,yes,614,open,2015-09-15
+CRG_046,Larch Mountain,9,2016,-2,pre,no,yes,244,open,2016-09-15
+CRG_046,Larch Mountain,9,2016,-1,pre,no,yes,1006,open,2016-09-15
+CRG_046,Larch Mountain,9,2017,0,post,no,yes,0,closed,2017-09-15
+CRG_046,Larch Mountain,9,2018,1,post,no,yes,0,closed,2018-09-15
+CRG_046,Larch Mountain,10,2014,-3,pre,no,yes,140,open,2014-10-15
+CRG_046,Larch Mountain,10,2015,-2,pre,no,yes,366,open,2015-10-15
+CRG_046,Larch Mountain,10,2016,-1,pre,no,yes,234,open,2016-10-15
+CRG_046,Larch Mountain,10,2017,0,post,no,yes,0,closed,2017-10-15
+CRG_046,Larch Mountain,10,2018,1,post,no,yes,0,closed,2018-10-15
+CRG_046,Larch Mountain,11,2014,-3,pre,no,yes,47,open,2014-11-15
+CRG_046,Larch Mountain,11,2015,-2,pre,no,yes,176,open,2015-11-15
+CRG_046,Larch Mountain,11,2016,-1,pre,no,yes,197,open,2016-11-15
+CRG_046,Larch Mountain,11,2017,0,post,no,yes,0,closed,2017-11-15
+CRG_046,Larch Mountain,11,2018,1,post,no,yes,22,closed,2018-11-15
+CRG_046,Larch Mountain,12,2014,-3,pre,no,yes,43,open,2014-12-15
+CRG_046,Larch Mountain,12,2015,-2,pre,no,yes,81,open,2015-12-15
+CRG_046,Larch Mountain,12,2016,-1,pre,no,yes,128,open,2016-12-15
+CRG_046,Larch Mountain,12,2017,0,post,no,yes,0,closed,2017-12-15
+CRG_046,Larch Mountain,12,2018,1,post,no,yes,155,open,2018-12-15

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Uncomment if you want your page to NOT be indexed by search engines: -->
+  <!-- <meta name="robots" content="none"> -->
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+
+  <script type="text/javascript" src="geomap-vis.js"></script>
+  <script type="text/javascript" src="geomap-model.js"></script>
+  <script type="text/javascript" src="all-trail-pop.js"></script>
+  <script type="text/javascript" src="heatmap.js"></script>
+  <script type="text/javascript" src="reopening-timeline.js"></script>
+  <script type="text/javascript" src="popular-trails-pre-fire.js"></script>
+
+  <link rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  <title>Sparks & Rec</title>
+
+  <!-- Uncomment if using d3: -->
+  <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+</head>
+
+<body>
+  <main>
+    <h2>Sparks & Rec: The Eagle Creek Fire's Effect on Outdoor Recreation</h2>
+
+    <p>
+      By Megan Ebers, Elizabeth Pelletier, Dominick Ta, Brett Wortzman 
+    </p>
+    <p>
+      June 7th, 2022
+    </p> 
+
+    <p> <br /> </p>
+
+    <img width="800" src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd1002327.jpg" alt="alternatetext"> 
+    <p></p>
+    <a href="https://www.fs.usda.gov/crgnsa" target="_blank"><i>Columbia River Gorge National Scenic Area</i></a>
+    <i>(U.S. Forest Service)</i>
+    <p> <br /> </p>
+
+    <p>
+      The Columbia River Gorge is a popular recreation area bordering Oregon and Washington state along the banks of the Columbia. The river winds east from Portland through the Cascades, flanked by Mount Hood to the South and Mount Saint Helens and Mount Adams to the north. In the peak summer months of 2017, over 3,800 people a day, on average, hiked the trails in the region. 
+    </p>
+
+    <p> <br /> </p>
+
+    <p>
+      On September 2nd, 2017, a 15-year-old boy lit a firework and threw it into the Eagle Creek Canyon, igniting a destructive wildfire that would last 3 months. By the time the fire was fully contained, in November 2017, approximately 50,000 acres across the Columbia River Gorge region had burned. The fire burned several public trails and resulted in trail closures that would dramatically reshape recreation in the region.
+    </p>  
+
+    <p> <br /> </p>
+
+    <img width="800" src="https://www.oregonlive.com/resizer/3dBVyVBK3nUIEDMQDfCd7vDwkcc=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.oregonlive.com/home/olive-media/width2048/img/wildfires/photo/23863653-standard.jpg" alt="alternatetext"> 
+    <p><i>
+      Eagle Creek Fire, September 4, 2017 (Tristan Fortsch/KATU-TV via AP)
+    </i></p>
+
+    <p> <br /> </p>
+
+    <p>
+      The extent of the active fire in September can be seen in the map below.
+    </p>   
+
+    <p> <br /> </p>
+
+    <img width="800" src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd600996.jpeg" alt="alternatetext"> 
+    <p><i>
+    Eagle Creek Fire Progression (U.S. Forest Service)
+  </i></p>
+
+  <p> <br /> </p>
+
+  <p> 
+    We are a team of University of Washington students working with the Outdoor Recreation & Data Lab (<a href="https://www.outdoorrd.org/" target="_blank" style="text-decoration: none">OutdoorRD</a>) at UW to answer their questions about how the Eagle Creek Fire has affected recreation in the region. OutdoorRD provided us with a dataset documenting monthly estimates of trail visits across time and across the region. We leveraged these data to explore what happened to recreation in the region after the Eagle Creek Fire.
+  </p>
+
+  <h3> Recreation before the fire</h3>
+  <p> <br /> </p>
+  <p> 
+    The Columbia River Gorge's public trails boast thundering waterfalls, vibrant wildflowers, and towering cliffs, enticing many visitors to experience the beauty of the Pacific Northwest. In fact, recreation in the Gorge was steadily increasing each year before the Eagle Creek Fire. While the fire did impact overall visitation in the year following, visitors are returning to the Gorge.
+  </p>
+
+  <p> <br /> </p>
+
+  <div width="1000" id="total_vis"></div>
+  <script>
+    const spec = "total-vis.js";
+    vegaEmbed("#total_vis", spec)
+      // result.view provides access to the Vega View API
+      .then(result => console.log(result))
+      .catch(console.warn);
+  </script>
+
+  <p> <br /> </p>
+
+  <p> 
+    Looking at visitation data from the years before the fire, we can see that out of the 8 trails that were burned, 4 of them were in the top 10 most popular trails. In fact, Eagle Creek, Oneonta Gorge, and Munra Falls were consistently among the top 3 most visited trails in the years before the fire.
+  </p>
+  <p> <br /> </p>
+
+  <div id="popular-pre-fire"></div>
+  <script>
+    vegaEmbed("#popular-pre-fire", popular_trails_prefire_spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+
+  <p> <br /> </p>
+
+  <h3>Which trails were closed?</h3>
+
+  <p> <br /> </p>
+  
+  <p> 
+    A total of 16 trails in the region were closed at some point by the U.S. Forest Service. The graph below shows trail closure status in the months following the fire. Hover over the grid to see whether a trail was burned and visit counts (if open).  These trails were closed due to being burned or for investigation purposes even if they weren’t burned. All trails that weren’t burned were eventually deemed safe for the public and reopened either 1 month, 9 months, or 15 months after the fire. However, the 8 trails that were burned were not reopened within the timeframe of this dataset.
+  </p>
+
+  <p> <br /> </p>
+
+  <div id="reopening"></div>
+  <script>
+    vegaEmbed("#reopening", reopening_spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+
+  <h3>How did the fire impact trail usage?</h3>
+  <p> <br /> </p>
+  <p> 
+    With the closing of such popular trails, some important questions come to mind: Where didthe hikers who frequent these trails go? Did they stop hiking in the region, or did they migrate to other trails? We created this visualization below so that you can attempt to answer these questions yourself!
+  </p>
+
+  <p> <br /> </p>
+
+  <div id="geomap"></div>
+  <script>
+    vegaEmbed("#geomap", geomap_spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+
+  <p> <br /> </p>
+
+  <p>
+    While visitation tends to follow similar trends across trails, no two trails are exactly alike. These heatmaps show which trails lost visitors and which trails gained visitors after the fire. Some trails are popular at different times of year, and some have become more or less popular over time.
+  </p>
+
+  <p> <br /> </p>
+
+  <p>
+    Try to find out which trails lost visitors and which trails gained visitors!
+  </p>
+  <ul class="customIndent">
+    <li>
+      Click one of the heatmaps to inspect closer and get a bigger view.
+    </li>
+    <li>
+      The month of the Eagle Creek Fire is highlighted with an orange box in each of the heatmaps.
+    </li>
+  </ul>
+
+  <p> <br /> </p>
+
+  <div id="heatmap"></div>
+  <script>
+    vegaEmbed("#heatmap", heatmap_spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+  <p> <br /> </p>
+
+  <p> 
+    Upon further exploration, we found evidence that the public's desire to visit trails was definitely not burned out by the Eagle Creek Fire's closing of popular trails! See for yourself. In this 'race of trails', we can see how trails that used to not be so popular have become the most popular and gained significantly more visitors in the months following the fire.
+  </p>
+  <p> <br /> </p>
+  <iframe width="1000" height="800" frameborder="0"
+  src="https://observablehq.com/embed/@mebers/bar-chart-race-explained?cells=viewof+keyframe%2Ctitle%2Cchart"></iframe>  
+
+  <p> <br /> </p>
+  <p>
+    The charts below give us a static look into the most popular trails at various snapshots in the years prior to and following the fire. We saw that trails like Beacon Rock, Dog Mountain, Latourell Falls, and Angels Rest Trail that weren't burned experienced a heavy uptick in visitors in the seasons following the Eagle Creek Fire. 
+  </p>
+  <p> <br /> </p>  
+
+  <div id="vis4"></div>
+  <script>
+    vegaEmbed("#vis4", trail_pop_spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+  <p> <br /> </p>
+
+  <p>
+    One way to think about the impact of the fire on trail visits is to compare what visits were after the fire to what they would have been had pre-fire trends continued. We estimated a statistical model, fit on pre-fire data, that takes into account seasonal trends and weather data to predict what post-fire visits would have been at each trail had the fire not occurred. The graph below shows the difference between the actual post-fire visits and this baseline estimate, illustrating how much post-fire visits diverged from each trail's pre-fire visit patterns.
+  </p>
+  <p> <br /> </p>
+
+  <div id="geomap_model"></div>
+  <script>
+    vegaEmbed("#geomap_model", geomap_model_spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+
+  <p> <br /> </p>
+
+  <p>
+    The Eagle Creek Fire dramatically changed outdoor recreation in the Columbia River Gorge. Due to the burning of several public trails and subsequent closures of the surrounding area, visitors had to find new trails in the Gorge to explore. While a story of resilience is emerging and affected trails are slowly welcoming back visitors, outdoor recreation in the Columbia River Gorge is still feeling the lasting effects of the Eagle Creek Fire.
+  </p>
+
+  <p> <br /> </p>
+  <p> <br /> </p>
+
+    <footer>
+      <p>
+        <a href="https://courses.cs.washington.edu/courses/cse512/22sp/">CSE 512 Data Visualization</a>
+        <br>
+        <a href="http://www.washington.edu">University of Washington</a>
+      </p>
+    </footer>
+  </main>
+  <script src="main.js"></script>
+</body>
+
+</html>
